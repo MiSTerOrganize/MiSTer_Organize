@@ -1,3 +1,0 @@
-RomVault Instructions:
-
-Place the MiSTer_Console DAT in DatRoot folder. Place your ROMs in ToSort folder. Open the RomVault application. Click Update DATs, click Scan ROMs, click Find Fixes, click Fix ROMs. Look in RomRoot folder for your sorted ROMs. Click Generate Reports to make a Fix DAT of your missing files.
