@@ -3,17 +3,6 @@ Welcome to my project called MiSTer Organize. I'm providing you a custom MiSTer_
 
 This project uses RomVault to manage your ROMs. If you have no experience with RomVault, I have provided a basic RomVault setup for you to use. The project sources are in a Notepad text document with the most recent date at top. You can view all the folders and files for the project in the provided snapshot HTML file. It also has a built-in search functionality. This is nice to have if you are on the go and want to browse your game collection.
 
-# MiSTer Organize Updater
-This database can be integrated in MiSTer FPGA by just editing the `downloader.ini` file at the root of the SD.
-
-# How to Integrate MiSTer Organize into MiSTer Downloader:
-To integrate it in a MiSTer device, add the following section to the end of to the file `downloader.ini` that should be placed at the root of the SD (if it doesn't exist, you may create it for this purpose):
-```ini
-[MiSTerOrganize/MiSTerOrganize]
-db_url = https://raw.githubusercontent.com/MiSTerOrganize/MiSTerOrganize/db/db.json.zip
-```
-After that, run *downloader* or *update_all* as usual. It will try to fetch the files from your newly created database.
-
 # What is a DAT?
 Short for "data files", they're called DATs or DAT files because they usually have the extension .dat. They contain a catalog of titles and attributes for each of its titles, including file names, hashes, and sizes.
 
