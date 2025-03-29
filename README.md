@@ -60,3 +60,5 @@ Roman Scherzer creator of CLRMAMEPro.
 Unexpectedpanda creator of Retool.
 
 Asphodel creator of Universal ROM Sorter.
+
+GamaBurst for his contributions to the project.
