@@ -3,6 +3,8 @@ Welcome to my project called MiSTer Organize. I'm providing you a custom MiSTer_
 
 This project uses RomVault to manage your ROMs. If you have no experience with RomVault, I have provided a basic RomVault setup for you to use. The project sources are in a text document with the most recent date at top. You can view all the folders and files for the project in the provided snapshot HTML file. It also has a built-in search functionality. This is nice to have if you are on the go and want to browse your game collection.
 
+WARNING: Never move your ROM files into the RomVault ToSort folder, always use a copy. I am not responsible for the loss of files if this strongly suggested rule has not been respected.
+
 # What is a DAT?
 Short for "data files", they're called DATs or DAT files because they usually have the extension .dat. They contain a catalog of titles and attributes for each of its titles, including file names, hashes, and sizes.
 
