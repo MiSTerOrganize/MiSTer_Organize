@@ -1,7 +1,7 @@
 # MiSTer Organize
 Welcome to my project called MiSTer Organize. I'm providing you a custom MiSTer_Console DAT each month. The goal of this project is to make MiSTer as easy to use as possible. Is your MiSTer SD or external drive a disorganized mess with files all over the place? Can't find the game you're looking for to play? The MiSTer_Console DAT contains A-Z folders to sort your games alphabetically for easy use. Put an end to the nightmare of messy file structures and games not working. Try MiSTer Organize and notice the improved difference in your MiSTer setup.
 
-This project uses RomVault to manage your ROMs. If you have no experience with RomVault, I have provided a basic RomVault setup for you to use. The project sources are in a text document with the most recent date at top. You can view all the folders and files for the project in the provided snapshot HTML file. It also has a built-in search functionality. This is nice to have if you are on the go and want to browse your game collection.
+This project uses RomVault to manage your ROMs. If you have no experience with RomVault, I have provided a basic RomVault setup for you to use. The project sources are in a text document with the most recent date at top.
 
 WARNING: Never move your ROM files into the RomVault ToSort folder, always use a copy. I am not responsible for the loss of files if this strongly suggested rule has not been respected.
 
