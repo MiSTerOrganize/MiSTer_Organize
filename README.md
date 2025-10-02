@@ -64,3 +64,5 @@ Unexpectedpanda creator of Retool.
 Asphodel creator of Universal ROM Sorter.
 
 GamaBurst for assistance and contributions to the project.
+
+TeamC for assistance and contributions to the project.
