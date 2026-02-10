@@ -47,6 +47,8 @@ Lu's Retro Source for providing news about the MiSTer FPGA project.
 
 Pixel Cherry Ninja for providing news about the MiSTer FPGA project.
 
+Bob founder of RetroRGB for providing news about the retro-gaming community.
+
 No-Intro for its database of best available ROMs and digital games.
 
 Redump for its disc preservation database.
@@ -61,8 +63,16 @@ Roman Scherzer creator of CLRMAMEPro.
 
 Unexpectedpanda creator of Retool.
 
+Matt Nadareski creator of SabreTools.
+
 Asphodel creator of Universal ROM Sorter.
 
 GamaBurst for assistance and contributions to the project.
 
 TeamC for assistance and contributions to the project.
+
+^c|0ud^ for assistance and contributions to the project.
+
+RetroNAS Team for adding MiSTer Organize support.
+
+Big thank you to all my Patreon supporters! Your support is sincerely appreciated!
