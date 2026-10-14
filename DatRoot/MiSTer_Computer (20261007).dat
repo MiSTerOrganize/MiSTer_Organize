@@ -6,7 +6,7 @@
 		<name>MiSTer_Computer</name>
 		<description>MiSTer_Computer</description>
 		<category>Standard DatFile</category>
-		<version>20260707</version>
+		<version>20261007</version>
 		<date>-insert date-</date>
 		<author>MiSTer Organize</author>
 		<email>misterorganize@gmail.com</email>
@@ -17,6 +17,7 @@
 	</header>
 	<machine name="MiSTer_Computer">
 		<description>MiSTer_Computer</description>
+		<rom name="games\ABC80\boot.rom" size="20736" crc="932e49a4" md5="0d7c500e18f526471196b04301e13834" sha1="bdc464ef7edcddf0ceb2b79f9bbae09a434ab824" />
 		<rom name="games\Amiga500\1.2.rom" size="262144" crc="a6ce1636" md5="85ad74194e87c08904327de1a9443b7a" sha1="11f9e62cf299f72184835b7b2a70a16333fc0d88" />
 		<rom name="games\Amiga500\1.3.rom" size="262144" crc="c4f0f55f" md5="82a21c1890cae844b3df741f2762d48d" sha1="891e9a547772fe0c6c19b610baf8bc4ea7fcb785" />
 		<rom name="games\Amiga500\2.04.rom" size="524288" crc="c3bdb240" md5="dc10d7bdd1b6f450773dfb558477c230" sha1="c5839f5cb98a7a8947065c3ed2f14f5f42e334a1" />
@@ -230,7 +231,9 @@
 		<disk name="games\AmigaCD32\cd\Worms (1995).chd" sha1="2135c40dadfa85b7b6ea7c71e7f93babbaf6fc80"/>
 		<disk name="games\AmigaCD32\cd\Zool (1993).chd" sha1="87128d563ccfa8c98d55712f1bf8ae28f21537b8"/>
 		<disk name="games\AmigaCD32\cd\Zool 2 (1994).chd" sha1="d8389e41dd4c73a32ed71dd6070433815b80da71"/>
-		<rom name="games\AO486\boot0.rom" size="65536" crc="479360fa" md5="1f0a4c24e25ed1cd40b3f1731ebe99ae" sha1="fcaac6031a5497829f8fbca0913886e0bdfad8ef" />
+		<rom name="games\Amstrad\boot.rom" size="163840" crc="1ccec0d2" md5="5b3390c93f0d281e48310be99ec9fab5" sha1="3fdbcd9a6e19ffad9778ec0e64c93c4f0b74250a" />
+		<rom name="games\Amstrad\cpc464nd.eZ0" size="147456" crc="83934657" md5="ef87c68bd919e992bd53a1afd059092e" sha1="1adea617296c81b59d635562e6ee2a17c4067c7c" />
+		<rom name="games\AO486\boot0.rom" size="65536" crc="6a40b27a" md5="cb1c0e9fbb2a3844ca5ed6228d6fed1d" sha1="a104605b500ecce1086e03f124e6d1a0e51f63a9" />
 		<rom name="games\AO486\boot1.rom" size="32768" crc="713cb637" md5="4167d7806d036df1ec3aaea836f5c5df" sha1="0736672a3d5a00eb8984f0250e1362814cc9042e" />
 		<rom name="games\AO486\boot1_opensource.rom" size="32768" crc="928e6d7c" md5="6940a3e10a8e780d48840f26bcabc2e4" sha1="b5944a2c38acc34fe16bfd3683d6a8be9dacae65" />
 		<rom name="games\AO486\drv\imgset.exe" size="9716" crc="13f71bb0" md5="88e7effef08888aa27851be7d6062266" sha1="15228fd1fa07c9261b78b96036fb84f266a30ac6" />
@@ -558,10 +561,37 @@
 		<rom name="games\Apple-II\Pitch-Dark-20230503.hdv" size="33553920" crc="91d06db1" md5="bed22e0405d607240e62aa872bededaa" sha1="ae6cea489b0e48392a1bbbb94bd0938417fdaa8e" />
 		<rom name="games\Apple-II\Total Replay II v1.0-alpha.4.hdv" size="33553920" crc="f2df398a" md5="96d3da6d32e055f5a0b0cae10995a049" sha1="f681ba019ca31ddbcb896f97b9bd27223545f336" />
 		<rom name="games\Apple-II\Total Replay v6.0.1.hdv" size="33553920" crc="37f4e2aa" md5="abf533197add7f3ae6e5983fab31261f" sha1="9064c4c49d1b215ede0142149d49176bfcf3b9ca" />
+		<rom name="games\Apple-II\Type-in Programs\Apple Voice (Kida Kazushige).dsk" size="143360" crc="45dc14ec" md5="9795e85e315946cc72ad7e006e97ae92" sha1="31ee896ebbb5c24196454d5f703af635ee39c4ff" />
+		<rom name="games\Apple-II\Type-in Programs\Combat Fighter (Yasushi Souda).dsk" size="143360" crc="0e7c98cb" md5="4df6f7b8c379e60d94371f1a2d8b427d" sha1="7a12f87c1dc04d5e1daab3824c30185375eb00fc" />
+		<rom name="games\Apple-II\Type-in Programs\Duel of Thunder Planet (Apple Bear).dsk" size="143360" crc="643b5550" md5="e77ad507008db05684048eb98aaa9c4a" sha1="c79b78daad94c31a7fddcd826dc34f655c56bb80" />
+		<rom name="games\Apple-II\Type-in Programs\Graphic Maze (Kida Kazushige).dsk" size="143360" crc="3c27d7aa" md5="188b71871027e928211d0b0f2d009a21" sha1="7bc89ac392828c9f65674bdd4a3cba4246aae533" />
+		<rom name="games\Apple-II\Type-in Programs\Red Water.dsk" size="143360" crc="5152f49e" md5="8b8abb9f31723fa16d9b9f8c3f41b5a1" sha1="7aef700c706a1b8e14a148f56d59c76a36390fb4" />
+		<rom name="games\Apple-II\Type-in Programs\The Active Balls (Shinji Minamiyama).dsk" size="143360" crc="5c836e4a" md5="4ebd518a9d85f1eb5d3418a963018654" sha1="5b8a766de045cb83794259bacd9e4fe8bf541358" />
+		<rom name="games\Apple-II\Type-in Programs\The Octopus (Shinji Minamiyama).dsk" size="143360" crc="a04b1765" md5="d782e21b69c83eaa87df5404c5bc6e68" sha1="bc0dec8721c053f34d6d410be0a8e9bcec35a86f" />
 		<rom name="games\Apple-II\Wizard Replay v2.3.hdv" size="33553920" crc="d94f9bc2" md5="49d01d4decfc7fb35cc7cdffe257e605" sha1="e09fcbffd16d1e054e5a63c42710848cf6d30460" />
+		<rom name="games\Apple-IIgs\Apple-IIgs.RAM" size="1024" crc="efb5af2e" md5="0f343b0931126a20f133d67c2b018a3b" sha1="60cacbf3d72e1e7834203da608037b1bf83b40e8" />
+		<rom name="games\Apple-IIgs\boot.rom" size="262144" crc="de7ddf29" md5="ba89edf2729a28a17cd9e0f7a0ac9a39" sha1="bc32bc0e8902946663998f56aea52be597d9e361" />
+		<rom name="games\Apple-IIgs\boot1.rom" size="131072" crc="42f124b0" md5="20a0334c447cb069a040ae5be1d938df" sha1="e4fc7560b69d062cb2da5b1ffbe11cd1ca03cc37" />
+		<rom name="games\ATARI800\boot0.rom" size="16384" crc="72b08257" md5="e90c2325ffb21a7830c7f011648d688d" sha1="e9a525bb606c37cad0c8880d74c7449a822e26c4" />
+		<rom name="games\ATARI800\boot1.rom" size="8192" crc="7d684184" md5="0bac0c6a50104045d902df4503a4c30b" sha1="3693c9cb9bf3b41bae1150f7a8264992468fc8c0" />
+		<rom name="games\ATARI800\boot2.rom" size="10240" crc="f38614e8" md5="aa19ab81e949323c6fe437d807184c86" sha1="c093da054dc825d22a5954723a4e47d4090b949e" />
+		<rom name="games\ATARI800\boot3.rom" size="8192" crc="1798def4" md5="3a95370b0fe1a4672b535963dc360eba" sha1="c3656b11e8d15356b7c16769bc5e40db470aff40" />
+		<rom name="games\ATARI800\ntsc.act" size="768" crc="ede5dcfa" md5="fb160de2dfb935b283f42d42a9be193e" sha1="01b332b9375a9a29cbf4cbe0d6f8d3df51397c1a" />
+		<rom name="games\ATARI800\pal.act" size="768" crc="6006e6e6" md5="84381444cbc3131c516ae919a07cc380" sha1="4eacda1c2d02749f23674f08f7c926eafbb179e0" />
+		<rom name="games\ATARI800\sid_data.bin" size="131072" crc="910d0d7e" md5="48447a7622fe2b53d48ed2a904f14392" sha1="a47c2dc043ea5a6371113b088e8055d3cfd2f73d" />
 		<rom name="games\AtariST\1000GamesT02.vhd" size="1200000000" crc="7c84851e" md5="1371a7f9041504815c9107a94f64279d" sha1="6bdf4445b0fbf855fb6de5a3f765e1f84c937ded" />
 		<rom name="games\AtariST\Atari3gb.vhd" size="3221225472" crc="4685ff04" md5="95ad1309c6dcac52bfba2c6b04505ce8" sha1="9410b2d84d668383722a388103e9f8ba6aabad10" />
 		<rom name="games\AtariST\tos206us-american-14-11-1991.img" size="262144" crc="3f2f840f" md5="c9093f27159e7d13ac0d1501a95e53d4" sha1="ee58768bdfc602c9b14942ce5481e97dd24e7c83" />
+		<rom name="games\C128\boot0.rom" size="73728" crc="82823e73" md5="699cff3e1412d5675f485df653517215" sha1="f128d8e194c7b0f785e803c4a2e5e87f4a222771" />
+		<rom name="games\C128\boot1.rom" size="196608" crc="05b1d379" md5="377b4c6b1cfaecbdcabfb8e3b51f9052" sha1="c284a8ab306f15f480a42c73c9ae5cc41d097a9f" />
+		<rom name="games\C128\CP-ClockF83_1.3.D64" size="174848" crc="5a8d276c" md5="4c7c19fb880f069132a36811c16cd01f" sha1="cd3641a7d68ff93948ad2f1d9f020d351d4ce480" />
+		<rom name="games\C128\custom.flt" size="6144" crc="8160668c" md5="56d5dc88d585e7eb34b74197c4f93602" sha1="22d5a0f9d0b96b983bab66f2c27f5900bcb2aba9" />
+		<rom name="games\C128\Empty.d64" size="174848" crc="697fac5a" md5="aef55d06bc105152af8b4f01796cddbd" sha1="a45a5fc357184bcadd1d5afe486af86076008996" />
+		<rom name="games\C128\Empty.d71" size="349696" crc="16925808" md5="ccfc2a743a5acc92fe881c7e7b93a0e5" sha1="a1cbad3bec02e239f38cacddbd4e614008c52603" />
+		<rom name="games\C128\Empty.d81" size="819200" crc="70457eee" md5="f8fb0193b1350855cb1f700b3dc8f833" sha1="e0684834da2983366d13b6845a4e808feedc3dd7" />
+		<rom name="games\C128\Empty.g64" size="684" crc="4ba1d158" md5="33c9c27860010b339016a32d644d9d17" sha1="36473db57d7e7f872d65bbb490d2c4898736a71e" />
+		<rom name="games\C128\Empty.g71" size="1356" crc="49910c62" md5="4d7ed3479d48924a676646ca0b4753fd" sha1="9fad57c347304b92c2faff3a5d7bd84f2be896ed" />
+		<rom name="games\C128\SID curve designer.html" size="12572" crc="46328346" md5="4275f200e2ddc14ea15f89c697a62441" sha1="51a2a2494540dcaeaeb44853e83e9fe5c1a5604e" />
 		<rom name="games\C64\AlternativeFormats\BINs\Hucky\10th Frame.bin" size="65536" crc="5b6f4a35" md5="f6c71d138e62eab9200024a16f944382" sha1="7fa42535302cba5f99e8a895a2ef0dfc00f247c5" />
 		<rom name="games\C64\AlternativeFormats\BINs\Hucky\180.bin" size="65536" crc="ac2b90a9" md5="f3cfac8b85494a4e2516ac03ce1fa811" sha1="f5130bcfb8d60ce28115ca2be5dd682c63adc067" />
 		<rom name="games\C64\AlternativeFormats\BINs\Hucky\1942 (Music v1).bin" size="65536" crc="01aa2561" md5="ab84034b4f36b9e58c719e15e8b539ef" sha1="b88f586e4be43b04c80a68d24f4a09dd9b7e8c2b" />
@@ -28016,11 +28046,42 @@
 		<rom name="games\C64\MultiLoad64\X-Out (by $olo1870) [EasyFlash].crt" size="361216" crc="fe86b579" md5="d59283d142588ce8b93e27311b6507ba" sha1="fac455974e0248586bd025dfd27ecd169e8307b8" />
 		<rom name="games\C64\SID curve designer.html" size="12572" crc="46328346" md5="4275f200e2ddc14ea15f89c697a62441" sha1="51a2a2494540dcaeaeb44853e83e9fe5c1a5604e" />
 		<rom name="games\C64\SpeedDOS_plus_2.7.rom" size="49152" crc="8d5abdb1" md5="a340eb964d1a89c93a811f671a9588ca" sha1="9846d5696984c7286d4c9aa5cd50052456754a28" />
+		<rom name="games\C64\Type-in Programs\Commodore MAX\GALAMIN (AMISOFT).tap" size="109338" crc="94cff449" md5="9a1337a70b6f6816aa45b3782485dfe0" sha1="d5b8d2a2e5b307aaf9830f64f80b34cbeee8a49f" />
+		<rom name="games\Casio_PV-2000\boot0.rom" size="16384" crc="8f31f297" md5="558540c5c6f776d88a897f2f3b8fec8f" sha1="94b5f54dd7bce321e377fdaaf592acd3870cf621" />
+		<rom name="games\CBM-II\boot0.rom" size="45056" crc="a6d5ab43" md5="9d78921bc583a4c1bbc6413b67e0c3e2" sha1="2cfd632f7493a9a3645cf43e17fd175d2bae6557" />
+		<rom name="games\CBM-II\boot1.rom" size="45056" crc="e2fb41e8" md5="a06f14bf5066fa28408471d49d775a30" sha1="0d14617d580bd3641578be667a63d61a631d3857" />
+		<rom name="games\CBM-II\boot2.rom" size="45056" crc="c2011ab3" md5="e528727efa2200d740f79b46ae82d79d" sha1="ab0006e4ce21d3f00eda6adc748b5b271bc19869" />
+		<rom name="games\CoCo2\boot0.rom" size="16384" crc="2ea0fb7f" md5="f5e679112e6336dc52f63590f3c31549" sha1="91815752594d7169c0d2d6504cfa214027a57ffd" />
+		<rom name="games\CoCo2\boot1.rom" size="16384" crc="e3879310" md5="3420b96031078a4ef408cad7bf21a33f" sha1="f2dab125673e653995a83bf6b793e3390ec7f65a" />
+		<rom name="games\CoCo2\boot2.rom" size="32768" crc="018ae3d1" md5="09ae1c1b06b1191497c0cfe8d6feb5a6" sha1="d7785bd971172501bac87273e91a91b202d4dcbb" />
+		<rom name="games\CoCo2\boot3.rom" size="24576" crc="e35012c0" md5="01fab1819c212cf509eed605d66d9941" sha1="8e066f14b433688d6205c6a666d5d7fcfb11d77d" />
+		<rom name="games\COCO3\boot0.rom" size="32768" crc="b4c88d6c" md5="7233c6c429f3ce1c7392f28a933e0b6f" sha1="e0d82953fb6fd03768604933df1ce8bc51fc427d" />
+		<rom name="games\COCO3\boot1.rom" size="8192" crc="0b9c5415" md5="8cab28f4b7311b8df63c07bb3b59bfd5" sha1="10bdc5aa2d7d7f205f67b47b19003a4bd89defd1" />
+		<rom name="games\COCO3\boot2.rom" size="8192" crc="15fb39af" md5="171fb7a5d3b808565295b45c773abaaf" sha1="6a20fee9c70b36a6435ac8378f31d5b626017df0" />
+		<rom name="games\Enterprise\boot.rom" size="163840" crc="c1568a99" md5="43cfbc4841c8e863df0996485fd8d68e" sha1="84de0704e85d8866639e5cfc45559dc2f316cb3b" />
+		<rom name="games\Enterprise\boot0.rom" size="163840" crc="c1568a99" md5="43cfbc4841c8e863df0996485fd8d68e" sha1="84de0704e85d8866639e5cfc45559dc2f316cb3b" />
+		<rom name="games\FM-7\boot.rom" size="131072" crc="62402ac9" md5="a330817f8f7ced752a7bcc8dfba8fd2e" sha1="bf52d22b119d54410dad4949b0687bb0edf3e143" />
+		<rom name="games\FM-7\boot1.rom" size="131072" crc="25f27b79" md5="513893d316e2b45493c6306aca657239" sha1="9b88c30fb518f96821e47ac1d4d2b5af3bdfa19a" />
+		<rom name="games\Interact\boot.rom" size="2048" crc="1aa50444" md5="aa9fb0e9697a009dfb9d876351dd8f48" sha1="405806c97378abcf7c7b0d549430c78c7fc60ba2" />
+		<rom name="games\LASER500\boot.rom" size="196608" crc="880a4a64" md5="2b3db0b30f1532c975dcd0fc25d07642" sha1="db7c4313c59c47d9308c94b3d727273eebae9b88" />
+		<rom name="games\LM80C\boot.rom" size="25992" crc="ffe4363a" md5="6e15b6db9f39b06393cc7d337815ba56" sha1="18e13e6ff7cc3ac9b1bc6eeaf6e4d6dda4c30b04" />
+		<rom name="games\MACIICX\boot0.rom" size="262144" crc="ce3b966f" md5="2a8a4c7f2a38e0ab0771f59a9a0f1ee4" sha1="753b94351d94c369616c2c87b19d568dc5e2764e" />
+		<rom name="games\MACIICX\boot1.rom" size="8192" crc="b74c3463" md5="b7ac5cca4a1a39ee61d4c4a8506130c0" sha1="584201cc67d9452b2488f7aaaf91619ed8ce8f03" />
+		<rom name="games\MACIICX\boot2.rom" size="1024" crc="cffb33eb" md5="862b8598cecdbc934658c4cb599a8142" sha1="4a35a44605073ae6076a0292e2056ee4d938d1bd" />
+		<rom name="games\MACIICX\boot3.rom" size="4096" crc="bf50850d" md5="5a469f8e47720a747080e1f157b492ed" sha1="abe85d8a882bb2b8187a28bd6707fc2f5d77eedd" />
+		<rom name="games\MacLC\341-0740_AppleLCTwistedPair.BIN" size="32768" crc="9d47245c" md5="6e7d2f253c2fcb23745c72dcd94186da" sha1="447ce6830600f47f63fdc21dd132539decb76001" />
+		<rom name="games\MacLC\bin2dsk.sh" size="1519" crc="9cd9092e" md5="163dbc2005c640bc1eae9201cb7ecaad" sha1="d765140e0bd5f0ee3724bf8f4125b86cf6620e59" />
+		<rom name="games\MacLC\BlueSCSI Toolkit for MiSTer.dsk" size="819200" crc="e459beb8" md5="9f65c8e707bcf325a497dc4374193621" sha1="0cff6405e674e6757f41d09cfd1bd962c9a6bbb5" />
+		<rom name="games\MacLC\boot0.rom" size="524288" crc="71681726" md5="5d8662dfab70ac34663d6d54393f5018" sha1="6bef5853ae736f3f06c2b4e79772f65910c3b7d4" />
+		<rom name="games\MacLC\Disk605.dsk" size="819200" crc="6e910f1f" md5="1ea1ef42156f353e76369bc58374085e" sha1="826589fb61dddbfc2ca7720cd8bddda24c718a06" />
+		<rom name="games\MacLC\empty_hdd\boot.vhd" size="21020672" crc="962ece28" md5="75169ad83ded5697b7740d93621b0c2e" sha1="e79c934813f2cc327fdf35c9118ec58e91cce816" />
+		<rom name="games\MacLC\MacLC.nvr" size="512" crc="d29e37cd" md5="cb2a39a452f21a6eb99b49df33d09d77" sha1="40975b8d123aedd12f26a1bac00893bd1b5ca720" />
 		<rom name="games\MACPLUS\bin2dsk.sh" size="1519" crc="9cd9092e" md5="163dbc2005c640bc1eae9201cb7ecaad" sha1="d765140e0bd5f0ee3724bf8f4125b86cf6620e59" />
 		<rom name="games\MACPLUS\boot.vhd" size="1835073536" crc="2da38dc8" md5="ba4307a61588a6253d64c219b8f862b9" sha1="d2016b523c88b789da23be1eb1f5d34eb91c3496" />
 		<rom name="games\MACPLUS\boot0.rom" size="131072" crc="b2102e8e" md5="8a41e0754ffd1bb00d8183875c55164c" sha1="7d2f808a045aa3a1b242764f0e2c7d13e288bf1f" />
 		<rom name="games\MACPLUS\boot1.rom" size="262144" crc="0f7ff80c" md5="9fb38bdcc0d53d9d380897ee53dc1322" sha1="58532b7d0d49659fd5228ac334a1b094f0241968" />
-		<rom name="games\MACPLUS\Disk605.dsk" size="819200" crc="91e24639" md5="9ec63921bf42c57e811cf8d4c2b5838f" sha1="5442bf8b96684d743d0b353a985aeba67813eaef" />
+		<rom name="games\MACPLUS\boot2.rom" size="65536" crc="cf759e0d" md5="db7e6d3205a2b48023fba5aa867ac6d6" sha1="5b1ced181b74cecd3834c49c2a4aa1d7ffe944d7" />
+		<rom name="games\MACPLUS\Disk605.dsk" size="819200" crc="6e910f1f" md5="1ea1ef42156f353e76369bc58374085e" sha1="826589fb61dddbfc2ca7720cd8bddda24c718a06" />
 		<rom name="games\MACPLUS\DSK\Applications and Utilities\Adobe Acrobat Reader 1.0\.finf\Disk 2.dsk" size="32" crc="d8a5ffa4" md5="d8e99ff696b39ff71cb6f7aff50bfda3" sha1="c592853789f7d91eb68fc4a8f55efd61828f1f11" />
 		<rom name="games\MACPLUS\DSK\Applications and Utilities\Adobe Acrobat Reader 1.0\.finf\Disk 3.dsk" size="32" crc="d8a5ffa4" md5="d8e99ff696b39ff71cb6f7aff50bfda3" sha1="c592853789f7d91eb68fc4a8f55efd61828f1f11" />
 		<rom name="games\MACPLUS\DSK\Applications and Utilities\Adobe Acrobat Reader 1.0\.finf\Disk 4.dsk" size="32" crc="d8a5ffa4" md5="d8e99ff696b39ff71cb6f7aff50bfda3" sha1="c592853789f7d91eb68fc4a8f55efd61828f1f11" />
@@ -28650,11 +28711,38 @@
 		<rom name="games\MACPLUS\DSK\System Disks\System 6.0.8\Utilities 1.dsk" size="819200" crc="936e35d8" md5="c3cb9800029f953e76485d8daf36b0db" sha1="85e1667b236451149e06db76a60b8852432622a3" />
 		<rom name="games\MACPLUS\DSK\System Disks\System 6.0.8\Utilities 2.dsk" size="819200" crc="4d00c41a" md5="58eca505cefe81d476ad1b6c7079d2c5" sha1="3d5261d6ec11b11c16e745cd957aa77c4bebdf08" />
 		<rom name="games\MACPLUS\DSK\System Disks\System 7.0.1 (Mini)\800kMac-701-miniF.dsk" size="819200" crc="902eb794" md5="bf94c7701661b26d389945bffd46c731" sha1="4693d58b77b15179d4c6db339aa9aec0d9728769" />
+		<rom name="games\MACPLUS\empty_hdd\boot.vhd" size="21020672" crc="962ece28" md5="75169ad83ded5697b7740d93621b0c2e" sha1="e79c934813f2cc327fdf35c9118ec58e91cce816" />
 		<rom name="games\MACPLUS\EWEC.vhd" size="524353536" crc="205689db" md5="da291561ad3fa525b95190335d36228d" sha1="5a15072b23dc991455b8a46b2c678084b6655096" />
 		<rom name="games\MACPLUS\HD20SC.vhd" size="21037056" crc="568eb109" md5="ea00e75bb96032410691c8712f836f9e" sha1="811d6cc51dd2b7dd335588630816a0e7d328261b" />
 		<rom name="games\MACPLUS\Infocom.vhd" size="419495936" crc="9bdd2efc" md5="1d13d4eda9bfd05bc87c7bc7c18891c0" sha1="01095156c386ebe026a50ebf210b754ed7606769" />
 		<rom name="games\MACPLUS\Supplement.vhd" size="262209536" crc="4bfe3927" md5="f009138e101f9b6bcf6163495c9a4e89" sha1="df0bb98c64f35885893dc5a9a6b4abb022d329d9" />
+		<rom name="games\MacQuadra800\boot0.rom" size="1048576" crc="3318a935" md5="94017d3dd800f1ac5aed2e10462fcd45" sha1="031f13bfd726a70cfe4c73c5967861bc77297a79" />
+		<rom name="games\MACSE30\boot0.rom" size="262144" crc="ce3b966f" md5="2a8a4c7f2a38e0ab0771f59a9a0f1ee4" sha1="753b94351d94c369616c2c87b19d568dc5e2764e" />
+		<rom name="games\MACSE30\boot1.rom" size="8192" crc="b74c3463" md5="b7ac5cca4a1a39ee61d4c4a8506130c0" sha1="584201cc67d9452b2488f7aaaf91619ed8ce8f03" />
+		<rom name="games\MACSE30\boot2.rom" size="1024" crc="cffb33eb" md5="862b8598cecdbc934658c4cb599a8142" sha1="4a35a44605073ae6076a0292e2056ee4d938d1bd" />
+		<rom name="games\MACSE30\boot3.rom" size="4096" crc="bf50850d" md5="5a469f8e47720a747080e1f157b492ed" sha1="abe85d8a882bb2b8187a28bd6707fc2f5d77eedd" />
+		<rom name="games\MC1201\mc.rom" size="15360" crc="57095028" md5="a5d1658550226e8e8b109cbe53e26677" sha1="7820ece55f508d1a9bb6d521e3f212e4576baeeb" />
+		<rom name="games\MSX1\boot.rom" size="32768" crc="8205795e" md5="a0452dbf5ace7d2e49d0a8029efed09a" sha1="829c00c3114f25b3dae5157c0a238b52a3ac37db" />
+		<rom name="games\MSX1\Type-in Programs\Apple Runner (Kazuki Suzuki).dsk" size="368640" crc="57ace351" md5="188cf7af671d7b4f0cfb6ec13dde84d6" sha1="c65c88c6de3a56fcecffec43df5264d445e91e03" />
+		<rom name="games\MSX1\Type-in Programs\Mocky (Takehiko Sasoh).dsk" size="737280" crc="4b5f5af0" md5="f21a6ab436d97b65b2cf35aebfd9df36" sha1="ea2c268f55903bfd8179cb5e0c762a0bbd0fa3ee" />
+		<rom name="games\MSX1\Type-in Programs\Rescue (HX-10D).dsk" size="368640" crc="281cc95e" md5="4e98d06d3c2ce35f399fbe015e97e983" sha1="c302b427e0dc58f5aa4ae53696f0f77e9d3116f5" />
 		<rom name="games\MSX\boot.vhd" size="1048576000" crc="979036de" md5="049a43cc4ca995ea7e272a435e83efab" sha1="3c5a9291cf9e579cf38dee5cef9878f47dcf95a4" />
+		<rom name="games\NeXT-Color\boot0.rom" size="131072" crc="fbc3a2cd" md5="dadf3fb6b6b18b2d325eb42b61d83175" sha1="a9bef655f26f97562de366e4a33bb462e764c929" />
+		<rom name="games\PC8801\boot.rom" size="393216" crc="6337409f" md5="f1ce4d5f83717093982e5f75516b8f3c" sha1="7a6676e352c8d0eaf16e5863c1c98ac65d6f8686" />
+		<rom name="games\QL\boot.rom" size="65536" crc="c6018df3" md5="9a68b8775c669e941b6547482f5d472e" sha1="113d506c413ebe89397fff9d6edfd6ea5969c5b2" />
+		<rom name="games\QL\crazy.mdv" size="174930" crc="b26e47c2" md5="827e506055e1a7efaca126341c73c200" sha1="c64ace5ed8311497b5dc4f926d4addcc6e1137b4" />
+		<rom name="games\QL\GamesCart.mdv" size="174930" crc="f8b2b95b" md5="0d3bf8fc922709425c890becddc2d5ca" sha1="36925bc030d7dbecdd649d159a9ae841db48581f" />
+		<rom name="games\QL\minerva+qlsd_ql.rom" size="64298" crc="2354d1a5" md5="81ff427536d6397373999da0b1c51646" sha1="213d0d73e171f891f84d6d1e1838e04d98ebd9c3" />
+		<rom name="games\SGIIndy\boot.rom" size="524288" crc="5e7f7e3a" md5="11bb4acd64fb7c79c985d3d09390668b" sha1="ac663a4db68528e400487e98cbf901f620fb30ce" />
+		<rom name="games\Sorcerer\boot.rom" size="5152" crc="5f327e24" md5="42076c1acf745415bad7817b7218ced0" sha1="fcd5766cbb6ff6aacdc71138f7032f3c6fbbb089" />
+		<rom name="games\Sorcerer\Extended Basic (19xx)(Exidy Inc.).bin" size="8192" crc="3468d561" md5="109028fc5eb0aa984b126a4e1e6ca441" sha1="d9e6d50b97b6777720ca32c31760ed3d62dbe3fd" />
+		<rom name="games\SparcStation\boot.rom" size="389464" crc="5b01083a" md5="969aa8ee081bccb4e9382afbc0d973d4" sha1="2386ab6f62459f183c03d98bb217b03a0a2358de" />
+		<rom name="games\Spectrum\boot.rom" size="196608" crc="99f0ab5c" md5="67716639951af4b4567559376f42514a" sha1="fae084b732bc677b604a7fb917b9938246096965" />
+		<rom name="games\Spectrum\boot.rom_rc196" size="196608" crc="99d5592a" md5="e32908197686387322ee741adcc78812" sha1="94fec811469c3a3fccfa11047e5dc21594cad784" />
+		<rom name="games\Spectrum\dsdd720k.dsk" size="778496" crc="6b2889a9" md5="73a9eddc3d891e810b47af066c4a7d96" sha1="15b88b67e93fde6f05795c3b77258f99a5e9a532" />
+		<rom name="games\Sun-2\boot0.rom" size="32768" crc="28ba554c" md5="7c3c88f21e215bb41c88abd8b70e2d9e" sha1="5d9cfb14f96d609c5d5fbca3e4dc7c8d7b8f6aa0" />
+		<rom name="games\Sun-3\boot0.rom" size="65536" crc="091745d1" md5="83f4a4984290e7b8c632080fb7eb9cdb" sha1="5c0dddc6bb3b183ff759fd98cfc649489ecce00d" />
+		<rom name="games\TI-99_4A\boot0.rom" size="196608" crc="eea0b4e7" md5="a75bb208176c0aed1b6a04b2dcf4770c" sha1="05209c994460a34a433fc1490a3eb690ee9bf3e7" />
 		<rom name="games\TI-99_4A\DSR-ROMS\Disk_ROM (Alt Version).bin" size="8192" crc="de1f2e25" md5="f9916e6b04f8a7c9e72cb47d876d6708" sha1="69cd31852d6152d6329f93cae5898886115b79bf" />
 		<rom name="games\TI-99_4A\DSR-ROMS\Disk_ROM.bin" size="8192" crc="8f7df93f" md5="3169cfe66687d5b9ed45a69da5a12817" sha1="ed91d48c1eaa8ca37d5055bcf67127ea51c4cad5" />
 		<rom name="games\TI-99_4A\DSR-ROMS\MyArc_DDCC1-FDC-40-Tracks.bin" size="8192" crc="042968a9" md5="d27ac3b0138fca854ba363ad3a403a5a" sha1="17af3130d3631b1bc1aa4d7e32a1b1feb66bbfb6" />
@@ -28676,6 +28764,7 @@
 		<rom name="games\TI-99_4A\DSR-ROMS\TI99 with EVPC BIOS (1981)\994AGROM-EV.bin" size="24576" crc="2b953fc9" md5="dc86a4112888ece2722d2fc71771c703" sha1="d04181f19f36817a83173cbd56dec66b5c29a5ff" />
 		<rom name="games\TI-99_4A\DSR-ROMS\TI99 with EVPC BIOS (1981)\994AROM.bin" size="8192" crc="db8f33e5" md5="6cc4bc2b6b3b0c33698e6a03759a4cab" sha1="6541705116598ab462ea9403c00656d6353ceb85" />
 		<rom name="games\TI-99_4A\DSR-ROMS\TIPI_ROM.bin" size="32768" crc="a54e65af" md5="19e3e49f160e2c9e99fee637de407b62" sha1="f930e4b079a5b6b24dc20f262e9c599d2051b6be" />
+		<rom name="games\TI-99_4A\NVRAM.dat" size="4096" crc="c71c0011" md5="620f0b67a91f7f74151bc5be745b7110" sha1="1ceaf73df40e531df3bfb26b4fb7cd95fb7bff1d" />
 		<rom name="games\TI-99_4A\TI-99_4A\DISKS\DISKS_Adventure\[TI PHD ADVENTURE] Adult Adventure (1985)(Stephen Peacock)[req. PHM 3041][DSK1.ADULT-ADV].dsk" size="184320" crc="3c63e7e4" md5="69be2a7140aac26e7d0a4d036aedbea0" sha1="12952e97e8ba66bb233f32a65aa5a371a071b068" />
 		<rom name="games\TI-99_4A\TI-99_4A\DISKS\DISKS_Adventure\[TI PHD ADVENTURE] Adventure At Lake Santeetlah V1.3 (19xx)(Fritz Langhart)[req. PHM 3041][DSK1.LAKESAN].dsk" size="92160" crc="aaeab442" md5="eb3e00e1285956b539847862021fe159" sha1="246f649b7ef19261a0f6cebf3e8d2554c7738490" />
 		<rom name="games\TI-99_4A\TI-99_4A\DISKS\DISKS_Adventure\[TI PHD ADVENTURE] Adventure at Lake Santeetlan V1.4 (2019)(Fritz Langhart)[req. PHM 3041][DSK1.LAKESAN].dsk" size="92160" crc="00cb778f" md5="a0f260b36aaa88086ac34b87125966d0" sha1="f78e30129a4f8f87d8c83d0efe24b8df76c6dadd" />
@@ -30630,6 +30719,9 @@
 		<rom name="games\TI-99_4A\TI-99_4A\SSS_Utils_HomeBrew\ROM Format\ASPL Editor V1.0 (2018)(DSAPSC).bin" size="32768" crc="a02284f6" md5="51bcfd5393d58283765a231c930e9864" sha1="36c7e4ca3b03ebfd72e0b3a6d8e6c88b6a08205f" />
 		<rom name="games\TI-99_4A\TI-99_4A\SSS_Utils_HomeBrew\ROM Format\Memory Test V2.2 (2021)(Jedimatt42)_[C].bin" size="8192" crc="b43b56b2" md5="40315c11da3403558d434716fdc81ad3" sha1="4be627ea2f99fae5a7a6d19693ba37aa1f8825b9" />
 		<rom name="games\TI-99_4A\TI-99_4A\SSS_Utils_HomeBrew\ROM Format\SID Player 99 V2.0 (2011)(DSAPSC).bin" size="32768" crc="f2df9b08" md5="1db84bcda04e63800eaca778c87e269a" sha1="7752be254b20c60b608c7b3ef4f6aeb0c32df7f7" />
+		<rom name="games\TomyTutor\BlankTape-12K.cas" size="12288" crc="8a258aec" md5="4072783b8efb99a9e5817067d68f61c6" sha1="7cb41fea50720b48be0c145e1473982b23e9ab77" />
+		<rom name="games\TomyTutor\BlankTape-20K.cas" size="20480" crc="e6bc8360" md5="daa100df6e6711906b61c9ab5aa16032" sha1="963ff6c2d517d188014d2ef3682c4797888e6d26" />
+		<rom name="games\TomyTutor\BlankTape-4K.cas" size="4096" crc="c71c0011" md5="620f0b67a91f7f74151bc5be745b7110" sha1="1ceaf73df40e531df3bfb26b4fb7cd95fb7bff1d" />
 		<rom name="games\TomyTutor\Games\Games\Alternate Versions (TOSEC v2006-05-01)\Car-azy Racer (1983)(Tomy-WordWright)[T.M. 1991].bin" size="16384" crc="d3d9e415" md5="18d0866c73d150a5e3f2f37eb6c41f80" sha1="aade318f130cfeedb90ad963c351e9b344a5b133" />
 		<rom name="games\TomyTutor\Games\Games\Alternate Versions (TOSEC v2006-05-01)\Cave Crawlers (1983)(Tomy)[T.M. 1991].bin" size="8192" crc="6969757d" md5="e359ec28fd9049aa3f7401db8d34012e" sha1="e28e32206a3961cd8b9522ec4edf83e2177f3457" />
 		<rom name="games\TomyTutor\Games\Games\Alternate Versions (TOSEC v2006-05-01)\Deep Six(1982)(Tomy)[T.M. 1991].bin" size="8192" crc="6b8a878f" md5="87e03ea7a3eb19d8530b745e70241748" sha1="f127f6641f8187ada313ebb5a6b87cd61d27f019" />
@@ -30711,6 +30803,13 @@
 		<rom name="games\TomyTutor\Tapes\BlankTape-20K.cas" size="20480" crc="e6bc8360" md5="daa100df6e6711906b61c9ab5aa16032" sha1="963ff6c2d517d188014d2ef3682c4797888e6d26" />
 		<rom name="games\TomyTutor\Tapes\BlankTape-4K.cas" size="4096" crc="c71c0011" md5="620f0b67a91f7f74151bc5be745b7110" sha1="1ceaf73df40e531df3bfb26b4fb7cd95fb7bff1d" />
 		<rom name="games\TomyTutor\Tutor.rom" size="49152" crc="4b0478fe" md5="c04b9db8080410a468e45eda9eb2b232" sha1="00baaf81178b87288bf46cf365c8c4c5a647499a" />
+		<rom name="games\TRS-80\BOOT.ROM" size="14336" crc="ea88c11a" md5="5a80801dd9718dcfdb66627a0f4e2cec" sha1="acf88121628a31c56ce9e329687e3ff4c167b82a" />
+		<rom name="games\TRS-80\env.cas" size="4117" crc="5f84b9c5" md5="535c3903950e69ca2aa54c310e9b34e5" sha1="966d9c849cd6314529e60a004b21f9b052a08aab" />
+		<rom name="games\TRS-80\galaxy.cas" size="9924" crc="2952db6e" md5="ec9f5487747ef2394509c2c8913c515d" sha1="aee00dffcf82dcd47168ac502a36f83e7de65365" />
+		<rom name="games\TRS-80\spores.cas" size="13056" crc="44c332bc" md5="16dc5274759cf221f06539527c88accc" sha1="7a84443dd882da5deea6a6fe76da60da8a9d160a" />
+		<rom name="games\TSConf\boot0.rom" size="65536" crc="19f8ad7b" md5="9a0a7f6c10ffa0a556748c4b40088554" sha1="9cee82d4a6212686358a50b0fd5a2981b3323ab6" />
+		<rom name="games\TSConf\boot1.rom" size="32768" crc="0fe97025" md5="c6244f36ce2e782d4a4be9d72b0b4dd4" sha1="4fc5d073e97466aae242b3b86234e6deb456b555" />
+		<rom name="games\VideoBrain\boot.rom" size="4096" crc="f229506e" md5="e1e7f6120eb8e23ca5c63b4246f04f18" sha1="0364007319dee6106715f4462adee531bfba3d34" />
 		<rom name="games\X68000\BLANK_disk_X68000.D88" size="1281968" crc="014cdb84" md5="4b5cf43e15983d9b57ebc73bdd0ba627" sha1="09dd55f9132e40c02c4fa2bc506db229ef3e3302" />
 		<rom name="games\X68000\boot.rom" size="1048576" crc="53ed3d0c" md5="73f0145fbf383c144774672507257732" sha1="048bf44e9480ee97ae2939ab39587ed20e68138d" />
 		<rom name="games\X68000\boot3.vhd" size="16384" crc="941038ee" md5="6dbd94a927c07f9d14fddd496faff9ac" sha1="eb7f0bb916b272ad645b91d7ab629301aa531ca7" />
@@ -30986,5 +31085,6 @@
 		<rom name="games\X68000\media\Ys 3 - Wanderers from Ys\Ys 3 - Wanderers from Ys.hdf" size="10441728" crc="582fae17" md5="060c614429b20444510b48326bc8146a" sha1="0870b3801c987526d67b8a3c094c801d17955b2f" />
 		<rom name="games\X68000\media\Zero - Rei\Zero - Rei.hdf" size="10441728" crc="a1863e19" md5="1512c4f3d4bee28ff12f18808d6c0708" sha1="5b62a5109b8416cc269ae66fa763c2ae39de9c3c" />
 		<rom name="games\X68000\media\Zugya\Zugya.hdf" size="10441728" crc="d42ca62a" md5="619acaf51fe2e67e2e247d1d5e565d29" sha1="866f9551763144820e23a5d0e84d9cb07bd3ff58" />
+		<rom name="games\Zet98\boot.rom" size="550912" crc="8160655a" md5="73fcde408c51bea3b23ba5b7c66be37d" sha1="adc0961b2d181aec9e2379bf65d1f0413466658c" />
 	</machine>
 </datafile>

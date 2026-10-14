@@ -6,7 +6,7 @@
 		<name>MiSTer_Arcade_HBMAME</name>
 		<description>MiSTer_Arcade_HBMAME</description>
 		<category>Standard DatFile</category>
-		<version>20260707</version>
+		<version>20261007</version>
 		<date>-insert date-</date>
 		<author>MiSTer Organize</author>
 		<email>misterorganize@gmail.com</email>
@@ -342,6 +342,21 @@
 		<rom name="trukker\trukker.606" size="2048" crc="f0c49466" md5="2ef824a4a9fe6e32e20663dc59102538" sha1="f88d02ada32a9f1e10004785d17659279fd1d651" />
 		<rom name="trukker\trukker.607" size="2048" crc="6ab5c2eb" md5="48cf4dfeee4a80567b012a91c0bc40b4" sha1="d13fcd5669bd0f8f76505684ba5e788b395aeef1" />
 		<rom name="tst_frog\frogtest.bin" size="550" crc="1f5a7f35" md5="4b23beb4da7e6d7ece9b718bbe8b8167" sha1="608ad6ac8c34aea66b13aac7e45c298a2083d642" />
+	</machine>
+	<machine name="frombelow">
+		<description>frombelow</description>
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes" size="40976" crc="d1616b88" md5="54055aa3463c6584fcbb275ce820893a" sha1="63f24dd7e77be00812f4ab70960cef935cac57e5" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.bin" size="40960" crc="b6affff8" md5="676796e3c46c4196793ddf01560655a5" sha1="da6b3841155b9e92f1d4928107de11e522f274f6" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.chr.2b.bin" size="8192" crc="42ba557d" md5="ee32917f7649a82584696fe03693d93f" sha1="301fa001f97e775693368925ae8f4a3a43073e3a" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.chr.8b.bin" size="8192" crc="42ba557d" md5="ee32917f7649a82584696fe03693d93f" sha1="301fa001f97e775693368925ae8f4a3a43073e3a" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.1a.bin" size="8192" crc="483fc028" md5="b13b37e9e23a7c9f42141e0909f71cd5" sha1="f3160daa8e03115a667812621b278e0a3c234bf3" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.1b.bin" size="8192" crc="9cf6f503" md5="a3852e3421c2dc74fca1358fdad88a4c" sha1="fa64a83869933af540c8eab465952b3321dc61b3" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.1c.bin" size="8192" crc="cd611eba" md5="1d4f79f15989c364a5258a9027810737" sha1="b8c14c85c28ca462725c531e04b5f12844af3d63" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.1d.bin" size="8192" crc="1dab37f8" md5="3513266b3f1fd5e283fd33145865295a" sha1="6f25040105d00c8e86896c29e1bf88fb91def2bf" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.6a.bin" size="8192" crc="483fc028" md5="b13b37e9e23a7c9f42141e0909f71cd5" sha1="f3160daa8e03115a667812621b278e0a3c234bf3" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.6b.bin" size="8192" crc="9cf6f503" md5="a3852e3421c2dc74fca1358fdad88a4c" sha1="fa64a83869933af540c8eab465952b3321dc61b3" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.6c.bin" size="8192" crc="cd611eba" md5="1d4f79f15989c364a5258a9027810737" sha1="b8c14c85c28ca462725c531e04b5f12844af3d63" />
+		<rom name="from_below_vs_2021_01_13_v_0_10_0.nes.prg.6d.bin" size="8192" crc="1dab37f8" md5="3513266b3f1fd5e283fd33145865295a" sha1="6f25040105d00c8e86896c29e1bf88fb91def2bf" />
 	</machine>
 	<machine name="galaga">
 		<description>galaga</description>
@@ -1596,6 +1611,16 @@
 		<rom name="vga.e1" size="8192" crc="bc036d1d" md5="968a39ba1bfb7615120221993c335944" sha1="c5d54d0b80ac768ccf6fdd32cad1ef6359fa324c" />
 		<rom name="vgb.dc1" size="8192" crc="58ee14d3" md5="b94ed950e9964c1375041709c1a57ac9" sha1="5fb4268c9c73bdfc3b1e866618979aea3f219bbc" />
 		<rom name="vgc.cb1" size="8192" crc="3329f9d4" md5="d6746e8ce2842477ba5c09fce5a48475" sha1="11f4d744374e475d2c5b195a9f70888414529dd3" />
+	</machine>
+	<machine name="vs_urban">
+		<description>vs_urban</description>
+		<rom name="rp2c04-0003.pal" size="192" crc="fd6c578b" md5="adea3bff40ec4ec5b12b8f29e9c3f6a1" sha1="653182ce0cbaff66a8fc5788e32cc088b6735f2e" />
+		<rom name="urb.1a" size="8192" crc="7ccff543" md5="66ef7668e54b8e390616bdd8f90fa3e1" sha1="9f369b2b55482019d6f4d0c19ede54a60788e4a3" />
+		<rom name="urb.1b" size="8192" crc="82b79f28" md5="53a78efe9dbd70c9077ee797522e2a71" sha1="5ccda9a889924e60f329caaa927647347ccfb7e7" />
+		<rom name="urb.1c" size="8192" crc="de14ac45" md5="a64bbd27fdad61ea272a1aaa81e089cd" sha1="8a8f4ebbbd7584dcfaf291a6acbca9435b599a17" />
+		<rom name="urb.1d" size="8192" crc="b31a2c0c" md5="72f9f8e80d204c83644907dddda21d82" sha1="4fb747b71bc308789f0d6b17d2e6a1a833102a36" />
+		<rom name="urb.2a" size="8192" crc="329b8b6d" md5="c727f9a054c9ce51682848f4c485450d" sha1="ae11f8d84327fcde0d80e2cc951be9648d4e4b10" />
+		<rom name="urb.2b" size="8192" crc="ddb9a263" md5="2a89eae915100fbe45d181721589666e" sha1="7309276e29c0073bc49ad9dc77bb6cacbca7270a" />
 	</machine>
 	<machine name="xevious">
 		<description>xevious</description>

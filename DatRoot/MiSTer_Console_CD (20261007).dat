@@ -6,7 +6,7 @@
 		<name>MiSTer_Console_CD</name>
 		<description>MiSTer_Console_CD</description>
 		<category>Standard DatFile</category>
-		<version>20260707</version>
+		<version>20261007</version>
 		<date>-insert date-</date>
 		<author>MiSTer Organize</author>
 		<email>misterorganize@gmail.com</email>
@@ -1333,7 +1333,7 @@
 		<rom name="games\CD-i\1 CD-i\4 Demos &amp; Samples\Demos\USA\ShowMaster II (USA)\ShowMaster II (USA).cue" size="106" crc="7d4bf6f9" md5="7848a115200710f087fe137501aac3ed" sha1="9f47124b5ae78b275128e0c645f1b314e5954468" />
 		<rom name="games\CD-i\1 CD-i\4 Demos &amp; Samples\Demos\USA\Source Media Network - CD-i Demo Disc (USA)\Source Media Network - CD-i Demo Disc (USA).bin" size="76557600" crc="6e019e25" md5="25e532d46099653be95d8697b6031f1d" sha1="d7cf7755b919e64656848d937b510d9da1cc8649" />
 		<rom name="games\CD-i\1 CD-i\4 Demos &amp; Samples\Demos\USA\Source Media Network - CD-i Demo Disc (USA)\Source Media Network - CD-i Demo Disc (USA).cue" size="130" crc="ff348615" md5="21836ea24225d02e14f59efc70f7322a" sha1="9b0c70b7e3b9dabfb7ff8f289f13eaf3f9db7f56" />
-		<rom name="games\CD-i\boot0.rom" size="524288" crc="40c4e6b9" md5="2969341396aa61e0143dc2351aaa6ef6" sha1="d961de803c89b3d1902d656ceb9ce7c02dccb40a" />
+		<rom name="games\CD-i\boot0.rom" size="524288" crc="279683ca" md5="ac0d468be366779c9df633be98da250a" sha1="53360a1f21ddac952e95306ced64186a3fc0b93e" />
 		<rom name="games\CD-i\boot1.rom" size="8192" crc="688cda63" md5="3d20cf7550f1b723158b42a1fd5bac62" sha1="56d0acd7caad51c7de703247cd6d842b36173079" />
 		<rom name="games\CD-i\boot2.rom" size="131072" crc="3685382e" md5="9694c466f9b65c1990a81b7a6280546b" sha1="1d9c040b4fe974f5eb600c6f80797f40b45efcf1" />
 		<rom name="games\Jaguar-CD\1 Jaguar-CD\1 USA\Ants (USA) (Unl)\Ants (USA) (Unl) (Track 1).bin" size="7869792" crc="4782c4bf" md5="618c389f3e8f90c30d54362beca164e0" sha1="8c0b136243a96d22a10b7179e4ee9c9b0737b976" />
@@ -1716,6 +1716,8 @@
 		<rom name="games\Jaguar-CD\boot.rom" size="131072" crc="ae25bdf5" md5="6e844759720226e58d55ecaf33608a13" sha1="af643900fea84234e08b616a6d27f03f0a61db96" />
 		<rom name="games\Jaguar-CD\boot1.rom" size="262144" crc="b408a212" md5="18f0741bdb8bb9b6bb99393cb90426a2" sha1="73f7356daec9edf7ce2dc35432b1ed948cacbe84" />
 		<rom name="games\Jaguar-CD\boot2.rom" size="131072" crc="69be37bb" md5="4af00f1c26898cf04585e1693d25faba" sha1="6bb291d62fc69e2f9b26c6ead86d3e0022eab3ce" />
+		<rom name="games\Jaguar-CD\eeprom.jce" size="128" crc="652d544c" md5="dc6c58c971715e8043baef058b675eec" sha1="cd5bd20e9a0f22d7367cc169e2844a02751c7c91" />
+		<rom name="games\Jaguar-CD\memorytrack.jmc" size="131072" crc="7ee8cdcd" md5="0dfbe8aa4c20b52e1b8bf3cb6cbdf193" sha1="67dfd19f3eb3649d6f3f6631e44d0bd36b8d8d19" />
 		<rom name="games\MegaCD\1 MegaCD\1 USA\- Multi Disc\cd_bios.rom" size="131072" crc="8af65f58" md5="310a9081d2edf2d316ab38813136725e" sha1="5a8c4b91d3034c1448aac4b5dc9a6484fce51636" />
 		<rom name="games\MegaCD\1 MegaCD\1 USA\- Multi Disc\Dracula Unleashed (USA)\Dracula Unleashed (USA) (Disc 1) (Track 1).bin" size="544372752" crc="0e728a6c" md5="282a9be8157a6167a389c7fff475ed3a" sha1="927b6d0525010265059ab1ee4d23c6a0598b7fb8" />
 		<rom name="games\MegaCD\1 MegaCD\1 USA\- Multi Disc\Dracula Unleashed (USA)\Dracula Unleashed (USA) (Disc 1) (Track 2).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e" />
@@ -5929,6 +5931,9 @@
 		<rom name="games\MegaCD\1 MegaCD\4 Demos &amp; Samples\Demos\USA\What Is X'Eye Multi Entertainment System (USA)\What Is X'Eye Multi Entertainment System (USA) (Track 7).bin" size="24832416" crc="4abb85d7" md5="5990e136e792c4afd69e350965192158" sha1="21b68fe1d63ff9febb4ba141b61bf4d1f8b47462" />
 		<rom name="games\MegaCD\1 MegaCD\4 Demos &amp; Samples\Demos\USA\What Is X'Eye Multi Entertainment System (USA)\What Is X'Eye Multi Entertainment System (USA) (Track 8).bin" size="6733776" crc="5576161c" md5="b5e7f064844a43d329aaaf221098707d" sha1="5e1b125e6e272680afadedfdeb39639eaecaa060" />
 		<rom name="games\MegaCD\1 MegaCD\4 Demos &amp; Samples\Demos\USA\What Is X'Eye Multi Entertainment System (USA)\What Is X'Eye Multi Entertainment System (USA).cue" size="1125" crc="96538d2a" md5="be7a8e8e1d9d9649d98737960aa5cf6d" sha1="c4af124a776fbd2bb1402c0b60760ad6f3a1cd7b" />
+		<rom name="games\MegaCD\240p Test Suite\240pSuite_EU.chd" size="2015363" crc="e73fa568" md5="08b95ad9a3009ea5e93fff14558755c9" sha1="a97d1e50f74b5da540dbded67ccc1cbd752b731a" />
+		<rom name="games\MegaCD\240p Test Suite\240pSuite_JP.chd" size="2014302" crc="68427b2e" md5="dcd685a171f1bdcff96bc5bd4e307dab" sha1="8dc7a4639d67135b42efc4e8f1fe63ef560b8605" />
+		<rom name="games\MegaCD\240p Test Suite\240pSuite_USA.chd" size="2015370" crc="c682efd1" md5="7802ca780b7a03cce6a91cadde6045a0" sha1="86c8718b5026f112796f30631a3cf1c2cf648a3e" />
 		<rom name="games\MegaCD\boot.rom" size="131072" crc="7e86c5da" md5="14db9657bbaa6fbb9249752424dc0ce4" sha1="9eed922bec1b9ff2b611dacf484d710b732bea5e" />
 		<rom name="games\MegaCD\Europe\cd_bios.rom" size="131072" crc="0507b590" md5="9b562ebf2d095bf1dabadbc1881f519a" sha1="7063192ae9f6b696c5b81bc8f0a9fe6f0c400e58" />
 		<rom name="games\MegaCD\Japan\cd_bios.rom" size="131072" crc="dd6cc972" md5="683a8a9e273662561172468dfa2858eb" sha1="d203cfe22c03ae479dd8ca33840cf8d9776eb3ff" />
@@ -8916,6 +8921,7 @@
 		<rom name="games\NeoGeo-CD\1 NeoGeo-CD\4 Demos &amp; Samples\Demos\Japan\Neo-Geo CD Special (Japan)\Neo-Geo CD Special (Japan) (Track 49).bin" size="19140576" crc="1b3affd6" md5="f8983989c56be5020931532819e10c54" sha1="a5c8010c942b89c153b47c392491ca7eb4ceb966" />
 		<rom name="games\NeoGeo-CD\1 NeoGeo-CD\4 Demos &amp; Samples\Demos\Japan\Neo-Geo CD Special (Japan)\Neo-Geo CD Special (Japan) (Track 50).bin" size="2977632" crc="e60f8755" md5="59a62da12f54e1bb44ddbecaa59149f9" sha1="e4d6d5ec2aaf0d65a7ddaab45e15d2df19ee4b55" />
 		<rom name="games\NeoGeo-CD\1 NeoGeo-CD\4 Demos &amp; Samples\Demos\Japan\Neo-Geo CD Special (Japan)\Neo-Geo CD Special (Japan).cue" size="7932" crc="c0d23d39" md5="b1a16923a7e1d47d6c538ed53a1caa33" sha1="516ead68a3608904a385c2581c1ca956f936409f" />
+		<rom name="games\NeoGeo-CD\240p Test Suite\240pTestSuite.chd" size="1235690" crc="c89dd34b" md5="1c87d70238aecdb325f581bc51502ea6" sha1="3f6ffa30eae53bb7ab70d72bc2ceedec4e5723be" />
 		<rom name="games\NeoGeo-CD\neocd.bin" size="524288" crc="df9de490" md5="f39572af7584cb5b3f70ae8cc848aba2" sha1="7bb26d1e5d1e930515219cb18bcde5b7b23e2eda" />
 		<rom name="games\NeoGeo-CD\top-sp1.bin" size="524288" crc="c36a47c0" md5="122aee210324c72e8a11116e6ef9c0d0" sha1="235f4d1d74364415910f73c10ae5482d90b4274f" />
 		<rom name="games\NeoGeo-CD\uni-bioscd.rom" size="524288" crc="ff3abc59" md5="08ca8b2dba6662e8024f9e789711c6fc" sha1="5142f205912869b673a71480c5828b1eaed782a8" />
@@ -18088,6 +18094,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\A\Actua Ice Hockey 2 (Europe)\Actua Ice Hockey 2 (Europe) (Track 1).bin" size="326975040" crc="b5202d8a" md5="7943cf565c68df9041a42d83bbc74d7d" sha1="9c30950a574d9c175176871ed7ad8780b5371360" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Actua Ice Hockey 2 (Europe)\Actua Ice Hockey 2 (Europe) (Track 2).bin" size="43015728" crc="23a0d83c" md5="33451bcd65e288c755efe76ce8a628c1" sha1="94703ff2489a233321c8d77caaa9ff09e3826ad5" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Actua Ice Hockey 2 (Europe)\Actua Ice Hockey 2 (Europe).cue" size="224" crc="97a06a2f" md5="b540b900efaddf086fa81c7a65ef96dd" sha1="1dcc43a046ab61fcd017ec3525100b95c0f80996" />
+		<rom name="games\PSX\1 PSX\2 Europe\A\Actua Ice Hockey 2 (Europe)\Actua Ice Hockey 2 (Europe).sbi" size="452" crc="39e75e69" md5="b3f88aa17361d948f15d9c526ef65fe8" sha1="712e9d4f9f209cb5cc6c930c22671b6393ca96a8" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Actua Soccer - Club Edition (Europe)\Actua Soccer - Club Edition (Europe) (Track 1).bin" size="198254784" crc="7c519e2f" md5="77dc8c9721776b8e080d5f7845b547c9" sha1="f8d01936dc64ac38d7cad3176ea0ed17996a29e5" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Actua Soccer - Club Edition (Europe)\Actua Soccer - Club Edition (Europe) (Track 2).bin" size="23595264" crc="ffa7cd61" md5="ac87136463c095032f4944d19a4f2e83" sha1="64a84a503ad3515215fc9819052b4556099aec21" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Actua Soccer - Club Edition (Europe)\Actua Soccer - Club Edition (Europe) (Track 3).bin" size="42818160" crc="89e85fcb" md5="a4327c0027665048810d8a24c00fee29" sha1="430e0acde6463554acb34787620a41943bd54bf1" />
@@ -18285,6 +18292,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\A\Asterix (Europe) (En,Fr,Nl) (Rev 1)\Asterix (Europe) (En,Fr,Nl) (Rev 1).cue" size="101" crc="cdd80839" md5="c9c94f85e678cb6719548953e415ea8b" sha1="bdc5662e77f5b4ad817ac96c115e1e05be13605a" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)\Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl).bin" size="614993904" crc="37b60938" md5="186d7062d15c90edd97e1aefe5a6d18b" sha1="a4f00a9a8d139d62f9c15ad19c735097dd0eab34" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)\Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl).cue" size="117" crc="ab54edb9" md5="a4fbf2406fd02b8e4bf2bef73cb8c4e5" sha1="4d2ff969d7c54a2dbcc06822abf0b06555ae097b" />
+		<rom name="games\PSX\1 PSX\2 Europe\A\Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)\Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl).sbi" size="452" crc="afdc69a7" md5="12be8b13c8f896dc0e76b4c3d98814ac" sha1="86cd75e27cd5fc40d79c2d4924d694f70fe4f74c" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Atlantis - The Lost Continent (Europe) (En,Fr,De)\Atlantis - The Lost Continent (Europe) (En,Fr,De).bin" size="608300112" crc="82b786af" md5="abadbd4695bb988227bb71baeebd9d2c" sha1="8f96854deebcbba8cf55c1f25ebf118f9c64d2b8" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Atlantis - The Lost Continent (Europe) (En,Fr,De)\Atlantis - The Lost Continent (Europe) (En,Fr,De).cue" size="115" crc="c47657f2" md5="262b3cda31e4edf0a232e150f46cbd22" sha1="99f77a9b6dfaaab1fd3a494f9fa3a5d6b402f19d" />
 		<rom name="games\PSX\1 PSX\2 Europe\A\Attack of the Saucerman (Europe) (En,Fr,De,Es,It)\Attack of the Saucerman (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="71079792" crc="128e971e" md5="edf5205c90dd77007d533cfede21367c" sha1="09cc3aff3bcc240e70ed05ac721fcca50e146416" />
@@ -18651,6 +18659,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\F\F.A. Premier League Football Manager 2001, The (Europe)\F.A. Premier League Football Manager 2001, The (Europe) (Track 1).bin" size="296777712" crc="3351ce92" md5="4ef0ac10e0fce6bec84f5ca8267e8aff" sha1="225738bba4f82a23c285739bd0a83c8fbdd6c3a9" />
 		<rom name="games\PSX\1 PSX\2 Europe\F\F.A. Premier League Football Manager 2001, The (Europe)\F.A. Premier League Football Manager 2001, The (Europe) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" />
 		<rom name="games\PSX\1 PSX\2 Europe\F\F.A. Premier League Football Manager 2001, The (Europe)\F.A. Premier League Football Manager 2001, The (Europe).cue" size="280" crc="829fc470" md5="0fe654e93e03a765f30bbd0830f1926f" sha1="ec7bee734db2ae1d9c48074e31beaaf477aaab2e" />
+		<rom name="games\PSX\1 PSX\2 Europe\F\F.A. Premier League Football Manager 2001, The (Europe)\F.A. Premier League Football Manager 2001, The (Europe).sbi" size="452" crc="5b46cbde" md5="9f79573f347b72cd0b51f6ad9cd8c0e4" sha1="ec148f82a22cf3004d6c17f410b7964c4b40d341" />
 		<rom name="games\PSX\1 PSX\2 Europe\F\F.A. Premier League Stars 2001, The (Europe)\F.A. Premier League Stars 2001, The (Europe) (Track 1).bin" size="659667792" crc="47e4f84d" md5="b28ec20b13690edb9fd49ff0aac1289d" sha1="59f2d95cde4ab7527d2b0a1b3cc33929afabfd38" />
 		<rom name="games\PSX\1 PSX\2 Europe\F\F.A. Premier League Stars 2001, The (Europe)\F.A. Premier League Stars 2001, The (Europe) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" />
 		<rom name="games\PSX\1 PSX\2 Europe\F\F.A. Premier League Stars 2001, The (Europe)\F.A. Premier League Stars 2001, The (Europe).cue" size="258" crc="70be3228" md5="ad8a626d7e1fa78309b5e24d39c48fd6" sha1="49b648ff2a6dc41a5c10784d04224c1953355fe8" />
@@ -19135,8 +19144,10 @@
 		<rom name="games\PSX\1 PSX\2 Europe\L\LMA Manager (Europe)\LMA Manager (Europe).cue" size="86" crc="081f5d14" md5="fde1d8280acfec1c0b184f47b6647c50" sha1="a276291ecf01484b96b7b6c1908aa32f4b4aab64" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\LMA Manager 2001 (Europe)\LMA Manager 2001 (Europe).bin" size="599044992" crc="eb4f6022" md5="68b0e0f98c6ab95e1501ce03bd918c2e" sha1="0a49a9976b95942c11b9ef82cb8805ff9b0c8e4b" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\LMA Manager 2001 (Europe)\LMA Manager 2001 (Europe).cue" size="91" crc="b0a7798b" md5="074e50d33f7bd065586e2827d9f821ec" sha1="cafe89c3f2340c29c042383fd8327a79aa98e04e" />
+		<rom name="games\PSX\1 PSX\2 Europe\L\LMA Manager 2001 (Europe)\LMA Manager 2001 (Europe).sbi" size="452" crc="1c192c36" md5="3e59454ef9183ed712632ab8e468d9a5" sha1="2cd2ce144b228deff3b8be65bdbf2e7006bfc921" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\LMA Manager 2002 (Europe)\LMA Manager 2002 (Europe).bin" size="586856928" crc="c49b8579" md5="599396690e44f433a0f28fe29216ea8b" sha1="0f651d99af48ea374b57f25dc9f8ae7c62d77e51" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\LMA Manager 2002 (Europe)\LMA Manager 2002 (Europe).cue" size="91" crc="5b0d3136" md5="bd301177a3f4fd81dc3a97a015027add" sha1="be5ccb739fb7e5b4b3e4e883ff9bf24c4215a037" />
+		<rom name="games\PSX\1 PSX\2 Europe\L\LMA Manager 2002 (Europe)\LMA Manager 2002 (Europe).sbi" size="452" crc="dea267b1" md5="ddfc078800e7f90904b5fcee857c9859" sha1="fb461d6b2f6dd084368977aca1b0d2e8d0c825c0" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\London Racer (Europe)\London Racer (Europe) (Track 01).bin" size="89644128" crc="61cbc643" md5="aca924078abf8db92fb1a6c5437bf5df" sha1="ea76dbed6af6754dee2826fa15a8ef019bc9000d" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\London Racer (Europe)\London Racer (Europe) (Track 02).bin" size="10953264" crc="d5754a6d" md5="f59f0ee5042e66f5ed4796606146d2f3" sha1="5d8fc55934c8c862d71520b8fab1100145cc0a51" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\London Racer (Europe)\London Racer (Europe) (Track 03).bin" size="7413504" crc="0637fba6" md5="5065f10573e97964f3ed95ca1551172e" sha1="15a3a66a72797e19e7154db02b2af2288c29a2bf" />
@@ -19166,6 +19177,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\L\Lord of the Jungle (Europe) (En,Fr,De,Nl)\Lord of the Jungle (Europe) (En,Fr,De,Nl).cue" size="107" crc="ed8f63ab" md5="a54580b337774f3ab695a44cd6e4a50e" sha1="844635f1384cb92abbb191bfc9050a56e9441519" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl)\Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl).bin" size="597650256" crc="03438c39" md5="c04def633121b8e01a2ee791034f286c" sha1="e2d86ddc2ff4020b1a6604d760198290091cbe11" />
 		<rom name="games\PSX\1 PSX\2 Europe\L\Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl)\Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl).cue" size="121" crc="2a1b3ba8" md5="c9abb594aa32fab0ec585757e2f03bb3" sha1="6021a94ec647b5114af5347ad663db605f7917bc" />
+		<rom name="games\PSX\1 PSX\2 Europe\L\Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl)\Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl).sbi" size="452" crc="998255b2" md5="6d67e4948412ca5b4e573f5fe9a48b34" sha1="76664480bfb1e054c61ee9e87ac81b8980fd5735" />
 		<rom name="games\PSX\1 PSX\2 Europe\M\Magical Tetris Challenge (Europe)\Magical Tetris Challenge (Europe) (Track 1).bin" size="319265184" crc="0c886cb7" md5="6203142615ef7cefa99a172d8d4e71b4" sha1="e6c13e1e052cc7884402011b8f145a6a93c686d7" />
 		<rom name="games\PSX\1 PSX\2 Europe\M\Magical Tetris Challenge (Europe)\Magical Tetris Challenge (Europe) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538" />
 		<rom name="games\PSX\1 PSX\2 Europe\M\Magical Tetris Challenge (Europe)\Magical Tetris Challenge (Europe).cue" size="236" crc="47c1f0e7" md5="4ab136e5bcdb30686d572832ff097c84" sha1="521ba86ac3e475254fd8df3c6c74ce705af8ee5c" />
@@ -19467,6 +19479,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\P\PGA European Tour Golf (Europe) (En,De)\PGA European Tour Golf (Europe) (En,De) (Track 2).bin" size="34466208" crc="54d5b906" md5="4cc42cb33b8b76e18f0c5f030791b01e" sha1="b57f73bb9f19027bde769030a1a358f0d97746c9" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\PGA European Tour Golf (Europe) (En,De)\PGA European Tour Golf (Europe) (En,De) (Track 3).bin" size="33734736" crc="b2103bf6" md5="12f677b43b7871642775193b1e4fb616" sha1="b128dff09fd4efd86a18661f4bb87c12fe7954da" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\PGA European Tour Golf (Europe) (En,De)\PGA European Tour Golf (Europe) (En,De).cue" size="381" crc="c8640912" md5="51a3d8a298ae68669863c80656094aa7" sha1="3e16f4806beda1d01861b9aa988a424631e7ebc8" />
+		<rom name="games\PSX\1 PSX\2 Europe\P\PGA European Tour Golf (Europe) (En,De)\PGA European Tour Golf (Europe) (En,De).sbi" size="452" crc="845b375f" md5="6052c170dd40c81363fef8ec0b5314fb" sha1="9f2d4964ffdb6d0422653dc3f33ca9facbcc029b" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Pinball Power (Europe)\Pinball Power (Europe) (Track 01).bin" size="23783424" crc="2a2a456e" md5="063e5e3417be182126a6d04024ff02a3" sha1="795b98594e7d3499aa14a5f4854e52886fdd5502" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Pinball Power (Europe)\Pinball Power (Europe) (Track 02).bin" size="1467648" crc="a857e8cb" md5="1365610baf3ce5b91718401767b9920a" sha1="408e878f90496c96a9d4a96bd1b8fac768f51042" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Pinball Power (Europe)\Pinball Power (Europe) (Track 03).bin" size="1467648" crc="9fb31642" md5="ccd1ac05047b749ce4b64e99fbf81fa3" sha1="37abc39e3c5a0d200c4da0f1a8990a2205f7526b" />
@@ -19541,6 +19554,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\P\Poy Poy 2 (Europe)\Poy Poy 2 (Europe).cue" size="84" crc="6c1f5fbc" md5="00d92d929cf5659e414941f76addf966" sha1="5157d78a9edbba222b5554d4a7d479962210a24a" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Premier Manager 2000 (Europe)\Premier Manager 2000 (Europe).bin" size="531128640" crc="5f477128" md5="103550f7f83f9564a9a9e2b65f8a5a3c" sha1="7f1bbc3116953ec1635f424d15f86f2f593cb585" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Premier Manager 2000 (Europe)\Premier Manager 2000 (Europe).cue" size="95" crc="c727a52c" md5="4beb4269f4eb85da85e5a4d472c9d0db" sha1="db4990a85ffa2e71a6082422069c50fb826ee928" />
+		<rom name="games\PSX\1 PSX\2 Europe\P\Premier Manager 2000 (Europe)\Premier Manager 2000 (Europe).sbi" size="452" crc="f75746da" md5="64aea055da8bcb25be0b7c7f3f7b4f40" sha1="015ace82cf35e2f37b07883da42fca21fcdb5909" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Premier Manager 98 (Europe)\Premier Manager 98 (Europe) (Track 1).bin" size="185998512" crc="462bf97a" md5="80f286421bba49d9ca9815706db81116" sha1="fc68f23d64319b592ddff949bf963774415c21a9" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Premier Manager 98 (Europe)\Premier Manager 98 (Europe) (Track 2).bin" size="38904432" crc="f6c696f3" md5="b545482f69d287174c5ac5ce72cf91ee" sha1="e966dd67f73d2d9c342521851392535a519785c8" />
 		<rom name="games\PSX\1 PSX\2 Europe\P\Premier Manager 98 (Europe)\Premier Manager 98 (Europe).cue" size="224" crc="e055465a" md5="4ebe72d15680643a2d0edcf7104db6fe" sha1="5d6572235f7706b8b572c3ee50cd838a73f6d5ea" />
@@ -19599,6 +19613,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\P\Puma Street Soccer (Europe) (En,Fr,De,It)\Puma Street Soccer (Europe) (En,Fr,De,It).cue" size="1197" crc="31aa6f23" md5="d953e5dd80a6dcf2175e875ddbf7162b" sha1="946cd5e76461945b6307ca3113231fea1ecf82d5" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Radikal Bikers (Europe) (En,Fr,De,Es,It)\Radikal Bikers (Europe) (En,Fr,De,Es,It).bin" size="251353536" crc="b2f67860" md5="74ad7f846182ad1c9dead523e1f7645f" sha1="2208cbf38cafbe24cd0a1ef9690af82564b3be03" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Radikal Bikers (Europe) (En,Fr,De,Es,It)\Radikal Bikers (Europe) (En,Fr,De,Es,It).cue" size="106" crc="4d4a6b5f" md5="b1640bf1fcd07e9052b6ee83ce3f5022" sha1="bff58ed5f31d7ea258b737db3b5a70249cb0af8f" />
+		<rom name="games\PSX\1 PSX\2 Europe\R\Radikal Bikers (Europe) (En,Fr,De,Es,It)\Radikal Bikers (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="12deb12c" md5="27559179fd2875550f0a05b0236b02cc" sha1="e20d4c2de989b82f6bfe2c4c73fbad22f6b6ae09" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Rapid Reload (Europe)\Rapid Reload (Europe).bin" size="398346480" crc="a3de7521" md5="88d1307bd8d85d31ed3d313d2f9a4235" sha1="c48180533fa29103576a9d76078b308544265718" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Rapid Reload (Europe)\Rapid Reload (Europe).cue" size="87" crc="bedba423" md5="afa2836f789604e8731a0cf664601f3f" sha1="e6f89d35e09436df31baec43e61547099d47ff85" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Rayman Junior (Europe) (Fr,De,Es,It)\Rayman Junior (Europe) (Fr,De,Es,It) (Track 01).bin" size="248949792" crc="8fd7c8eb" md5="551fe4b38b9fa78bbcceb0dadd955472" sha1="70f03a7124a0562b0d7b618480c1b3201e891856" />
@@ -19679,6 +19694,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\R\Roland Garros French Open 2001 (Europe) (En,Fr,De,Es,It)\Roland Garros French Open 2001 (Europe) (En,Fr,De,Es,It).cue" size="122" crc="a91f3b08" md5="a05d99e746503dd5a40aad676d1c35b5" sha1="ba0d0e0ef1c37f3717260c04bf17f67127420f7b" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Ronaldo V-Football (Europe) (En,Fr,Nl,Sv)\Ronaldo V-Football (Europe) (En,Fr,Nl,Sv).bin" size="678796608" crc="f40861ad" md5="74f97bc4642c5aa94ed122ce039248ec" sha1="04e7ad9718b06c130b1fed11b583bb3d5ada8895" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Ronaldo V-Football (Europe) (En,Fr,Nl,Sv)\Ronaldo V-Football (Europe) (En,Fr,Nl,Sv).cue" size="107" crc="7358f811" md5="96ecbaba2dc0f475ce6486ea7ec8a62b" sha1="e42ce6dc9da186a0b5e4500b2a5632adda6c7cae" />
+		<rom name="games\PSX\1 PSX\2 Europe\R\Ronaldo V-Football (Europe) (En,Fr,Nl,Sv)\Ronaldo V-Football (Europe) (En,Fr,Nl,Sv).sbi" size="452" crc="30a9fe62" md5="37774406d9a970c1a571fdfd76d17f96" sha1="3389a964589564768302bfddd75891d6377a7552" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Rox (Europe)\Rox (Europe).bin" size="45360672" crc="1cc8aece" md5="3c2ad9ae59d5d61485a2d72edc75d8d2" sha1="3b6e8cb0ba98f8e87f9a94d835c300739c681697" />
 		<rom name="games\PSX\1 PSX\2 Europe\R\Rox (Europe)\Rox (Europe).cue" size="78" crc="45b6a06c" md5="bf097d1f535b1069529f7b4bc0ac90fa" sha1="9e06912b93b843d2f3d04e35ea5c4e378c36410a" />
 		<rom name="games\PSX\1 PSX\2 Europe\S\Sampras Extreme Tennis (Europe) (En,Fr,De,Es,It)\Sampras Extreme Tennis (Europe) (En,Fr,De,Es,It) (Track 1).bin" size="542827488" crc="366fd133" md5="d94f8440044df03a10e6c42328f8d126" sha1="dc8e6781f16207776f33daaeb789cfc27f3ae25b" />
@@ -19800,6 +19816,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\S\Space Debris (Europe)\Space Debris (Europe) (Track 1).bin" size="522214560" crc="9b719038" md5="49a3b857b041c5e95c15e8874af543eb" sha1="fe95f837074dfa41361c423c534b828a1be4a901" />
 		<rom name="games\PSX\1 PSX\2 Europe\S\Space Debris (Europe)\Space Debris (Europe) (Track 2).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a" />
 		<rom name="games\PSX\1 PSX\2 Europe\S\Space Debris (Europe)\Space Debris (Europe).cue" size="212" crc="e761602a" md5="0fc427e2936200cef10485857fe53e7c" sha1="6b517b678dc36a38ce33d255103193e0e25240be" />
+		<rom name="games\PSX\1 PSX\2 Europe\S\Space Debris (Europe)\Space Debris (Europe).sbi" size="452" crc="ff2e314c" md5="9ff82257b9e6e96b92230593389dede9" sha1="a35029fa69c9a4c32f5752b9f0ff7743ffc1923c" />
 		<rom name="games\PSX\1 PSX\2 Europe\S\Space Rider (Europe)\Space Rider (Europe).bin" size="102765936" crc="dc7cded0" md5="00aa0fad91cb3884a15432c03676a1d2" sha1="a6af4ac026bb62f77a66c17006125e371b22b59b" />
 		<rom name="games\PSX\1 PSX\2 Europe\S\Space Rider (Europe)\Space Rider (Europe).cue" size="86" crc="2f72e834" md5="b71ed5442fa364612bcc142c9174a449" sha1="15a771ee0c7119182ff03d612b92c1722801978b" />
 		<rom name="games\PSX\1 PSX\2 Europe\S\Speed Machines (Europe)\Speed Machines (Europe) (Track 01).bin" size="38309376" crc="96d191c2" md5="14f5ac98a2b22b90f2641ea74a07bdf1" sha1="7f7c9c078f9fd330a403f2005f77e97a1ee48942" />
@@ -19901,6 +19918,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\T\Tank Racer (Europe) (En,Fr,De,Es,It)\Tank Racer (Europe) (En,Fr,De,Es,It).cue" size="1423" crc="895a0613" md5="5d98e3b69ab4e8127055ae834e3a0ac1" sha1="0bc3944581e794a5ef06d16dfd66e9172af05c78" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\TechnoMage - Return of Eternity (Europe)\TechnoMage - Return of Eternity (Europe).bin" size="682315200" crc="6010fa91" md5="78b4f0f9a6c5dbc0963a87ad571ae3ab" sha1="790600d94f38efd28519fef767b2c8c52526aadb" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\TechnoMage - Return of Eternity (Europe)\TechnoMage - Return of Eternity (Europe).cue" size="106" crc="6ed71521" md5="bc2838fbc05aae6ef72f3da6c833156c" sha1="71223456d07192ab9c9a24e814829fa600dd6ce6" />
+		<rom name="games\PSX\1 PSX\2 Europe\T\TechnoMage - Return of Eternity (Europe)\TechnoMage - Return of Eternity (Europe).sbi" size="452" crc="3208a23f" md5="2a10f9f63b550364a47db5120678fffb" sha1="3b37dd8f215a8aa2e8062933f775bbc3aa39ace8" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\Terracon (Europe) (En,Fr,De,Es,It)\Terracon (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="65329152" crc="dd260ba2" md5="d8d1d682e65335cad9611248755019ed" sha1="013b349a16347019c7d73199b4baae6f7bbd5eb3" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\Terracon (Europe) (En,Fr,De,Es,It)\Terracon (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="37853088" crc="413f4b87" md5="b2e6833881a66a26a74f2ebbb61bf603" sha1="b97d825d83deea4767eb27bd3deacc2ee9fda861" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\Terracon (Europe) (En,Fr,De,Es,It)\Terracon (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="35369376" crc="a3e340f1" md5="8188b0581ee13d7a3b10bcb5a2537caf" sha1="16ec450e5a6a946aa35e50db7e4b49453ef8ff5a" />
@@ -19922,6 +19940,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\T\Terracon (Europe) (En,Fr,De,Es,It)\Terracon (Europe) (En,Fr,De,Es,It).cue" size="2304" crc="490cf687" md5="a1f96f714fdee6475a5d67e0e82cf054" sha1="01af03762bf981aeed4dc777050872083f13da5e" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\This Is Football (Europe)\This Is Football (Europe).bin" size="345941568" crc="dfea9706" md5="d8ce90a37fef4525b8e09c3a63f0435e" sha1="478c0f467d6451f412d3d5ac195fec7dd4068f6c" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\This Is Football (Europe)\This Is Football (Europe).cue" size="91" crc="2af862ef" md5="e7e0468f8169f9826e66b7d13d7add34" sha1="544de29e86fa84851edc25782187f8b2e9d9dc02" />
+		<rom name="games\PSX\1 PSX\2 Europe\T\This Is Football (Europe)\This Is Football (Europe).sbi" size="452" crc="77b81dec" md5="e89c3493febd6938e4e64b39bc67e749" sha1="3883d16481f2fbc90a2cdb370dd12f9472c40bc6" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\This Is Football 2 (Europe)\This Is Football 2 (Europe).bin" size="642126576" crc="1995e635" md5="12d4d4efc111192306e99d12c52e77de" sha1="4632323d52f9f2ac802b3f940dc13f158d856c44" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\This Is Football 2 (Europe)\This Is Football 2 (Europe).cue" size="93" crc="8993a1f2" md5="fa396835f4ae716bff71491ec31830ad" sha1="2398a8013326b6e37ca989081cdf5d838646976a" />
 		<rom name="games\PSX\1 PSX\2 Europe\T\Tilt! (Europe) (En,Fr,De)\Tilt! (Europe) (En,Fr,De) (Track 1).bin" size="73951584" crc="9382ee38" md5="8ad911dd15ee1729ed878c4d7f12064c" sha1="3ae2e993ace910b5f2b2739da81ff6b054298689" />
@@ -20027,6 +20046,7 @@
 		<rom name="games\PSX\1 PSX\2 Europe\U\UEFA Champions League - Season 2000-2001 (Europe)\UEFA Champions League - Season 2000-2001 (Europe).cue" size="554" crc="c5eb5ad0" md5="1b4e13179440c1af3fb39dc2ee9b174c" sha1="247d7d8abe057bfd69bb057a5eb5968b10fa28ca" />
 		<rom name="games\PSX\1 PSX\2 Europe\U\UEFA Euro 2000 (Europe)\UEFA Euro 2000 (Europe).bin" size="461457696" crc="7c43594e" md5="205c720d8ad91a9dfde19d79e5b36d64" sha1="137aef6df20f070a919b8d2d5e6671ec75466662" />
 		<rom name="games\PSX\1 PSX\2 Europe\U\UEFA Euro 2000 (Europe)\UEFA Euro 2000 (Europe).cue" size="89" crc="6838e070" md5="9788ccc186eb48efd9150236f294e497" sha1="1ecd2695015b462c80de0e4c1257b547608256af" />
+		<rom name="games\PSX\1 PSX\2 Europe\U\UEFA Euro 2000 (Europe)\UEFA Euro 2000 (Europe).sbi" size="452" crc="5eda8579" md5="1e82d932a57c27a941b4d2e09408063c" sha1="dd8d6c2f18740eebab156047dbad592cba10f63a" />
 		<rom name="games\PSX\1 PSX\2 Europe\U\US Racer (Europe) (En,Fr,De,Nl)\US Racer (Europe) (En,Fr,De,Nl).bin" size="362765424" crc="545c1432" md5="3f94f4c9ed7ff4acf92fa830dbdf8c7e" sha1="95f5d2f49c73036b0691eeb7dba95d984fdb3b79" />
 		<rom name="games\PSX\1 PSX\2 Europe\U\US Racer (Europe) (En,Fr,De,Nl)\US Racer (Europe) (En,Fr,De,Nl).cue" size="97" crc="85e57e71" md5="0cb5f56d2312dfb9cd282275b4eebeab" sha1="5744c53f4b5659d255bdc6995d5dfee21a99ee76" />
 		<rom name="games\PSX\1 PSX\2 Europe\V\V-Ball - Beach Volley Heroes (Europe)\V-Ball - Beach Volley Heroes (Europe) (Track 01).bin" size="57562848" crc="5132b5b9" md5="62d4ad0e6afe88c7b02e5dc7a9f6f780" sha1="1bb47aa29c594301384bd6eba9aea85c06969a98" />
@@ -39061,464 +39081,10 @@
 		<rom name="games\PSX\1 PSX\4 Educational\USA\Write Away 8 (USA)\Write Away 8 (USA).cue" size="84" crc="e875a87e" md5="0bbf086ac7e723b9ba7f0ede16737774" sha1="b1111f914be0ae40f7e6df7ba27c8c5a5f5de728" />
 		<rom name="games\PSX\1 PSX\4 Educational\USA\Write Away 9 (USA)\Write Away 9 (USA).bin" size="462779520" crc="99dfebf8" md5="26384d83640b7457a12c713428c86990" sha1="eaa792515362de4c6ff6f3b57df5411821d91431" />
 		<rom name="games\PSX\1 PSX\4 Educational\USA\Write Away 9 (USA)\Write Away 9 (USA).cue" size="84" crc="65344c26" md5="68becec6446b5a4b8a5e36768d8059d8" sha1="7eef235d7f5fb65248e38a9dbe9aba24cafb4224" />
+		<rom name="games\PSX\240p Test Suite\240pTestSuitePS1.chd" size="299794" crc="3f5fdc9e" md5="a0b48a8d9254819872838367521f556e" sha1="dc564684272f42c1ff8c4818f0aafe44136a7f7a" />
 		<rom name="games\PSX\boot.rom" size="524288" crc="502224b6" md5="1e68c231d0896b7eadcad1d7d8e76129" sha1="14df4f6c1e367ce097c11deae21566b4fe5647a9" />
 		<rom name="games\PSX\boot1.rom" size="524288" crc="ec541cd0" md5="8e4c14f567745eff2f0408c8129f72a6" sha1="77b10118d21ac7ffa9b35f9c4fd814da240eb3e9" />
 		<rom name="games\PSX\boot2.rom" size="524288" crc="318178bf" md5="b9d9a0286c33dc6b7237bb13cd46fdee" sha1="8d5de56a79954f29e9006929ba3fed9b6a418c1d" />
-		<rom name="games\PSX\sbi\ByName\Actua Ice Hockey 2 (Europe).sbi" size="452" crc="39e75e69" md5="b3f88aa17361d948f15d9c526ef65fe8" sha1="712e9d4f9f209cb5cc6c930c22671b6393ca96a8" />
-		<rom name="games\PSX\sbi\ByName\Anstoss - Premier Manager (Germany).sbi" size="452" crc="ed15bb61" md5="e24c82a9d542b259d9274d2f11176e70" sha1="aeaee799c2558888368908853a484afa88d7e823" />
-		<rom name="games\PSX\sbi\ByName\Ape Escape (Europe).sbi" size="452" crc="5fcd931f" md5="810d054e214100d822e7ee30ca63cad8" sha1="2313adb218d6f307d02605f7cab69e68e6ec4fe6" />
-		<rom name="games\PSX\sbi\ByName\Ape Escape (France).sbi" size="452" crc="dc078e7f" md5="68520d0c02bc00ae0fe8ce4b641b6c0b" sha1="f6c14d40f14ac2194ed51d5bf78a25a9741edf55" />
-		<rom name="games\PSX\sbi\ByName\Ape Escape (Germany).sbi" size="452" crc="30c760d1" md5="fe762488eb4ef030669ceebabea11e2c" sha1="c42f470cfd8a3b41b94158586c18d955ff3242ef" />
-		<rom name="games\PSX\sbi\ByName\Ape Escape (Italy).sbi" size="452" crc="4ad00dbe" md5="5ad5c1cf6bfb2c2470363503bf17cb84" sha1="54fbc2aa2a1c2b7f7a321a17912b2d77a6ebeb14" />
-		<rom name="games\PSX\sbi\ByName\Ape Escape - La Invasion de los Monos (Spain).sbi" size="452" crc="400c705f" md5="2741f28baf398916fe0c92bfa208e6c1" sha1="1b941f652771dfd69885c0daa7c457daac465407" />
-		<rom name="games\PSX\sbi\ByName\Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl).sbi" size="452" crc="afdc69a7" md5="12be8b13c8f896dc0e76b4c3d98814ac" sha1="86cd75e27cd5fc40d79c2d4924d694f70fe4f74c" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Aventure Equestre (France).sbi" size="452" crc="9f864a15" md5="eea2ed1063d2d587842cab07d8f9d2bf" sha1="309dd9e7e3e452d4511e9dc07fe086871976fc96" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Race &amp; Ride (Europe).sbi" size="452" crc="a9a9a3cf" md5="b47dd469831155bd413d60578880586c" sha1="19b6fa7d8642d9c3fc922432bfcd1be78bc77a2d" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Race &amp; Ride (Germany).sbi" size="452" crc="f0b11200" md5="0d4779bffea4446430f92183655ca460" sha1="c3ba9863cf765376ce2abd7e5cb86334bb9963e5" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Race &amp; Ride (Italy).sbi" size="452" crc="fe1df50b" md5="c7d8f7b735284947c5570b40b689200c" sha1="e9ed931e325d048bd1ed842733a156a2857842cd" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Race &amp; Ride (Spain).sbi" size="452" crc="2dc26252" md5="fddef862460b1d9b95e9b872fd5e678e" sha1="b3e8b04bca9108eb668d4343264acf22f271e57d" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Sports Extreme (France).sbi" size="452" crc="35098405" md5="2e214fdae5606e56a7fe9cdf2f119160" sha1="3c551d0a868049e3f8cf77fb145527348736b78f" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Super Sport (Germany).sbi" size="452" crc="8fd8aad0" md5="db4f78c1aa477623b4f07a0cb2b725d2" sha1="1da4538665b337c1daba2c193cce0668b077b976" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Super Sports (Europe).sbi" size="452" crc="45f4bfd0" md5="48c777559a91ff39c0d24a9d45c2956d" sha1="cd82ef364dfec09bd00e60822a5251a2fa36ca95" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Super Sports (Italy).sbi" size="452" crc="3c99cc6a" md5="da99bbb76d4d7a7fabe3d2c6f6fd4797" sha1="48c053ad99b10b76b26f3c4a6559741dbd701a61" />
-		<rom name="games\PSX\sbi\ByName\Barbie - Super Sports (Spain).sbi" size="452" crc="dd241b0b" md5="b5f915323aa421c59fe28a7d9953f9da" sha1="3bc76167b8a482ca762ba077db787962cc1617f9" />
-		<rom name="games\PSX\sbi\ByName\BDFL Manager 2001 (Germany).sbi" size="452" crc="f0c8d4ad" md5="510837586a0ccbce004f08a8e76c2fe4" sha1="ef7ffd25dcad3e1ccfe54691eb795c5b8829140b" />
-		<rom name="games\PSX\sbi\ByName\BDFL Manager 2002 (Germany).sbi" size="452" crc="446306c8" md5="31f3f0a4b75ce7212fbcc341bc847d7f" sha1="42eaab06150b97ecb5815ff60b9969da0f26b718" />
-		<rom name="games\PSX\sbi\ByName\Canal+ Premier Manager (Europe) (Fr,Es,It).sbi" size="452" crc="73e29152" md5="0f1870d96380fb523a93ecf7a22de6b7" sha1="b91fc4b328e9109b1d472bcef5ad613239b1cabf" />
-		<rom name="games\PSX\sbi\ByName\Cochons de Guerre, Les (France).sbi" size="452" crc="d69c5f51" md5="3312839b1802cdce500f7ab372f882a7" sha1="c05f5665b82d18e4891c0ae3aa68915132a18859" />
-		<rom name="games\PSX\sbi\ByName\Crash Bash (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="9d6e7d13" md5="3d521a4adc278e06238a50e4a0834da5" sha1="dba516206c184bd0d75722211f5825485846838b" />
-		<rom name="games\PSX\sbi\ByName\CTR - Crash Team Racing (Europe) (En,Fr,De,Es,It,Nl) (EDC).sbi" size="452" crc="68eec9e2" md5="763f9eda341b446f3b21d0b326b459c0" sha1="b588e6478be0bff0e53922a4c838d6601e792603" />
-		<rom name="games\PSX\sbi\ByName\CTR - Crash Team Racing (Europe) (En,Fr,De,Es,It,Nl).sbi" size="452" crc="68eec9e2" md5="763f9eda341b446f3b21d0b326b459c0" sha1="b588e6478be0bff0e53922a4c838d6601e792603" />
-		<rom name="games\PSX\sbi\ByName\Dino Crisis (Europe).sbi" size="452" crc="c9c7ab72" md5="c00747dd2cd26fef31f1196cc7df9844" sha1="7ce026477ecf1b2113700c385895392d50c34350" />
-		<rom name="games\PSX\sbi\ByName\Dino Crisis (France).sbi" size="452" crc="aac2d94d" md5="d87fb6e7c18cc7793fb8dcf2b0f5e86f" sha1="9bf5c2d2fadfe2942f888effceb201525763902c" />
-		<rom name="games\PSX\sbi\ByName\Dino Crisis (Germany).sbi" size="452" crc="c3f2ca64" md5="3f2ae5be07b61568237947ceabc341d5" sha1="209369a5168b2c77cb000ec178b55709584cae2b" />
-		<rom name="games\PSX\sbi\ByName\Dino Crisis (Italy).sbi" size="452" crc="2beba179" md5="c0b6fc847cebb7a4830e9d0705b96530" sha1="57e4a7bf3b626b0cf0253871b0e9d4b7c00113db" />
-		<rom name="games\PSX\sbi\ByName\Dino Crisis (Spain).sbi" size="452" crc="7be522a7" md5="198000ce9bc50da3fba726448f8385c3" sha1="5a8b0c628aed6bcf7540cf687fb6b95e51b60b22" />
-		<rom name="games\PSX\sbi\ByName\Disney Fais Ton Histoire! Mulan (France).sbi" size="452" crc="3d3fa8ae" md5="8dff21c42aafa12e023fe4851db609ce" sha1="953d55b2d178107312513d716fbf39df6d42b7e2" />
-		<rom name="games\PSX\sbi\ByName\Disney Libro Animato Creativo - Mulan (Italy).sbi" size="452" crc="6cda8fff" md5="33fa6e95c98d30b21231ffb6ad29fa25" sha1="4080a6ae815b04f89dd55f61e1305c5de57031a9" />
-		<rom name="games\PSX\sbi\ByName\Disney Tarzan (France).sbi" size="452" crc="a319cc9f" md5="bef1279479a53b3b99d4b6868ff5508a" sha1="298d4d9eec821de88eb68ad79591a723eb48af94" />
-		<rom name="games\PSX\sbi\ByName\Disney Tarzan (Italy).sbi" size="452" crc="2812001d" md5="fe51a8739048467c54a120bb78cd88eb" sha1="81b15d8286eaee5c37a267d8ea57b3bc6a3f8f35" />
-		<rom name="games\PSX\sbi\ByName\Disney Tarzan (Spain).sbi" size="452" crc="020e87f6" md5="d8d824cac49ac4139df9704910311ae8" sha1="e3c7d45d10f70ede838804370f6f3ac17c260102" />
-		<rom name="games\PSX\sbi\ByName\Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It,Nl).sbi" size="452" crc="43f286e2" md5="d33a8475bfb22e58a8550bb6532c47f8" sha1="102226a7f718469c2bff2577300eeac5b148ee25" />
-		<rom name="games\PSX\sbi\ByName\Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Rev 1).sbi" size="452" crc="e8d50833" md5="54f70619b32bc6d7845e53fc4c6fb975" sha1="0aa52445b848d7c11a04596877b5500b021439d3" />
-		<rom name="games\PSX\sbi\ByName\Disney's 102 Dalmatians - Puppies to the Rescue (Scandinavia) (Sv,No,Da).sbi" size="452" crc="bb98f21b" md5="72d313c3100aeae2455fe3132a19424d" sha1="3aec0284f86ab1a4ade11110d972eac3442e6c7e" />
-		<rom name="games\PSX\sbi\ByName\Disney's Aventura Interactiva - Mulan (Spain).sbi" size="452" crc="f6e65649" md5="eb314f8fbb873012dafe31c3c47532c8" sha1="d0b5f5357538902588ce1790a1796dce767285b7" />
-		<rom name="games\PSX\sbi\ByName\Disney's Mulan - Story Studio (Europe).sbi" size="452" crc="9b3ec8e9" md5="fb36a6f925459f490c11767298aaba93" sha1="8c3b7b5d983d62ceb79897ae6b18676319f4f762" />
-		<rom name="games\PSX\sbi\ByName\Disney's Tarzan (Europe).sbi" size="452" crc="04089547" md5="257a9007ae7e160db3eb442e13aeb885" sha1="a4a7fa7e660ff4a1a67ea5f7eb122e75c6b9287d" />
-		<rom name="games\PSX\sbi\ByName\Disney's Tarzan (Netherlands).sbi" size="452" crc="93ae4622" md5="f70be1b86c59b1d3daac94cac91aa600" sha1="59f9c3b3ad988e4053daa3119acb5321b54a4d2a" />
-		<rom name="games\PSX\sbi\ByName\Disney's Verhalenstudio - Mulan (Netherlands).sbi" size="452" crc="6f138364" md5="ba793692a3d3faf13630db2b345d4541" sha1="96c325a3f2c2dd2e39eb1d065fa7b22ca0cc3c2a" />
-		<rom name="games\PSX\sbi\ByName\Disneyn Tarzan (Finland).sbi" size="452" crc="ee9ad754" md5="d2594255339cd47222cd630ee6e3cc01" sha1="a25434e8df122e797970881f47143e43a739fdbb" />
-		<rom name="games\PSX\sbi\ByName\Disneys Interaktive Abenteuer - Mulan (Germany).sbi" size="452" crc="fdf7d1da" md5="abec1451edb5a4a66797091b53a3be1e" sha1="b287acb9b4817a8d7f9c480b6532bf0e46a2c3f4" />
-		<rom name="games\PSX\sbi\ByName\Disneys Tarzan (Denmark).sbi" size="452" crc="0e23e9c1" md5="54a33e40f45a56d3dd897595c9d489b1" sha1="de4526fb3e609fa54c1ad40a961d04cbf365dcff" />
-		<rom name="games\PSX\sbi\ByName\Disneys Tarzan (Germany).sbi" size="452" crc="37eab5e9" md5="75d850215e90b2287805440861740a24" sha1="293f2555306acbce292ab514e82e8f16e6e8853b" />
-		<rom name="games\PSX\sbi\ByName\Disneys Tarzan (Sweden).sbi" size="452" crc="1757b1ab" md5="152aabb85a7ff41063f3d11df85587dc" sha1="58d60adc54b64f06378c370ea7cc5ec80e5f35dd" />
-		<rom name="games\PSX\sbi\ByName\EA Sports Superbike 2000 (Europe) (En,Fr,De,Es,It,Sv).sbi" size="452" crc="a029a8d0" md5="9523aa79673b7248a33ac679b43271b1" sha1="31f7b3c28fa069d006405365bee42cd815b2673b" />
-		<rom name="games\PSX\sbi\ByName\Eagle One - Harrier Attack (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="29d40095" md5="0aa568aafdd20ac7c5389d5a378f8068" sha1="9263a68408a0bee6e8477057e6d51498504d8364" />
-		<rom name="games\PSX\sbi\ByName\Esto Es Futbol (Spain).sbi" size="452" crc="b2e3098e" md5="9455616ca1d2bc82d24e30d03c07f324" sha1="8a9a5a9ab956875d789d441e5e9001bdb4f47830" />
-		<rom name="games\PSX\sbi\ByName\F.A. Premier League Football Manager 2001, The (Europe).sbi" size="452" crc="5b46cbde" md5="9f79573f347b72cd0b51f6ad9cd8c0e4" sha1="ec148f82a22cf3004d6c17f410b7964c4b40d341" />
-		<rom name="games\PSX\sbi\ByName\F1 2000 (Europe) (En,Es,Sv,Da,Fi).sbi" size="452" crc="b554bbb0" md5="9dbf5f708572d25482b4eb5699e98d3c" sha1="3a361c0bde2731594da51fa5166441f25682c082" />
-		<rom name="games\PSX\sbi\ByName\F1 2000 (Europe) (En,Fr,De,Nl).sbi" size="452" crc="60c34701" md5="9c0086e91c74a813ba0185b638848663" sha1="53c728fbb2820ed3b904afcf162f5e33ff4bd655" />
-		<rom name="games\PSX\sbi\ByName\F1 2000 (Italy).sbi" size="452" crc="3d41bbc8" md5="5ec02327dcaad584917f077b89292a1b" sha1="c610b35508e6cca219d7966f664f94885e520d49" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Europe) (Disc 1).sbi" size="452" crc="722f40ad" md5="e772035ea3a679d03a0b4ea862253656" sha1="f6f6acdbc46d196affc0f6a9480a890608b0a101" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Europe) (Disc 2).sbi" size="452" crc="35efd698" md5="cbf374b7c9c5f38e392f3e8a49e791c6" sha1="90120e9d81c3753857117d6dc928c55f0bd08063" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Europe) (Disc 3).sbi" size="452" crc="eb94b03e" md5="41a1c0283e629af059fd77c28321268b" sha1="4e9f603e911d79bef6a63bfdd391e87423a306e8" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Europe) (Disc 4).sbi" size="452" crc="4c66b850" md5="2e634588b394a2c41d60298058d763b3" sha1="a0b648b9eeabb6adc59fed4c1b9862b7e05693fb" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (France) (Disc 1).sbi" size="452" crc="03607770" md5="8c1376e66d5d8c9edf0ca32bd73490e7" sha1="84b2e34164e76bc8377dd71e1066fe5bd6d070ea" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (France) (Disc 2).sbi" size="452" crc="cee8b3d7" md5="807a6bfd50805ba70d61ca439c5afc85" sha1="213ae07364568456c356db0087ead1d70ee47a56" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (France) (Disc 3).sbi" size="452" crc="fed2b542" md5="829b6bd16198322654c1a1748d748327" sha1="63d0b97d91f9a4f798d476995ce0102c3f2ea1e5" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (France) (Disc 4).sbi" size="452" crc="7dbba63a" md5="7fbed1c7f7c0545df82a60a22fb0a512" sha1="55df28b9a453c9d3eadfe9aa5eba0dc990f5069d" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Germany) (Disc 1).sbi" size="452" crc="04e5cbb8" md5="bbdda5756b7b5e41ca9e252032691d04" sha1="bd7ff827c7cb963776c9d08a083a49c08afd73af" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Germany) (Disc 2).sbi" size="452" crc="4f6b3ec6" md5="600fe88e4516e946b690484d076bed67" sha1="7f01521d8935bdd9014e4aff4284772c2001aacd" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Germany) (Disc 3).sbi" size="452" crc="b98134f1" md5="85c0933b929a5855a9ea9d1b91dd2ce6" sha1="ba65a15f87ca62aa1255972b4fda4bfb7646bb7b" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Germany) (Disc 4).sbi" size="452" crc="b95f1ee1" md5="d0cdbb5e506b5310eaa5d364131eb79d" sha1="b7e21b3ecbc113cfe7c2f600146e3aea8a0b5b94" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Italy) (Disc 1).sbi" size="452" crc="3fc8534e" md5="6297c4af2c4c73e40aca74c56221dfe8" sha1="5693e235b6880d4c15cb93fae517997bb5a60aa1" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Italy) (Disc 2).sbi" size="452" crc="09f08d15" md5="cdba772bb70caf114e9ec63f14361bdd" sha1="783a61001d514184eddb1ba376f5086850a17bea" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Italy) (Disc 3).sbi" size="452" crc="9ed95be1" md5="7cfcccd9ee9b6a548dbbd8c1324ddfcd" sha1="b29d4bcf3d3850097066e17aba3fb8b60d447fcb" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Italy) (Disc 4).sbi" size="452" crc="76a3ab9f" md5="fdf7ed208f390cc4af374b2f72f07609" sha1="b6ab7c05b575ab55a1d828a5ec9defcd05d836ec" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Spain) (Disc 1).sbi" size="452" crc="661cb65d" md5="b092e2309912e63531730f996448dfee" sha1="838c1406dff19aa1c262d54f210eae89bceb5d6b" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Spain) (Disc 2).sbi" size="452" crc="27a16087" md5="dfc28f503f27a83fcd964c285a7bffcf" sha1="a00aaee8e3d17773a1b1334381547b884f4827ab" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Spain) (Disc 3).sbi" size="452" crc="bebdf923" md5="785545c0c1b191e184536f96a261c05c" sha1="eed675541c063da1428d24ab89a89a57aed2c10d" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy IX (Spain) (Disc 4).sbi" size="452" crc="fd07171b" md5="68395d39363ab83cb071e1b5fd093145" sha1="9e15fa6567453b0ac8da7b320b73abbea00afb3a" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Europe, Australia) (Disc 1).sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Europe, Australia) (Disc 2).sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Europe, Australia) (Disc 3).sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Europe, Australia) (Disc 4).sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (France) (Disc 1).sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (France) (Disc 2).sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (France) (Disc 3).sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (France) (Disc 4).sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Germany) (Disc 1).sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Germany) (Disc 2).sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Germany) (Disc 3).sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Germany) (Disc 4).sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Italy) (Disc 1).sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Italy) (Disc 2).sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Italy) (Disc 3).sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Italy) (Disc 4).sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Spain) (Disc 1).sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Spain) (Disc 2).sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Spain) (Disc 3).sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\ByName\Final Fantasy VIII (Spain) (Disc 4).sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\ByName\Football Manager Campionato 2001 (Italy).sbi" size="452" crc="0f4cf5b7" md5="a2a9c9b69f94107991f4595678ffabea" sha1="1c9c9a763976cabb03967c749715b800874b2af1" />
-		<rom name="games\PSX\sbi\ByName\Football Manager Campionato 2002 (Italy).sbi" size="452" crc="3794c228" md5="8558801f0cc54d3535fc3d9ca6f81c8c" sha1="b70cbec75b5d75721a9ae54bd401268b1dc06f01" />
-		<rom name="games\PSX\sbi\ByName\Formula One '99 (Europe) (En,Fr,De,It) (Beta).sbi" size="452" crc="aadb94e6" md5="50754e1dceccf5b03cdb362beffd2754" sha1="dab6f39c3c345bd639b038d2b216f47db820657b" />
-		<rom name="games\PSX\sbi\ByName\Formula One 99 (Europe) (En,Es,Fi).sbi" size="452" crc="8449e90c" md5="7acb3c34f1951c313fc3aa805da15dd2" sha1="19f9c1e8596f1a2e09a6a92902fc78729aa9ff7d" />
-		<rom name="games\PSX\sbi\ByName\Formula One 99 (Europe) (En,Fr,De,It).sbi" size="452" crc="dd8e4872" md5="4f473012afef1ead1759bece29d4d969" sha1="9a99460bfdff56b0ab2c196910a42c924099fa3c" />
-		<rom name="games\PSX\sbi\ByName\Frontschweine (Germany).sbi" size="452" crc="08ad343a" md5="f86961cbf18f8df81fd6513d397fe57d" sha1="b0fd050d52debcf0cebc70745ee90ffd719c3168" />
-		<rom name="games\PSX\sbi\ByName\Fussball Live (Germany).sbi" size="452" crc="26be418b" md5="675a0a2932b6e554de4a6e642605d675" sha1="0b525a8b3a838c1349f2df602cb14f3b82330bbf" />
-		<rom name="games\PSX\sbi\ByName\Fussball Manager 2001 (Germany).sbi" size="452" crc="b6b77175" md5="3d1cb6731355ae6abe65d3eae7a9989b" sha1="c0184391b1cdfba90d68ce792a62f4a9a9979b12" />
-		<rom name="games\PSX\sbi\ByName\Galerians (Europe) (Disc 1).sbi" size="452" crc="56791980" md5="01b0b7e1586b90ec024ed9953cbb4bb1" sha1="525576ca5f6b1232f5c5bcf26d5d4b99270eff62" />
-		<rom name="games\PSX\sbi\ByName\Galerians (Europe) (Disc 2).sbi" size="452" crc="1b3cc036" md5="fba6e3fc7c80e837cda0c729acfc2de7" sha1="740b4009a3c6e82c5394afaa2ec3e4457cc8fd69" />
-		<rom name="games\PSX\sbi\ByName\Galerians (Europe) (Disc 3).sbi" size="452" crc="1766cac0" md5="712351da675c69335db4b09bedf925b4" sha1="5cbca3f8f68071f31845cd787dfccfb60c83c4e3" />
-		<rom name="games\PSX\sbi\ByName\Galerians (France) (Disc 1).sbi" size="452" crc="c07abb63" md5="653198452ba6c3c8f990969de9c0cff3" sha1="e8043116515f7da833bda41440b4af7fdc15ba41" />
-		<rom name="games\PSX\sbi\ByName\Galerians (France) (Disc 2).sbi" size="452" crc="c07abb63" md5="653198452ba6c3c8f990969de9c0cff3" sha1="e8043116515f7da833bda41440b4af7fdc15ba41" />
-		<rom name="games\PSX\sbi\ByName\Galerians (France) (Disc 3).sbi" size="452" crc="c07abb63" md5="653198452ba6c3c8f990969de9c0cff3" sha1="e8043116515f7da833bda41440b4af7fdc15ba41" />
-		<rom name="games\PSX\sbi\ByName\Galerians (Germany) (Disc 1).sbi" size="452" crc="0163b372" md5="077942f48bd31b3a15a0cb8d0f437685" sha1="eb7a344d5cde02cd130212f2502d21fced01f230" />
-		<rom name="games\PSX\sbi\ByName\Galerians (Germany) (Disc 2).sbi" size="452" crc="34c9661d" md5="f879578de8b64cf0e2780d4c3e500a05" sha1="01f3d64958b646b1d66ad6abaa4f70aa8790b95b" />
-		<rom name="games\PSX\sbi\ByName\Galerians (Germany) (Disc 3).sbi" size="452" crc="9a1eb7da" md5="4bebdee06b0c58670ef252f5de08fdb2" sha1="0e10eab8282c87492dd584df31b9b446f8cb5263" />
-		<rom name="games\PSX\sbi\ByName\Gekido - Urban Fighters (Europe) (En,Fr,De,Es,It).sbi" size="228" crc="0cb78607" md5="f0af61523f30397e54b17e35486960ef" sha1="35c0eaf0dd3c05c57ce1f4cb01f31115740bd9a1" />
-		<rom name="games\PSX\sbi\ByName\Hogs of War (Europe).sbi" size="452" crc="146ed08b" md5="327098bc4bc5571150fb0bd23b1c2cc9" sha1="99e659b5ffb12961a9d40dc684e530f706951c46" />
-		<rom name="games\PSX\sbi\ByName\Hogs of War - Nati per Soffritto (Italy).sbi" size="452" crc="0406db96" md5="20f13ac2a2e3e6de9292b10b6963d31f" sha1="46451f107f6ac7346be4200825c41991ba171579" />
-		<rom name="games\PSX\sbi\ByName\Italian Job, The (Europe) (Fr,De,Es).sbi" size="452" crc="3a77bc5a" md5="9761d51e2f03f63bd4beadaf3e435274" sha1="eea9b1b23503e7b8f324363f02a7bffb5b3090ce" />
-		<rom name="games\PSX\sbi\ByName\Italian Job, The (Europe).sbi" size="452" crc="eb85f654" md5="bc2e5d92a71a1cc2a5ef7cbfd3a61cb9" sha1="016af45ca5e017e8b61d365011e0c82d38d50179" />
-		<rom name="games\PSX\sbi\ByName\Italian Job, The (Italy).sbi" size="452" crc="e2457aa8" md5="bd4f81962aaaa08a7e1384326c0cf010" sha1="b6478a4c49539653215fe18230a3e0b62ee4c608" />
-		<rom name="games\PSX\sbi\ByName\Jackie Chan Stuntmaster (Europe).sbi" size="452" crc="19470c4d" md5="a5d5b97a8da1ec1815e7b405502931fb" sha1="d53812c227cf6d01353df951d2902f679d5f625c" />
-		<rom name="games\PSX\sbi\ByName\Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt).sbi" size="452" crc="aa2337de" md5="c81d82c534df212de3ee6afb1b6ef577" sha1="038d470835dc5b75a2e8fd42f70b3ec0e1f6fe9d" />
-		<rom name="games\PSX\sbi\ByName\Legacy of Kain - Soul Reaver (Europe).sbi" size="452" crc="473836cc" md5="a9996a2dce35a4146b54335a6e0d7590" sha1="c26b4765800bd2c68dbf9b53c9dd0a0c289bd3b0" />
-		<rom name="games\PSX\sbi\ByName\Legacy of Kain - Soul Reaver (France).sbi" size="452" crc="bae52b54" md5="1998bec42e79dfb901e5a81b4692b677" sha1="11276830feb685f60d14e6c5d5e8bfbdb5a97094" />
-		<rom name="games\PSX\sbi\ByName\Legacy of Kain - Soul Reaver (Germany).sbi" size="452" crc="a5c36fa3" md5="7fa250b807176704dffde0dac0e35081" sha1="e44346c28d0867bd349966b9b74a40d735e469a4" />
-		<rom name="games\PSX\sbi\ByName\Legacy of Kain - Soul Reaver (Italy).sbi" size="452" crc="db8f3251" md5="e44b15041a2693e34351bdb2f5d2292d" sha1="624743af3cb8a0c1a81e88e25f0bc7aef6de836f" />
-		<rom name="games\PSX\sbi\ByName\Legacy of Kain - Soul Reaver (Spain).sbi" size="452" crc="29266576" md5="e1721efee36eaf5341f5ff045599f84f" sha1="d4b8515a7536e54dd9d4f460fe991be2bbc76f80" />
-		<rom name="games\PSX\sbi\ByName\LMA Manager 2001 (Europe).sbi" size="452" crc="1c192c36" md5="3e59454ef9183ed712632ab8e468d9a5" sha1="2cd2ce144b228deff3b8be65bdbf2e7006bfc921" />
-		<rom name="games\PSX\sbi\ByName\LMA Manager 2002 (Europe).sbi" size="452" crc="dea267b1" md5="ddfc078800e7f90904b5fcee857c9859" sha1="fb461d6b2f6dd084368977aca1b0d2e8d0c825c0" />
-		<rom name="games\PSX\sbi\ByName\Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl).sbi" size="452" crc="998255b2" md5="6d67e4948412ca5b4e573f5fe9a48b34" sha1="76664480bfb1e054c61ee9e87ac81b8980fd5735" />
-		<rom name="games\PSX\sbi\ByName\Manager de Liga (Spain) (Beta).sbi" size="452" crc="8f16b97a" md5="4fe11f6df7b0a0ae4a4918fe1c62f31b" sha1="29f759bc4b82c4a3d2fe83972a3b6af8cca9e3f1" />
-		<rom name="games\PSX\sbi\ByName\Manager de Liga 2001 (Spain).sbi" size="452" crc="376af623" md5="cae3299567fb71ed855917b08d3038b5" sha1="2bddd41eb68e1d2ca9f58b77dda8e46639dcc7c2" />
-		<rom name="games\PSX\sbi\ByName\Manager de Liga 2002 (Spain).sbi" size="452" crc="c0af7fa4" md5="573045731c866e6d6460c6923c02f0a7" sha1="af2b51dd7d831faa1e1cb1ebc85b831ea854802b" />
-		<rom name="games\PSX\sbi\ByName\Marranos en Guerra (Spain).sbi" size="452" crc="a71baef3" md5="21a305ec84d8cd4409d11969b836763c" sha1="394973e5de9dcf7fb76ba3f9258db7fba531c1ff" />
-		<rom name="games\PSX\sbi\ByName\MediEvil (Europe).sbi" size="228" crc="9a55017e" md5="b1f88c1c63640394d5d5277f4be70ca1" sha1="23905264eea1af4b1eb7f8a69e80f415fdde514c" />
-		<rom name="games\PSX\sbi\ByName\MediEvil (France).sbi" size="228" crc="56b19f27" md5="db6d3e4f6e0fb93c621e89c7537702ec" sha1="21a9761943d67aeff9a1a541750e9c8b6ea8c7b0" />
-		<rom name="games\PSX\sbi\ByName\MediEvil (Germany).sbi" size="228" crc="26ffa068" md5="2286e6aa5d656d43630ae679f403a7af" sha1="bae214cad0d69c74f675c878395ca3079791fb3b" />
-		<rom name="games\PSX\sbi\ByName\MediEvil (Italy).sbi" size="228" crc="7bf5ef91" md5="b5874572318d081c58caa0a7d75d48b9" sha1="d8fb16b259cb5dd0171b5a968fcabb2ac100236a" />
-		<rom name="games\PSX\sbi\ByName\MediEvil (Spain).sbi" size="228" crc="25002649" md5="214ef47ee0953c67f0f1e25f60893432" sha1="e2b894b517d22dcd7feb517881e4f207f830b1ec" />
-		<rom name="games\PSX\sbi\ByName\MediEvil 2 (Europe) (En,Fr,De).sbi" size="452" crc="6a8dd189" md5="66e40287ec4b59dca18ded677c13fc2f" sha1="326a6350bdb82fd6e576654cf8bf0efc41b026ee" />
-		<rom name="games\PSX\sbi\ByName\MediEvil 2 (Europe) (Es,It,Pt).sbi" size="452" crc="93e51fdc" md5="f272c30519014ce91d532b13f72ec727" sha1="2d98ba83850d1dcaa7b67b376699430ef5105f93" />
-		<rom name="games\PSX\sbi\ByName\MediEvil 2 (Russia).sbi" size="452" crc="c09bc85a" md5="2a2576fd60bd42b4def953086be1ce85" sha1="1aef07a49a26e7c7a65af6f8b56e53134289987d" />
-		<rom name="games\PSX\sbi\ByName\Men in Black - The Series - Crashdown (Europe).sbi" size="452" crc="cd2e73e9" md5="fcac0533a7f1d689388791d1f538df34" sha1="6c3793a38c4e0f97f354c482c996f2b71050b88f" />
-		<rom name="games\PSX\sbi\ByName\Men in Black - The Series - Crashdown (France).sbi" size="452" crc="b21ee099" md5="ddbdc7f8fc29ccd0b6e39708a41344ef" sha1="543d6d079e0efed94c81ebc54156b4e37b28e5c4" />
-		<rom name="games\PSX\sbi\ByName\Men in Black - The Series - Crashdown (Germany).sbi" size="452" crc="d5ab331f" md5="28e155d4fcea4ec3771b5781cdd9f0c3" sha1="54687b63b4bf61c9542f4a69787b9c044ec9e9b6" />
-		<rom name="games\PSX\sbi\ByName\Men in Black - The Series - Crashdown (Italy).sbi" size="452" crc="2a5e999f" md5="c6df00a7f3cd482c7f3efab0071c6873" sha1="53afe187c4f37112f2b26283647115eb12912203" />
-		<rom name="games\PSX\sbi\ByName\Men in Black - The Series - Crashdown (Spain).sbi" size="452" crc="478fa872" md5="6a13b2e406c780728ff87efa585347c2" sha1="2f0e6f8f58d17536027efedce2ecb181e1e0f304" />
-		<rom name="games\PSX\sbi\ByName\Michelin Rally Masters - Race of Champions (Europe) (En,De,Sv).sbi" size="452" crc="e25bd4a6" md5="593cc566f4420581bf47fb9194948369" sha1="d635d460dcb6b9e6d0377d89d1cd9933754313d9" />
-		<rom name="games\PSX\sbi\ByName\Michelin Rally Masters - Race of Champions (Europe) (Fr,Es,It).sbi" size="452" crc="7e7f7a6a" md5="e927e1ef1e8c9551ddcf4de3c05d3d36" sha1="941d2c4758db2d34f1e77d4759411126d3c41194" />
-		<rom name="games\PSX\sbi\ByName\Mike Tyson Boxing (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="0930a2df" md5="06410af19f00045cb2dec4470e5704c6" sha1="8c7a5c9b00a69ba78eefab16af52f350f442bee3" />
-		<rom name="games\PSX\sbi\ByName\Mission - Impossible (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="22cdfa50" md5="54a6da78178994f8e88cf92a3317a05f" sha1="991021cce450492f4732ab72430d27fcfbafe0a0" />
-		<rom name="games\PSX\sbi\ByName\MoHo (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="aa1c948d" md5="27db1c5628306a4d825468a65acee0c4" sha1="2939b4ed78d42384a5176135e73075e846cd1192" />
-		<rom name="games\PSX\sbi\ByName\Monde des Bleus, Le - Le Jeu Officiel de l'Equipe de France (France).sbi" size="452" crc="299e7f2f" md5="6990e0f08ebe3a65c67342284fd22e2e" sha1="442155e28d458b970f43b5cf0700044096bff567" />
-		<rom name="games\PSX\sbi\ByName\N-Gen Racing (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="2bddc09e" md5="f0b45de9e6535c0ce844ed4dc76b66a5" sha1="576f65089330ac44172151cbf8031fd3627b8cff" />
-		<rom name="games\PSX\sbi\ByName\Need for Speed - Porsche 2000 (Europe) (En,De,Sv).sbi" size="452" crc="4ca44089" md5="b90e4ac0e744da4954de2fc52fbfd412" sha1="e58c6fecb9c33a3e601dbf92dd003af6b22a772f" />
-		<rom name="games\PSX\sbi\ByName\Need for Speed - Porsche 2000 (Europe) (Fr,Es,It).sbi" size="452" crc="67cfd4c9" md5="df96939b4ddd9449259a7ba913d296aa" sha1="f0aee420fb309800856cb4a2d23c167b1981f61b" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Europe) (Disc 1).sbi" size="452" crc="122e8aab" md5="83d520561d7842c41cc740f98873a785" sha1="e547921bfabef35ea80efe1203d92daf915760b0" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Europe) (Disc 2).sbi" size="452" crc="122e8aab" md5="83d520561d7842c41cc740f98873a785" sha1="e547921bfabef35ea80efe1203d92daf915760b0" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (France) (Disc 1).sbi" size="452" crc="a4569530" md5="0443bef7924712301ca143386502cdc2" sha1="24e20d90b0ce4d3a1cd6db5a179e231d51b42171" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (France) (Disc 2).sbi" size="452" crc="a4569530" md5="0443bef7924712301ca143386502cdc2" sha1="24e20d90b0ce4d3a1cd6db5a179e231d51b42171" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Germany) (Disc 1).sbi" size="452" crc="edcd109b" md5="c24ecc3cea9cb5e293866405e580d458" sha1="c8597b84ab974feea7349e214e4f9ea7e62458d9" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Germany) (Disc 2).sbi" size="452" crc="edcd109b" md5="c24ecc3cea9cb5e293866405e580d458" sha1="c8597b84ab974feea7349e214e4f9ea7e62458d9" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Italy) (Disc 1).sbi" size="452" crc="2ca95333" md5="f87f928dc417a31dece19b900a40f4c4" sha1="59b0d0634c0a889615f4a1a60b9eddadfd0164ed" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Italy) (Disc 2).sbi" size="452" crc="2ca95333" md5="f87f928dc417a31dece19b900a40f4c4" sha1="59b0d0634c0a889615f4a1a60b9eddadfd0164ed" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Spain) (Disc 1).sbi" size="452" crc="0b001207" md5="7893c3da1ed85bee76c40ec37d334751" sha1="e2e05cf451f563b2d4aa739c8dd995a3bca84559" />
-		<rom name="games\PSX\sbi\ByName\Parasite Eve II (Spain) (Disc 2).sbi" size="452" crc="0b001207" md5="7893c3da1ed85bee76c40ec37d334751" sha1="e2e05cf451f563b2d4aa739c8dd995a3bca84559" />
-		<rom name="games\PSX\sbi\ByName\PGA European Tour Golf (Europe) (En,De).sbi" size="452" crc="845b375f" md5="6052c170dd40c81363fef8ec0b5314fb" sha1="9f2d4964ffdb6d0422653dc3f33ca9facbcc029b" />
-		<rom name="games\PSX\sbi\ByName\PGA European Tour Golf (Europe) (Fr,Es,It) (Alt).sbi" size="452" crc="f76af326" md5="29995c4712cf819373100e545d6f04f5" sha1="fb5fe3457d8e5f0fceb555c7fb5747aa913fda22" />
-		<rom name="games\PSX\sbi\ByName\PGA European Tour Golf (Europe) (Fr,Es,It).sbi" size="452" crc="dc7ed44e" md5="95c9d94b1365350665e5a3fc7f72872e" sha1="0bac3dee17be77d3a6414040e698893740aca6f6" />
-		<rom name="games\PSX\sbi\ByName\Premier Manager 2000 (Europe).sbi" size="452" crc="f75746da" md5="64aea055da8bcb25be0b7c7f3f7b4f40" sha1="015ace82cf35e2f37b07883da42fca21fcdb5909" />
-		<rom name="games\PSX\sbi\ByName\Prince Naseem Boxing (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="032546fc" md5="2d6ef2bdf3b33a4865b43602f194d921" sha1="c6e6dcd838aef9714613066dbc2bae26d1c24285" />
-		<rom name="games\PSX\sbi\ByName\Radikal Bikers (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="12deb12c" md5="27559179fd2875550f0a05b0236b02cc" sha1="e20d4c2de989b82f6bfe2c4c73fbad22f6b6ae09" />
-		<rom name="games\PSX\sbi\ByName\RC Revenge (Europe) (En,Fr,De,Es).sbi" size="452" crc="67a13fa1" md5="fc5ae2724c63a1fe2bed37d22544774c" sha1="573cb6e93a8ba530524681c5dbfb01aa3813e738" />
-		<rom name="games\PSX\sbi\ByName\Resident Evil 3 - Nemesis (Europe).sbi" size="452" crc="d2433df3" md5="42378bbc8090653f24a1163b5fc5a662" sha1="02ca11e2b512fc48393359c73bb79d55a8d7ed5d" />
-		<rom name="games\PSX\sbi\ByName\Resident Evil 3 - Nemesis (France).sbi" size="452" crc="b41dda29" md5="bda23f6785482e0077c600fd0d1d48aa" sha1="c892ad5c20d1bdb41277abae7ddceea4af32d6ba" />
-		<rom name="games\PSX\sbi\ByName\Resident Evil 3 - Nemesis (Germany).sbi" size="452" crc="2ebd8fe3" md5="56b61cc6169a7e2bbcd06942fd2fe156" sha1="63f7d2437073a14ce446078fba5fe16a15e8aac4" />
-		<rom name="games\PSX\sbi\ByName\Resident Evil 3 - Nemesis (Ireland).sbi" size="452" crc="0e32370a" md5="ce9d85a0f867f840987409ea6bc37de8" sha1="3fc8aaa4ca3f2ca156970dfaa97a37c9c7eddbe5" />
-		<rom name="games\PSX\sbi\ByName\Resident Evil 3 - Nemesis (Italy).sbi" size="452" crc="fdc92031" md5="00ae73a48c52832872b50ee73f378bac" sha1="3216c42a6f31f0594e17dd90c377f2e79744fdbb" />
-		<rom name="games\PSX\sbi\ByName\Resident Evil 3 - Nemesis (Spain).sbi" size="452" crc="0309351d" md5="b6d872d576978620c87ed97edcbab72b" sha1="63facb1450c3184e06a3a64cb407c64a1bc960a8" />
-		<rom name="games\PSX\sbi\ByName\Roger Lemerre - La Selection des Champions (France).sbi" size="452" crc="2dcef426" md5="f0be18e71eec1349c7d438d55f73aa31" sha1="f5dc615c2f1e489d857500fefa93cc76038e34d3" />
-		<rom name="games\PSX\sbi\ByName\Roger Lemerre - La Selection des Champions 2002 (France).sbi" size="452" crc="fbc69a54" md5="ceff935d70fa510cb66658cc96c52f5a" sha1="ae0307fbe6b6f7a460c867994d23ca0ac21afdb1" />
-		<rom name="games\PSX\sbi\ByName\Ronaldo V-Football (Europe) (De,Es,It,Pt).sbi" size="452" crc="cdab01f2" md5="8ad82cb7259f027f0edd486084c74158" sha1="0b663177089fea7c1c12fbdec1cb3356ac0b5f3f" />
-		<rom name="games\PSX\sbi\ByName\Ronaldo V-Football (Europe) (En,Fr,Nl,Sv).sbi" size="452" crc="30a9fe62" md5="37774406d9a970c1a571fdfd76d17f96" sha1="3389a964589564768302bfddd75891d6377a7552" />
-		<rom name="games\PSX\sbi\ByName\SaGa Frontier 2 (Europe).sbi" size="452" crc="279c8fc8" md5="aa2f06ef05f00b3b8587e83bb7c18472" sha1="95932e7cbc99080b8c210e4f2085b6aa2ec2146e" />
-		<rom name="games\PSX\sbi\ByName\SaGa Frontier 2 (France).sbi" size="452" crc="73a50f4b" md5="5cf2ce8076e3b65d519caec538771231" sha1="78ff7cb8cdce3b16050420121abe85f15419114b" />
-		<rom name="games\PSX\sbi\ByName\SaGa Frontier 2 (Germany).sbi" size="452" crc="caa003a0" md5="3bc1aa3fcf31d42211c072c92fee8474" sha1="fedae1214e4885b7280ff7e18b9f0e7765dbf56e" />
-		<rom name="games\PSX\sbi\ByName\SnoCross Championship Racing (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="ee2b1365" md5="78fc8fbc39f71ed91bcc937754ff6120" sha1="114eb45d839b6aea7ac6b8056d7db57f66fd0db6" />
-		<rom name="games\PSX\sbi\ByName\Space Debris (Europe).sbi" size="452" crc="ff2e314c" md5="9ff82257b9e6e96b92230593389dede9" sha1="a35029fa69c9a4c32f5752b9f0ff7743ffc1923c" />
-		<rom name="games\PSX\sbi\ByName\Space Debris (France).sbi" size="452" crc="69b6086a" md5="f260d7b3e65a8e259621b4c04b459f52" sha1="85ba18b418386219a300624a5bdc91bf92a6e821" />
-		<rom name="games\PSX\sbi\ByName\Space Debris (Germany) (Beta).sbi" size="452" crc="175ed03f" md5="c4fb20f43e9e56c6658af0b97a9d5da5" sha1="33284ceeba457f5b8e9fd97889aea390521a77e9" />
-		<rom name="games\PSX\sbi\ByName\Space Debris (Germany).sbi" size="452" crc="47e1e4a5" md5="5bc1611ff42fdaf596393e1da0065c23" sha1="2d2d81964aa4387ba06ffe90d1b0dc5c7a006290" />
-		<rom name="games\PSX\sbi\ByName\Space Debris (Italy).sbi" size="452" crc="bde16217" md5="3bd0bfe94308d5e644251f68b79bee32" sha1="555b39e3a7696183f613592b1d5f29aafcd65e2e" />
-		<rom name="games\PSX\sbi\ByName\Space Debris (Spain).sbi" size="452" crc="28fa3e93" md5="be4341bec74d6647fe18e12c66b783c1" sha1="db814414e269dc0b3fbc024c1a5c9a5e59243d58" />
-		<rom name="games\PSX\sbi\ByName\Speed Freaks (Europe).sbi" size="452" crc="fe0efe89" md5="bb686122c1d9f03922cf302e2a6059f2" sha1="0d8fc4abdb6bd2f97ccea3309189973aa33d6bc2" />
-		<rom name="games\PSX\sbi\ByName\Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It) (Rev 1).sbi" size="452" crc="04a29284" md5="01dbd082627164060130b0d362594c18" sha1="b0fd2773e136c419d2cd149908877a43e04c3a8f" />
-		<rom name="games\PSX\sbi\ByName\Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="932744d1" md5="fa0798505969d0008b002fba7abfd70e" sha1="83d14744c42981a5283e2d652e0611c65380e687" />
-		<rom name="games\PSX\sbi\ByName\Spyro 2 - Gateway to Glimmer (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="71683db9" md5="cc874c360629dc68e8f7452bbc4f0794" sha1="754858f8f7794de34c602e6e67504ce845594dd3" />
-		<rom name="games\PSX\sbi\ByName\Sydney 2000 (Australia).sbi" size="452" crc="92cfe92b" md5="b37e3eff1cb122ed1e8eb242336cbb0b" sha1="5a69b71eb3df7367482c0ceb457ec2e649af7fa5" />
-		<rom name="games\PSX\sbi\ByName\Sydney 2000 (Europe).sbi" size="452" crc="3f86e9e5" md5="9a16129303df2740ae442bdbd929ce01" sha1="4572a3494ef1b813f0862495201ac0b19e8b33e0" />
-		<rom name="games\PSX\sbi\ByName\Sydney 2000 (France).sbi" size="452" crc="f44c609b" md5="96656b5cd15b1af6a2b2385e19c51550" sha1="0fdf7b5e1a50e20f3456976f95d9823f01e45c72" />
-		<rom name="games\PSX\sbi\ByName\Sydney 2000 (Germany).sbi" size="452" crc="fc1eee85" md5="140a37b20da3ae995279d628e13fc668" sha1="64f48eab210504659c2a67dc4461a284d2732457" />
-		<rom name="games\PSX\sbi\ByName\Sydney 2000 (Italy).sbi" size="452" crc="6ed83074" md5="bbc371f3018b38914fc59e3851fa3d28" sha1="bffc8e3ef31fe12e3a054f8098a22e022b484404" />
-		<rom name="games\PSX\sbi\ByName\Sydney 2000 (Spain).sbi" size="452" crc="9f686c93" md5="5f664dac04d67f8362b8efe97ae55f3c" sha1="376e3c0b7d2f288b532306f0862de9d9c9ee07ae" />
-		<rom name="games\PSX\sbi\ByName\TechnoMage - De Terugkeer der Eeuwigheid (Netherlands).sbi" size="452" crc="af745394" md5="afcf18864ad962bfb8772d91ab796a88" sha1="f59d5982aa09e709026c47caa9736d21e70c0639" />
-		<rom name="games\PSX\sbi\ByName\TechnoMage - Die Rueckkehr der Ewigkeit (Germany).sbi" size="452" crc="b6ee8602" md5="1e6fe1c58fce9e55207246927df82368" sha1="8028406af11c792b4837cc3b82af3d61fac0d43e" />
-		<rom name="games\PSX\sbi\ByName\Technomage - El Retorno de la Eternidad (Spain).sbi" size="452" crc="780c0920" md5="816685ae2499a1ab2d4e24402be853fe" sha1="b56764787f206266bd4a2362e4c026b1df31d59e" />
-		<rom name="games\PSX\sbi\ByName\TechnoMage - En Quete de L'Eternite (France).sbi" size="452" crc="2b867e3b" md5="b95234fa796c76834cbf5d10d15d5884" sha1="05d31a99c81da1ca979d94f6c55c2d17cc48c9fa" />
-		<rom name="games\PSX\sbi\ByName\TechnoMage - Return of Eternity (Europe).sbi" size="452" crc="3208a23f" md5="2a10f9f63b550364a47db5120678fffb" sha1="3b37dd8f215a8aa2e8062933f775bbc3aa39ace8" />
-		<rom name="games\PSX\sbi\ByName\TechnoMage - Ritorno all'Eternita (Italy).sbi" size="452" crc="832c5bca" md5="2733770c78949630e477af100484b45c" sha1="48924d294ead6160a8cbfb5038a31b9f58c22584" />
-		<rom name="games\PSX\sbi\ByName\Theme Park World (Europe) (En,Fr,De,Es,It,Nl,Sv).sbi" size="452" crc="550a6ca1" md5="97947df3d0d0d1a6f18745c7adc2eb4f" sha1="b39f8f16ddd091b5fed9af2f2d2e4067d1743c1a" />
-		<rom name="games\PSX\sbi\ByName\This Is Football (Europe) (Fr,Nl).sbi" size="452" crc="2e98702e" md5="2a55ded3a19cbd20ede9c1d8f6b54af3" sha1="3fa8cb78a0c4f4ea977ba80dd3576a2c48a4b22b" />
-		<rom name="games\PSX\sbi\ByName\This Is Football (Europe).sbi" size="452" crc="77b81dec" md5="e89c3493febd6938e4e64b39bc67e749" sha1="3883d16481f2fbc90a2cdb370dd12f9472c40bc6" />
-		<rom name="games\PSX\sbi\ByName\This Is Football (Italy).sbi" size="452" crc="072c2954" md5="1012c6211de091d3ba902906c953a52e" sha1="b1ebb9c2515de97733d0907cc590edbd02196ece" />
-		<rom name="games\PSX\sbi\ByName\This Is Soccer (Australia).sbi" size="452" crc="582939ef" md5="30be4df4434daa5320b848a6c431f7c4" sha1="dc32ea9bce15d406acac8b15ad3b26014e1b68bc" />
-		<rom name="games\PSX\sbi\ByName\TOCA World Touring Cars (Europe) (En,Fr,De).sbi" size="452" crc="6fd0a61e" md5="8fc565e8f8508beda21d73c450deedf0" sha1="9a96928731b5f9ed838a0436c0785e2aaccfa218" />
-		<rom name="games\PSX\sbi\ByName\TOCA World Touring Cars (Europe) (Es,It).sbi" size="452" crc="2fa529b5" md5="58ecd4a2b0dc42a8c71308ce49262471" sha1="fc89fef568a736284e71eed5b1a8e332a364d2e7" />
-		<rom name="games\PSX\sbi\ByName\UEFA Euro 2000 (Europe).sbi" size="452" crc="5eda8579" md5="1e82d932a57c27a941b4d2e09408063c" sha1="dd8d6c2f18740eebab156047dbad592cba10f63a" />
-		<rom name="games\PSX\sbi\ByName\UEFA Euro 2000 (France).sbi" size="452" crc="87f3cb3f" md5="8adf9b69a1204998160e9da114969202" sha1="231de520427a64b0d461c31e567423f4b06f9b6d" />
-		<rom name="games\PSX\sbi\ByName\UEFA Euro 2000 (Germany).sbi" size="452" crc="f22465e1" md5="bcf6804781f2c38550b30ca8b0f12d68" sha1="f9e258d0b5f2ec7a44474030c0a89f25ee755708" />
-		<rom name="games\PSX\sbi\ByName\UEFA Euro 2000 (Italy).sbi" size="452" crc="4275631f" md5="f638f022776c4b82cb0cd0316f549363" sha1="6b2df417272f4b06fbdd38b14acff50ac1d973ae" />
-		<rom name="games\PSX\sbi\ByName\UEFA Euro 2000 (Spain).sbi" size="452" crc="d939e1f2" md5="4d2687c359e576c3e0723f16efd295fd" sha1="b4545305822912f0f0e5904cc0f4709f8b0d8552" />
-		<rom name="games\PSX\sbi\ByName\UEFA Striker (Europe) (En,Fr,De,Es,It,Nl).sbi" size="452" crc="c5453187" md5="a8908dcacc3c90fce6f32dc5a4212bd2" sha1="2afb538e32c2cfb6fda4ef3809b42bb62b1c5c67" />
-		<rom name="games\PSX\sbi\ByName\Urban Chaos (Europe) (En,Es,It).sbi" size="452" crc="c381cf31" md5="5a1c9b73874ceecb96b5397671a48ac6" sha1="dbd550f1cc320636025f5a2b5a71dd7108cb9a57" />
-		<rom name="games\PSX\sbi\ByName\Urban Chaos (France).sbi" size="452" crc="f61e6307" md5="7b6a0d05a4d7837245b00d577cac19d2" sha1="27089f2aab13683c5fd14bce81f26ef93ff6acac" />
-		<rom name="games\PSX\sbi\ByName\Urban Chaos (Germany).sbi" size="452" crc="b303beeb" md5="32b1fb38dbba9724f172b57f9ca419b2" sha1="2a508bb3ff7b183cefce0cced36ad06fdb8598b4" />
-		<rom name="games\PSX\sbi\ByName\V-Rally - Championship Edition 2 (Europe) (En,Fr,De).sbi" size="452" crc="4b78173b" md5="1f336695742e8b888b69f63f7a84e225" sha1="3718f8cd106da311619301496bf3c545c2fd18c6" />
-		<rom name="games\PSX\sbi\ByName\Vagrant Story (Europe).sbi" size="452" crc="0a67aa73" md5="a641c60403d66c17e67635dc7b1490ae" sha1="8fe84fe27b804d6ce14b9577ff3f8683eeb2abb3" />
-		<rom name="games\PSX\sbi\ByName\Vagrant Story (France).sbi" size="452" crc="97c4ed3f" md5="8a17eb781ea830a83c60d18f5843d5b4" sha1="b738f7940e48fa5af6d0ddbb958b6cd935365ed6" />
-		<rom name="games\PSX\sbi\ByName\Vagrant Story (Germany).sbi" size="452" crc="700e1b8f" md5="d149b8d09123a5021d37b128321e50b7" sha1="b4dd41b2c7d49813271284cd8dc4fb5cda56e416" />
-		<rom name="games\PSX\sbi\ByName\Walt Disney World Quest - Magical Racing Tour (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).sbi" size="452" crc="8fb2b944" md5="052ebddc74089c56cca8dddc5dfb25f2" sha1="77b5f8928853bf2efedf149ff7692a341fe2529c" />
-		<rom name="games\PSX\sbi\ByName\Wip3out (Europe) (En,Fr,De,Es,It).sbi" size="452" crc="75128ab6" md5="34777fa742f63a52cd6f5fb0fe188eb9" sha1="ed86e38e7998425abf8b7cb8de1dfc3ebd831e2c" />
-		<rom name="games\PSX\sbi\SCED-01979.sbi" size="452" crc="aadb94e6" md5="50754e1dceccf5b03cdb362beffd2754" sha1="dab6f39c3c345bd639b038d2b216f47db820657b" />
-		<rom name="games\PSX\sbi\SCES-00311.sbi" size="228" crc="9a55017e" md5="b1f88c1c63640394d5d5277f4be70ca1" sha1="23905264eea1af4b1eb7f8a69e80f415fdde514c" />
-		<rom name="games\PSX\sbi\SCES-01431.sbi" size="452" crc="04089547" md5="257a9007ae7e160db3eb442e13aeb885" sha1="a4a7fa7e660ff4a1a67ea5f7eb122e75c6b9287d" />
-		<rom name="games\PSX\sbi\SCES-01444.sbi" size="452" crc="19470c4d" md5="a5d5b97a8da1ec1815e7b405502931fb" sha1="d53812c227cf6d01353df951d2902f679d5f625c" />
-		<rom name="games\PSX\sbi\SCES-01492.sbi" size="228" crc="56b19f27" md5="db6d3e4f6e0fb93c621e89c7537702ec" sha1="21a9761943d67aeff9a1a541750e9c8b6ea8c7b0" />
-		<rom name="games\PSX\sbi\SCES-01493.sbi" size="228" crc="26ffa068" md5="2286e6aa5d656d43630ae679f403a7af" sha1="bae214cad0d69c74f675c878395ca3079791fb3b" />
-		<rom name="games\PSX\sbi\SCES-01494.sbi" size="228" crc="7bf5ef91" md5="b5874572318d081c58caa0a7d75d48b9" sha1="d8fb16b259cb5dd0171b5a968fcabb2ac100236a" />
-		<rom name="games\PSX\sbi\SCES-01495.sbi" size="228" crc="25002649" md5="214ef47ee0953c67f0f1e25f60893432" sha1="e2b894b517d22dcd7feb517881e4f207f830b1ec" />
-		<rom name="games\PSX\sbi\SCES-01516.sbi" size="452" crc="a319cc9f" md5="bef1279479a53b3b99d4b6868ff5508a" sha1="298d4d9eec821de88eb68ad79591a723eb48af94" />
-		<rom name="games\PSX\sbi\SCES-01517.sbi" size="452" crc="37eab5e9" md5="75d850215e90b2287805440861740a24" sha1="293f2555306acbce292ab514e82e8f16e6e8853b" />
-		<rom name="games\PSX\sbi\SCES-01518.sbi" size="452" crc="2812001d" md5="fe51a8739048467c54a120bb78cd88eb" sha1="81b15d8286eaee5c37a267d8ea57b3bc6a3f8f35" />
-		<rom name="games\PSX\sbi\SCES-01519.sbi" size="452" crc="020e87f6" md5="d8d824cac49ac4139df9704910311ae8" sha1="e3c7d45d10f70ede838804370f6f3ac17c260102" />
-		<rom name="games\PSX\sbi\SCES-01564.sbi" size="452" crc="5fcd931f" md5="810d054e214100d822e7ee30ca63cad8" sha1="2313adb218d6f307d02605f7cab69e68e6ec4fe6" />
-		<rom name="games\PSX\sbi\SCES-01695.sbi" size="452" crc="9b3ec8e9" md5="fb36a6f925459f490c11767298aaba93" sha1="8c3b7b5d983d62ceb79897ae6b18676319f4f762" />
-		<rom name="games\PSX\sbi\SCES-01700.sbi" size="452" crc="77b81dec" md5="e89c3493febd6938e4e64b39bc67e749" sha1="3883d16481f2fbc90a2cdb370dd12f9472c40bc6" />
-		<rom name="games\PSX\sbi\SCES-01701.sbi" size="452" crc="299e7f2f" md5="6990e0f08ebe3a65c67342284fd22e2e" sha1="442155e28d458b970f43b5cf0700044096bff567" />
-		<rom name="games\PSX\sbi\SCES-01702.sbi" size="452" crc="26be418b" md5="675a0a2932b6e554de4a6e642605d675" sha1="0b525a8b3a838c1349f2df602cb14f3b82330bbf" />
-		<rom name="games\PSX\sbi\SCES-01703.sbi" size="452" crc="072c2954" md5="1012c6211de091d3ba902906c953a52e" sha1="b1ebb9c2515de97733d0907cc590edbd02196ece" />
-		<rom name="games\PSX\sbi\SCES-01704.sbi" size="452" crc="b2e3098e" md5="9455616ca1d2bc82d24e30d03c07f324" sha1="8a9a5a9ab956875d789d441e5e9001bdb4f47830" />
-		<rom name="games\PSX\sbi\SCES-01763.sbi" size="452" crc="fe0efe89" md5="bb686122c1d9f03922cf302e2a6059f2" sha1="0d8fc4abdb6bd2f97ccea3309189973aa33d6bc2" />
-		<rom name="games\PSX\sbi\SCES-01882.sbi" size="452" crc="2e98702e" md5="2a55ded3a19cbd20ede9c1d8f6b54af3" sha1="3fa8cb78a0c4f4ea977ba80dd3576a2c48a4b22b" />
-		<rom name="games\PSX\sbi\SCES-01909.sbi" size="452" crc="75128ab6" md5="34777fa742f63a52cd6f5fb0fe188eb9" sha1="ed86e38e7998425abf8b7cb8de1dfc3ebd831e2c" />
-		<rom name="games\PSX\sbi\SCES-01979.sbi" size="452" crc="dd8e4872" md5="4f473012afef1ead1759bece29d4d969" sha1="9a99460bfdff56b0ab2c196910a42c924099fa3c" />
-		<rom name="games\PSX\sbi\SCES-02004.sbi" size="452" crc="3d3fa8ae" md5="8dff21c42aafa12e023fe4851db609ce" sha1="953d55b2d178107312513d716fbf39df6d42b7e2" />
-		<rom name="games\PSX\sbi\SCES-02005.sbi" size="452" crc="fdf7d1da" md5="abec1451edb5a4a66797091b53a3be1e" sha1="b287acb9b4817a8d7f9c480b6532bf0e46a2c3f4" />
-		<rom name="games\PSX\sbi\SCES-02006.sbi" size="452" crc="6cda8fff" md5="33fa6e95c98d30b21231ffb6ad29fa25" sha1="4080a6ae815b04f89dd55f61e1305c5de57031a9" />
-		<rom name="games\PSX\sbi\SCES-02007.sbi" size="452" crc="f6e65649" md5="eb314f8fbb873012dafe31c3c47532c8" sha1="d0b5f5357538902588ce1790a1796dce767285b7" />
-		<rom name="games\PSX\sbi\SCES-02028.sbi" size="452" crc="dc078e7f" md5="68520d0c02bc00ae0fe8ce4b641b6c0b" sha1="f6c14d40f14ac2194ed51d5bf78a25a9741edf55" />
-		<rom name="games\PSX\sbi\SCES-02029.sbi" size="452" crc="30c760d1" md5="fe762488eb4ef030669ceebabea11e2c" sha1="c42f470cfd8a3b41b94158586c18d955ff3242ef" />
-		<rom name="games\PSX\sbi\SCES-02030.sbi" size="452" crc="4ad00dbe" md5="5ad5c1cf6bfb2c2470363503bf17cb84" sha1="54fbc2aa2a1c2b7f7a321a17912b2d77a6ebeb14" />
-		<rom name="games\PSX\sbi\SCES-02031.sbi" size="452" crc="400c705f" md5="2741f28baf398916fe0c92bfa208e6c1" sha1="1b941f652771dfd69885c0daa7c457daac465407" />
-		<rom name="games\PSX\sbi\SCES-02104.sbi" size="452" crc="71683db9" md5="cc874c360629dc68e8f7452bbc4f0794" sha1="754858f8f7794de34c602e6e67504ce845594dd3" />
-		<rom name="games\PSX\sbi\SCES-02105.sbi" size="452" crc="68eec9e2" md5="763f9eda341b446f3b21d0b326b459c0" sha1="b588e6478be0bff0e53922a4c838d6601e792603" />
-		<rom name="games\PSX\sbi\SCES-02181.sbi" size="452" crc="0e23e9c1" md5="54a33e40f45a56d3dd897595c9d489b1" sha1="de4526fb3e609fa54c1ad40a961d04cbf365dcff" />
-		<rom name="games\PSX\sbi\SCES-02182.sbi" size="452" crc="1757b1ab" md5="152aabb85a7ff41063f3d11df85587dc" sha1="58d60adc54b64f06378c370ea7cc5ec80e5f35dd" />
-		<rom name="games\PSX\sbi\SCES-02184.sbi" size="452" crc="ee9ad754" md5="d2594255339cd47222cd630ee6e3cc01" sha1="a25434e8df122e797970881f47143e43a739fdbb" />
-		<rom name="games\PSX\sbi\SCES-02185.sbi" size="452" crc="93ae4622" md5="f70be1b86c59b1d3daac94cac91aa600" sha1="59f9c3b3ad988e4053daa3119acb5321b54a4d2a" />
-		<rom name="games\PSX\sbi\SCES-02222.sbi" size="452" crc="8449e90c" md5="7acb3c34f1951c313fc3aa805da15dd2" sha1="19f9c1e8596f1a2e09a6a92902fc78729aa9ff7d" />
-		<rom name="games\PSX\sbi\SCES-02264.sbi" size="452" crc="6f138364" md5="ba793692a3d3faf13630db2b345d4541" sha1="96c325a3f2c2dd2e39eb1d065fa7b22ca0cc3c2a" />
-		<rom name="games\PSX\sbi\SCES-02269.sbi" size="452" crc="582939ef" md5="30be4df4434daa5320b848a6c431f7c4" sha1="dc32ea9bce15d406acac8b15ad3b26014e1b68bc" />
-		<rom name="games\PSX\sbi\SCES-02290.sbi" size="452" crc="ff2e314c" md5="9ff82257b9e6e96b92230593389dede9" sha1="a35029fa69c9a4c32f5752b9f0ff7743ffc1923c" />
-		<rom name="games\PSX\sbi\SCES-02365.sbi" size="452" crc="a9a9a3cf" md5="b47dd469831155bd413d60578880586c" sha1="19b6fa7d8642d9c3fc922432bfcd1be78bc77a2d" />
-		<rom name="games\PSX\sbi\SCES-02366.sbi" size="452" crc="9f864a15" md5="eea2ed1063d2d587842cab07d8f9d2bf" sha1="309dd9e7e3e452d4511e9dc07fe086871976fc96" />
-		<rom name="games\PSX\sbi\SCES-02367.sbi" size="452" crc="f0b11200" md5="0d4779bffea4446430f92183655ca460" sha1="c3ba9863cf765376ce2abd7e5cb86334bb9963e5" />
-		<rom name="games\PSX\sbi\SCES-02368.sbi" size="452" crc="fe1df50b" md5="c7d8f7b735284947c5570b40b689200c" sha1="e9ed931e325d048bd1ed842733a156a2857842cd" />
-		<rom name="games\PSX\sbi\SCES-02369.sbi" size="452" crc="2dc26252" md5="fddef862460b1d9b95e9b872fd5e678e" sha1="b3e8b04bca9108eb668d4343264acf22f271e57d" />
-		<rom name="games\PSX\sbi\SCES-02430.sbi" size="452" crc="69b6086a" md5="f260d7b3e65a8e259621b4c04b459f52" sha1="85ba18b418386219a300624a5bdc91bf92a6e821" />
-		<rom name="games\PSX\sbi\SCES-02431.sbi" size="452" crc="47e1e4a5" md5="5bc1611ff42fdaf596393e1da0065c23" sha1="2d2d81964aa4387ba06ffe90d1b0dc5c7a006290" />
-		<rom name="games\PSX\sbi\SCES-02432.sbi" size="452" crc="bde16217" md5="3bd0bfe94308d5e644251f68b79bee32" sha1="555b39e3a7696183f613592b1d5f29aafcd65e2e" />
-		<rom name="games\PSX\sbi\SCES-02433.sbi" size="452" crc="28fa3e93" md5="be4341bec74d6647fe18e12c66b783c1" sha1="db814414e269dc0b3fbc024c1a5c9a5e59243d58" />
-		<rom name="games\PSX\sbi\SCES-02487.sbi" size="452" crc="45f4bfd0" md5="48c777559a91ff39c0d24a9d45c2956d" sha1="cd82ef364dfec09bd00e60822a5251a2fa36ca95" />
-		<rom name="games\PSX\sbi\SCES-02488.sbi" size="452" crc="35098405" md5="2e214fdae5606e56a7fe9cdf2f119160" sha1="3c551d0a868049e3f8cf77fb145527348736b78f" />
-		<rom name="games\PSX\sbi\SCES-02489.sbi" size="452" crc="8fd8aad0" md5="db4f78c1aa477623b4f07a0cb2b725d2" sha1="1da4538665b337c1daba2c193cce0668b077b976" />
-		<rom name="games\PSX\sbi\SCES-02490.sbi" size="452" crc="3c99cc6a" md5="da99bbb76d4d7a7fabe3d2c6f6fd4797" sha1="48c053ad99b10b76b26f3c4a6559741dbd701a61" />
-		<rom name="games\PSX\sbi\SCES-02491.sbi" size="452" crc="dd241b0b" md5="b5f915323aa421c59fe28a7d9953f9da" sha1="3bc76167b8a482ca762ba077db787962cc1617f9" />
-		<rom name="games\PSX\sbi\SCES-02544.sbi" size="452" crc="6a8dd189" md5="66e40287ec4b59dca18ded677c13fc2f" sha1="326a6350bdb82fd6e576654cf8bf0efc41b026ee" />
-		<rom name="games\PSX\sbi\SCES-02545.sbi" size="452" crc="93e51fdc" md5="f272c30519014ce91d532b13f72ec727" sha1="2d98ba83850d1dcaa7b67b376699430ef5105f93" />
-		<rom name="games\PSX\sbi\SCES-02546.sbi" size="452" crc="c09bc85a" md5="2a2576fd60bd42b4def953086be1ce85" sha1="1aef07a49a26e7c7a65af6f8b56e53134289987d" />
-		<rom name="games\PSX\sbi\SCES-02834.sbi" size="452" crc="9d6e7d13" md5="3d521a4adc278e06238a50e4a0834da5" sha1="dba516206c184bd0d75722211f5825485846838b" />
-		<rom name="games\PSX\sbi\SCES-02835.sbi" size="452" crc="04a29284" md5="01dbd082627164060130b0d362594c18" sha1="b0fd2773e136c419d2cd149908877a43e04c3a8f" />
-		<rom name="games\PSX\sbi\SLES-00017.sbi" size="452" crc="032546fc" md5="2d6ef2bdf3b33a4865b43602f194d921" sha1="c6e6dcd838aef9714613066dbc2bae26d1c24285" />
-		<rom name="games\PSX\sbi\SLES-00995.sbi" size="452" crc="30a9fe62" md5="37774406d9a970c1a571fdfd76d17f96" sha1="3389a964589564768302bfddd75891d6377a7552" />
-		<rom name="games\PSX\sbi\SLES-01041.sbi" size="452" crc="146ed08b" md5="327098bc4bc5571150fb0bd23b1c2cc9" sha1="99e659b5ffb12961a9d40dc684e530f706951c46" />
-		<rom name="games\PSX\sbi\SLES-01226.sbi" size="452" crc="39e75e69" md5="b3f88aa17361d948f15d9c526ef65fe8" sha1="712e9d4f9f209cb5cc6c930c22671b6393ca96a8" />
-		<rom name="games\PSX\sbi\SLES-01241.sbi" size="228" crc="0cb78607" md5="f0af61523f30397e54b17e35486960ef" sha1="35c0eaf0dd3c05c57ce1f4cb01f31115740bd9a1" />
-		<rom name="games\PSX\sbi\SLES-01301.sbi" size="452" crc="473836cc" md5="a9996a2dce35a4146b54335a6e0d7590" sha1="c26b4765800bd2c68dbf9b53c9dd0a0c289bd3b0" />
-		<rom name="games\PSX\sbi\SLES-01362.sbi" size="452" crc="aa2337de" md5="c81d82c534df212de3ee6afb1b6ef577" sha1="038d470835dc5b75a2e8fd42f70b3ec0e1f6fe9d" />
-		<rom name="games\PSX\sbi\SLES-01545.sbi" size="452" crc="e25bd4a6" md5="593cc566f4420581bf47fb9194948369" sha1="d635d460dcb6b9e6d0377d89d1cd9933754313d9" />
-		<rom name="games\PSX\sbi\SLES-01715.sbi" size="452" crc="29d40095" md5="0aa568aafdd20ac7c5389d5a378f8068" sha1="9263a68408a0bee6e8477057e6d51498504d8364" />
-		<rom name="games\PSX\sbi\SLES-01733.sbi" size="452" crc="c5453187" md5="a8908dcacc3c90fce6f32dc5a4212bd2" sha1="2afb538e32c2cfb6fda4ef3809b42bb62b1c5c67" />
-		<rom name="games\PSX\sbi\SLES-01906.sbi" size="452" crc="22cdfa50" md5="54a6da78178994f8e88cf92a3317a05f" sha1="991021cce450492f4732ab72430d27fcfbafe0a0" />
-		<rom name="games\PSX\sbi\SLES-01907.sbi" size="452" crc="4b78173b" md5="1f336695742e8b888b69f63f7a84e225" sha1="3718f8cd106da311619301496bf3c545c2fd18c6" />
-		<rom name="games\PSX\sbi\SLES-01943.sbi" size="452" crc="12deb12c" md5="27559179fd2875550f0a05b0236b02cc" sha1="e20d4c2de989b82f6bfe2c4c73fbad22f6b6ae09" />
-		<rom name="games\PSX\sbi\SLES-02024.sbi" size="452" crc="bae52b54" md5="1998bec42e79dfb901e5a81b4692b677" sha1="11276830feb685f60d14e6c5d5e8bfbdb5a97094" />
-		<rom name="games\PSX\sbi\SLES-02025.sbi" size="452" crc="a5c36fa3" md5="7fa250b807176704dffde0dac0e35081" sha1="e44346c28d0867bd349966b9b74a40d735e469a4" />
-		<rom name="games\PSX\sbi\SLES-02026.sbi" size="452" crc="29266576" md5="e1721efee36eaf5341f5ff045599f84f" sha1="d4b8515a7536e54dd9d4f460fe991be2bbc76f80" />
-		<rom name="games\PSX\sbi\SLES-02027.sbi" size="452" crc="db8f3251" md5="e44b15041a2693e34351bdb2f5d2292d" sha1="624743af3cb8a0c1a81e88e25f0bc7aef6de836f" />
-		<rom name="games\PSX\sbi\SLES-02061.sbi" size="452" crc="845b375f" md5="6052c170dd40c81363fef8ec0b5314fb" sha1="9f2d4964ffdb6d0422653dc3f33ca9facbcc029b" />
-		<rom name="games\PSX\sbi\SLES-02071.sbi" size="452" crc="c381cf31" md5="5a1c9b73874ceecb96b5397671a48ac6" sha1="dbd550f1cc320636025f5a2b5a71dd7108cb9a57" />
-		<rom name="games\PSX\sbi\SLES-02080.sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\SLES-02081.sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\SLES-02082.sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\SLES-02083.sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\SLES-02084.sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\SLES-02086.sbi" size="452" crc="2bddc09e" md5="f0b45de9e6535c0ce844ed4dc76b66a5" sha1="576f65089330ac44172151cbf8031fd3627b8cff" />
-		<rom name="games\PSX\sbi\SLES-02112.sbi" size="452" crc="279c8fc8" md5="aa2f06ef05f00b3b8587e83bb7c18472" sha1="95932e7cbc99080b8c210e4f2085b6aa2ec2146e" />
-		<rom name="games\PSX\sbi\SLES-02113.sbi" size="452" crc="73a50f4b" md5="5cf2ce8076e3b65d519caec538771231" sha1="78ff7cb8cdce3b16050420121abe85f15419114b" />
-		<rom name="games\PSX\sbi\SLES-02118.sbi" size="452" crc="caa003a0" md5="3bc1aa3fcf31d42211c072c92fee8474" sha1="fedae1214e4885b7280ff7e18b9f0e7765dbf56e" />
-		<rom name="games\PSX\sbi\SLES-02207.sbi" size="452" crc="c9c7ab72" md5="c00747dd2cd26fef31f1196cc7df9844" sha1="7ce026477ecf1b2113700c385895392d50c34350" />
-		<rom name="games\PSX\sbi\SLES-02208.sbi" size="452" crc="aac2d94d" md5="d87fb6e7c18cc7793fb8dcf2b0f5e86f" sha1="9bf5c2d2fadfe2942f888effceb201525763902c" />
-		<rom name="games\PSX\sbi\SLES-02209.sbi" size="452" crc="c3f2ca64" md5="3f2ae5be07b61568237947ceabc341d5" sha1="209369a5168b2c77cb000ec178b55709584cae2b" />
-		<rom name="games\PSX\sbi\SLES-02210.sbi" size="452" crc="2beba179" md5="c0b6fc847cebb7a4830e9d0705b96530" sha1="57e4a7bf3b626b0cf0253871b0e9d4b7c00113db" />
-		<rom name="games\PSX\sbi\SLES-02211.sbi" size="452" crc="7be522a7" md5="198000ce9bc50da3fba726448f8385c3" sha1="5a8b0c628aed6bcf7540cf687fb6b95e51b60b22" />
-		<rom name="games\PSX\sbi\SLES-02293.sbi" size="452" crc="73e29152" md5="0f1870d96380fb523a93ecf7a22de6b7" sha1="b91fc4b328e9109b1d472bcef5ad613239b1cabf" />
-		<rom name="games\PSX\sbi\SLES-02328.sbi" size="452" crc="56791980" md5="01b0b7e1586b90ec024ed9953cbb4bb1" sha1="525576ca5f6b1232f5c5bcf26d5d4b99270eff62" />
-		<rom name="games\PSX\sbi\SLES-02329.sbi" size="452" crc="c07abb63" md5="653198452ba6c3c8f990969de9c0cff3" sha1="e8043116515f7da833bda41440b4af7fdc15ba41" />
-		<rom name="games\PSX\sbi\SLES-02330.sbi" size="452" crc="0163b372" md5="077942f48bd31b3a15a0cb8d0f437685" sha1="eb7a344d5cde02cd130212f2502d21fced01f230" />
-		<rom name="games\PSX\sbi\SLES-02354.sbi" size="452" crc="f61e6307" md5="7b6a0d05a4d7837245b00d577cac19d2" sha1="27089f2aab13683c5fd14bce81f26ef93ff6acac" />
-		<rom name="games\PSX\sbi\SLES-02355.sbi" size="452" crc="b303beeb" md5="32b1fb38dbba9724f172b57f9ca419b2" sha1="2a508bb3ff7b183cefce0cced36ad06fdb8598b4" />
-		<rom name="games\PSX\sbi\SLES-02395.sbi" size="452" crc="7e7f7a6a" md5="e927e1ef1e8c9551ddcf4de3c05d3d36" sha1="941d2c4758db2d34f1e77d4759411126d3c41194" />
-		<rom name="games\PSX\sbi\SLES-02396.sbi" size="452" crc="dc7ed44e" md5="95c9d94b1365350665e5a3fc7f72872e" sha1="0bac3dee17be77d3a6414040e698893740aca6f6" />
-		<rom name="games\PSX\sbi\SLES-023962.sbi" size="452" crc="f76af326" md5="29995c4712cf819373100e545d6f04f5" sha1="fb5fe3457d8e5f0fceb555c7fb5747aa913fda22" />
-		<rom name="games\PSX\sbi\SLES-02402.sbi" size="452" crc="8f16b97a" md5="4fe11f6df7b0a0ae4a4918fe1c62f31b" sha1="29f759bc4b82c4a3d2fe83972a3b6af8cca9e3f1" />
-		<rom name="games\PSX\sbi\SLES-02529.sbi" size="452" crc="d2433df3" md5="42378bbc8090653f24a1163b5fc5a662" sha1="02ca11e2b512fc48393359c73bb79d55a8d7ed5d" />
-		<rom name="games\PSX\sbi\SLES-02530.sbi" size="452" crc="b41dda29" md5="bda23f6785482e0077c600fd0d1d48aa" sha1="c892ad5c20d1bdb41277abae7ddceea4af32d6ba" />
-		<rom name="games\PSX\sbi\SLES-02531.sbi" size="452" crc="2ebd8fe3" md5="56b61cc6169a7e2bbcd06942fd2fe156" sha1="63f7d2437073a14ce446078fba5fe16a15e8aac4" />
-		<rom name="games\PSX\sbi\SLES-02532.sbi" size="452" crc="0309351d" md5="b6d872d576978620c87ed97edcbab72b" sha1="63facb1450c3184e06a3a64cb407c64a1bc960a8" />
-		<rom name="games\PSX\sbi\SLES-02533.sbi" size="452" crc="fdc92031" md5="00ae73a48c52832872b50ee73f378bac" sha1="3216c42a6f31f0594e17dd90c377f2e79744fdbb" />
-		<rom name="games\PSX\sbi\SLES-02538.sbi" size="452" crc="a029a8d0" md5="9523aa79673b7248a33ac679b43271b1" sha1="31f7b3c28fa069d006405365bee42cd815b2673b" />
-		<rom name="games\PSX\sbi\SLES-02558.sbi" size="452" crc="122e8aab" md5="83d520561d7842c41cc740f98873a785" sha1="e547921bfabef35ea80efe1203d92daf915760b0" />
-		<rom name="games\PSX\sbi\SLES-02559.sbi" size="452" crc="a4569530" md5="0443bef7924712301ca143386502cdc2" sha1="24e20d90b0ce4d3a1cd6db5a179e231d51b42171" />
-		<rom name="games\PSX\sbi\SLES-02560.sbi" size="452" crc="edcd109b" md5="c24ecc3cea9cb5e293866405e580d458" sha1="c8597b84ab974feea7349e214e4f9ea7e62458d9" />
-		<rom name="games\PSX\sbi\SLES-02561.sbi" size="452" crc="0b001207" md5="7893c3da1ed85bee76c40ec37d334751" sha1="e2e05cf451f563b2d4aa739c8dd995a3bca84559" />
-		<rom name="games\PSX\sbi\SLES-02562.sbi" size="452" crc="2ca95333" md5="f87f928dc417a31dece19b900a40f4c4" sha1="59b0d0634c0a889615f4a1a60b9eddadfd0164ed" />
-		<rom name="games\PSX\sbi\SLES-02563.sbi" size="452" crc="ed15bb61" md5="e24c82a9d542b259d9274d2f11176e70" sha1="aeaee799c2558888368908853a484afa88d7e823" />
-		<rom name="games\PSX\sbi\SLES-02572.sbi" size="452" crc="6fd0a61e" md5="8fc565e8f8508beda21d73c450deedf0" sha1="9a96928731b5f9ed838a0436c0785e2aaccfa218" />
-		<rom name="games\PSX\sbi\SLES-02573.sbi" size="452" crc="2fa529b5" md5="58ecd4a2b0dc42a8c71308ce49262471" sha1="fc89fef568a736284e71eed5b1a8e332a364d2e7" />
-		<rom name="games\PSX\sbi\SLES-02681.sbi" size="452" crc="cdab01f2" md5="8ad82cb7259f027f0edd486084c74158" sha1="0b663177089fea7c1c12fbdec1cb3356ac0b5f3f" />
-		<rom name="games\PSX\sbi\SLES-02688.sbi" size="452" crc="550a6ca1" md5="97947df3d0d0d1a6f18745c7adc2eb4f" sha1="b39f8f16ddd091b5fed9af2f2d2e4067d1743c1a" />
-		<rom name="games\PSX\sbi\SLES-02689.sbi" size="452" crc="4ca44089" md5="b90e4ac0e744da4954de2fc52fbfd412" sha1="e58c6fecb9c33a3e601dbf92dd003af6b22a772f" />
-		<rom name="games\PSX\sbi\SLES-02698.sbi" size="452" crc="0e32370a" md5="ce9d85a0f867f840987409ea6bc37de8" sha1="3fc8aaa4ca3f2ca156970dfaa97a37c9c7eddbe5" />
-		<rom name="games\PSX\sbi\SLES-02700.sbi" size="452" crc="67cfd4c9" md5="df96939b4ddd9449259a7ba913d296aa" sha1="f0aee420fb309800856cb4a2d23c167b1981f61b" />
-		<rom name="games\PSX\sbi\SLES-02704.sbi" size="452" crc="5eda8579" md5="1e82d932a57c27a941b4d2e09408063c" sha1="dd8d6c2f18740eebab156047dbad592cba10f63a" />
-		<rom name="games\PSX\sbi\SLES-02705.sbi" size="452" crc="87f3cb3f" md5="8adf9b69a1204998160e9da114969202" sha1="231de520427a64b0d461c31e567423f4b06f9b6d" />
-		<rom name="games\PSX\sbi\SLES-02706.sbi" size="452" crc="f22465e1" md5="bcf6804781f2c38550b30ca8b0f12d68" sha1="f9e258d0b5f2ec7a44474030c0a89f25ee755708" />
-		<rom name="games\PSX\sbi\SLES-02707.sbi" size="452" crc="4275631f" md5="f638f022776c4b82cb0cd0316f549363" sha1="6b2df417272f4b06fbdd38b14acff50ac1d973ae" />
-		<rom name="games\PSX\sbi\SLES-02708.sbi" size="452" crc="d939e1f2" md5="4d2687c359e576c3e0723f16efd295fd" sha1="b4545305822912f0f0e5904cc0f4709f8b0d8552" />
-		<rom name="games\PSX\sbi\SLES-02722.sbi" size="452" crc="60c34701" md5="9c0086e91c74a813ba0185b638848663" sha1="53c728fbb2820ed3b904afcf162f5e33ff4bd655" />
-		<rom name="games\PSX\sbi\SLES-02723.sbi" size="452" crc="b554bbb0" md5="9dbf5f708572d25482b4eb5699e98d3c" sha1="3a361c0bde2731594da51fa5166441f25682c082" />
-		<rom name="games\PSX\sbi\SLES-02724.sbi" size="452" crc="3d41bbc8" md5="5ec02327dcaad584917f077b89292a1b" sha1="c610b35508e6cca219d7966f664f94885e520d49" />
-		<rom name="games\PSX\sbi\SLES-02733.sbi" size="452" crc="8fb2b944" md5="052ebddc74089c56cca8dddc5dfb25f2" sha1="77b5f8928853bf2efedf149ff7692a341fe2529c" />
-		<rom name="games\PSX\sbi\SLES-02754.sbi" size="452" crc="0a67aa73" md5="a641c60403d66c17e67635dc7b1490ae" sha1="8fe84fe27b804d6ce14b9577ff3f8683eeb2abb3" />
-		<rom name="games\PSX\sbi\SLES-02755.sbi" size="452" crc="97c4ed3f" md5="8a17eb781ea830a83c60d18f5843d5b4" sha1="b738f7940e48fa5af6d0ddbb958b6cd935365ed6" />
-		<rom name="games\PSX\sbi\SLES-02756.sbi" size="452" crc="700e1b8f" md5="d149b8d09123a5021d37b128321e50b7" sha1="b4dd41b2c7d49813271284cd8dc4fb5cda56e416" />
-		<rom name="games\PSX\sbi\SLES-02763.sbi" size="452" crc="ee2b1365" md5="78fc8fbc39f71ed91bcc937754ff6120" sha1="114eb45d839b6aea7ac6b8056d7db57f66fd0db6" />
-		<rom name="games\PSX\sbi\SLES-02766.sbi" size="452" crc="d69c5f51" md5="3312839b1802cdce500f7ab372f882a7" sha1="c05f5665b82d18e4891c0ae3aa68915132a18859" />
-		<rom name="games\PSX\sbi\SLES-02767.sbi" size="452" crc="08ad343a" md5="f86961cbf18f8df81fd6513d397fe57d" sha1="b0fd050d52debcf0cebc70745ee90ffd719c3168" />
-		<rom name="games\PSX\sbi\SLES-02768.sbi" size="452" crc="a71baef3" md5="21a305ec84d8cd4409d11969b836763c" sha1="394973e5de9dcf7fb76ba3f9258db7fba531c1ff" />
-		<rom name="games\PSX\sbi\SLES-02769.sbi" size="452" crc="0406db96" md5="20f13ac2a2e3e6de9292b10b6963d31f" sha1="46451f107f6ac7346be4200825c41991ba171579" />
-		<rom name="games\PSX\sbi\SLES-02824.sbi" size="452" crc="67a13fa1" md5="fc5ae2724c63a1fe2bed37d22544774c" sha1="573cb6e93a8ba530524681c5dbfb01aa3813e738" />
-		<rom name="games\PSX\sbi\SLES-02830.sbi" size="452" crc="aa1c948d" md5="27db1c5628306a4d825468a65acee0c4" sha1="2939b4ed78d42384a5176135e73075e846cd1192" />
-		<rom name="games\PSX\sbi\SLES-02831.sbi" size="452" crc="b6ee8602" md5="1e6fe1c58fce9e55207246927df82368" sha1="8028406af11c792b4837cc3b82af3d61fac0d43e" />
-		<rom name="games\PSX\sbi\SLES-02839.sbi" size="452" crc="0930a2df" md5="06410af19f00045cb2dec4470e5704c6" sha1="8c7a5c9b00a69ba78eefab16af52f350f442bee3" />
-		<rom name="games\PSX\sbi\SLES-02857.sbi" size="452" crc="3f86e9e5" md5="9a16129303df2740ae442bdbd929ce01" sha1="4572a3494ef1b813f0862495201ac0b19e8b33e0" />
-		<rom name="games\PSX\sbi\SLES-02858.sbi" size="452" crc="f44c609b" md5="96656b5cd15b1af6a2b2385e19c51550" sha1="0fdf7b5e1a50e20f3456976f95d9823f01e45c72" />
-		<rom name="games\PSX\sbi\SLES-02859.sbi" size="452" crc="fc1eee85" md5="140a37b20da3ae995279d628e13fc668" sha1="64f48eab210504659c2a67dc4461a284d2732457" />
-		<rom name="games\PSX\sbi\SLES-02860.sbi" size="452" crc="6ed83074" md5="bbc371f3018b38914fc59e3851fa3d28" sha1="bffc8e3ef31fe12e3a054f8098a22e022b484404" />
-		<rom name="games\PSX\sbi\SLES-02861.sbi" size="452" crc="9f686c93" md5="5f664dac04d67f8362b8efe97ae55f3c" sha1="376e3c0b7d2f288b532306f0862de9d9c9ee07ae" />
-		<rom name="games\PSX\sbi\SLES-02862.sbi" size="452" crc="92cfe92b" md5="b37e3eff1cb122ed1e8eb242336cbb0b" sha1="5a69b71eb3df7367482c0ceb457ec2e649af7fa5" />
-		<rom name="games\PSX\sbi\SLES-02965.sbi" size="452" crc="722f40ad" md5="e772035ea3a679d03a0b4ea862253656" sha1="f6f6acdbc46d196affc0f6a9480a890608b0a101" />
-		<rom name="games\PSX\sbi\SLES-02966.sbi" size="452" crc="03607770" md5="8c1376e66d5d8c9edf0ca32bd73490e7" sha1="84b2e34164e76bc8377dd71e1066fe5bd6d070ea" />
-		<rom name="games\PSX\sbi\SLES-02967.sbi" size="452" crc="04e5cbb8" md5="bbdda5756b7b5e41ca9e252032691d04" sha1="bd7ff827c7cb963776c9d08a083a49c08afd73af" />
-		<rom name="games\PSX\sbi\SLES-02968.sbi" size="452" crc="3fc8534e" md5="6297c4af2c4c73e40aca74c56221dfe8" sha1="5693e235b6880d4c15cb93fae517997bb5a60aa1" />
-		<rom name="games\PSX\sbi\SLES-02969.sbi" size="452" crc="661cb65d" md5="b092e2309912e63531730f996448dfee" sha1="838c1406dff19aa1c262d54f210eae89bceb5d6b" />
-		<rom name="games\PSX\sbi\SLES-02975.sbi" size="452" crc="1c192c36" md5="3e59454ef9183ed712632ab8e468d9a5" sha1="2cd2ce144b228deff3b8be65bdbf2e7006bfc921" />
-		<rom name="games\PSX\sbi\SLES-02976.sbi" size="452" crc="2dcef426" md5="f0be18e71eec1349c7d438d55f73aa31" sha1="f5dc615c2f1e489d857500fefa93cc76038e34d3" />
-		<rom name="games\PSX\sbi\SLES-02977.sbi" size="452" crc="f0c8d4ad" md5="510837586a0ccbce004f08a8e76c2fe4" sha1="ef7ffd25dcad3e1ccfe54691eb795c5b8829140b" />
-		<rom name="games\PSX\sbi\SLES-02978.sbi" size="452" crc="0f4cf5b7" md5="a2a9c9b69f94107991f4595678ffabea" sha1="1c9c9a763976cabb03967c749715b800874b2af1" />
-		<rom name="games\PSX\sbi\SLES-02979.sbi" size="452" crc="376af623" md5="cae3299567fb71ed855917b08d3038b5" sha1="2bddd41eb68e1d2ca9f58b77dda8e46639dcc7c2" />
-		<rom name="games\PSX\sbi\SLES-02992.sbi" size="452" crc="f75746da" md5="64aea055da8bcb25be0b7c7f3f7b4f40" sha1="015ace82cf35e2f37b07883da42fca21fcdb5909" />
-		<rom name="games\PSX\sbi\SLES-03061.sbi" size="452" crc="5b46cbde" md5="9f79573f347b72cd0b51f6ad9cd8c0e4" sha1="ec148f82a22cf3004d6c17f410b7964c4b40d341" />
-		<rom name="games\PSX\sbi\SLES-03062.sbi" size="452" crc="b6b77175" md5="3d1cb6731355ae6abe65d3eae7a9989b" sha1="c0184391b1cdfba90d68ce792a62f4a9a9979b12" />
-		<rom name="games\PSX\sbi\SLES-03189.sbi" size="452" crc="e8d50833" md5="54f70619b32bc6d7845e53fc4c6fb975" sha1="0aa52445b848d7c11a04596877b5500b021439d3" />
-		<rom name="games\PSX\sbi\SLES-03190.sbi" size="452" crc="bb98f21b" md5="72d313c3100aeae2455fe3132a19424d" sha1="3aec0284f86ab1a4ade11110d972eac3442e6c7e" />
-		<rom name="games\PSX\sbi\SLES-03191.sbi" size="452" crc="43f286e2" md5="d33a8475bfb22e58a8550bb6532c47f8" sha1="102226a7f718469c2bff2577300eeac5b148ee25" />
-		<rom name="games\PSX\sbi\SLES-03241.sbi" size="452" crc="3208a23f" md5="2a10f9f63b550364a47db5120678fffb" sha1="3b37dd8f215a8aa2e8062933f775bbc3aa39ace8" />
-		<rom name="games\PSX\sbi\SLES-03242.sbi" size="452" crc="2b867e3b" md5="b95234fa796c76834cbf5d10d15d5884" sha1="05d31a99c81da1ca979d94f6c55c2d17cc48c9fa" />
-		<rom name="games\PSX\sbi\SLES-03243.sbi" size="452" crc="832c5bca" md5="2733770c78949630e477af100484b45c" sha1="48924d294ead6160a8cbfb5038a31b9f58c22584" />
-		<rom name="games\PSX\sbi\SLES-03244.sbi" size="452" crc="780c0920" md5="816685ae2499a1ab2d4e24402be853fe" sha1="b56764787f206266bd4a2362e4c026b1df31d59e" />
-		<rom name="games\PSX\sbi\SLES-03245.sbi" size="452" crc="af745394" md5="afcf18864ad962bfb8772d91ab796a88" sha1="f59d5982aa09e709026c47caa9736d21e70c0639" />
-		<rom name="games\PSX\sbi\SLES-03324.sbi" size="452" crc="afdc69a7" md5="12be8b13c8f896dc0e76b4c3d98814ac" sha1="86cd75e27cd5fc40d79c2d4924d694f70fe4f74c" />
-		<rom name="games\PSX\sbi\SLES-03489.sbi" size="452" crc="eb85f654" md5="bc2e5d92a71a1cc2a5ef7cbfd3a61cb9" sha1="016af45ca5e017e8b61d365011e0c82d38d50179" />
-		<rom name="games\PSX\sbi\SLES-03519.sbi" size="452" crc="cd2e73e9" md5="fcac0533a7f1d689388791d1f538df34" sha1="6c3793a38c4e0f97f354c482c996f2b71050b88f" />
-		<rom name="games\PSX\sbi\SLES-03520.sbi" size="452" crc="b21ee099" md5="ddbdc7f8fc29ccd0b6e39708a41344ef" sha1="543d6d079e0efed94c81ebc54156b4e37b28e5c4" />
-		<rom name="games\PSX\sbi\SLES-03521.sbi" size="452" crc="d5ab331f" md5="28e155d4fcea4ec3771b5781cdd9f0c3" sha1="54687b63b4bf61c9542f4a69787b9c044ec9e9b6" />
-		<rom name="games\PSX\sbi\SLES-03522.sbi" size="452" crc="2a5e999f" md5="c6df00a7f3cd482c7f3efab0071c6873" sha1="53afe187c4f37112f2b26283647115eb12912203" />
-		<rom name="games\PSX\sbi\SLES-03523.sbi" size="452" crc="478fa872" md5="6a13b2e406c780728ff87efa585347c2" sha1="2f0e6f8f58d17536027efedce2ecb181e1e0f304" />
-		<rom name="games\PSX\sbi\SLES-03530.sbi" size="452" crc="998255b2" md5="6d67e4948412ca5b4e573f5fe9a48b34" sha1="76664480bfb1e054c61ee9e87ac81b8980fd5735" />
-		<rom name="games\PSX\sbi\SLES-03603.sbi" size="452" crc="dea267b1" md5="ddfc078800e7f90904b5fcee857c9859" sha1="fb461d6b2f6dd084368977aca1b0d2e8d0c825c0" />
-		<rom name="games\PSX\sbi\SLES-03604.sbi" size="452" crc="fbc69a54" md5="ceff935d70fa510cb66658cc96c52f5a" sha1="ae0307fbe6b6f7a460c867994d23ca0ac21afdb1" />
-		<rom name="games\PSX\sbi\SLES-03605.sbi" size="452" crc="446306c8" md5="31f3f0a4b75ce7212fbcc341bc847d7f" sha1="42eaab06150b97ecb5815ff60b9969da0f26b718" />
-		<rom name="games\PSX\sbi\SLES-03606.sbi" size="452" crc="3794c228" md5="8558801f0cc54d3535fc3d9ca6f81c8c" sha1="b70cbec75b5d75721a9ae54bd401268b1dc06f01" />
-		<rom name="games\PSX\sbi\SLES-03607.sbi" size="452" crc="c0af7fa4" md5="573045731c866e6d6460c6923c02f0a7" sha1="af2b51dd7d831faa1e1cb1ebc85b831ea854802b" />
-		<rom name="games\PSX\sbi\SLES-03626.sbi" size="452" crc="3a77bc5a" md5="9761d51e2f03f63bd4beadaf3e435274" sha1="eea9b1b23503e7b8f324363f02a7bffb5b3090ce" />
-		<rom name="games\PSX\sbi\SLES-03648.sbi" size="452" crc="e2457aa8" md5="bd4f81962aaaa08a7e1384326c0cf010" sha1="b6478a4c49539653215fe18230a3e0b62ee4c608" />
-		<rom name="games\PSX\sbi\SLES-12080.sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\SLES-12081.sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\SLES-12082.sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\SLES-12083.sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\SLES-12084.sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\SLES-12328.sbi" size="452" crc="1b3cc036" md5="fba6e3fc7c80e837cda0c729acfc2de7" sha1="740b4009a3c6e82c5394afaa2ec3e4457cc8fd69" />
-		<rom name="games\PSX\sbi\SLES-12329.sbi" size="452" crc="c07abb63" md5="653198452ba6c3c8f990969de9c0cff3" sha1="e8043116515f7da833bda41440b4af7fdc15ba41" />
-		<rom name="games\PSX\sbi\SLES-12330.sbi" size="452" crc="34c9661d" md5="f879578de8b64cf0e2780d4c3e500a05" sha1="01f3d64958b646b1d66ad6abaa4f70aa8790b95b" />
-		<rom name="games\PSX\sbi\SLES-12558.sbi" size="452" crc="122e8aab" md5="83d520561d7842c41cc740f98873a785" sha1="e547921bfabef35ea80efe1203d92daf915760b0" />
-		<rom name="games\PSX\sbi\SLES-12559.sbi" size="452" crc="a4569530" md5="0443bef7924712301ca143386502cdc2" sha1="24e20d90b0ce4d3a1cd6db5a179e231d51b42171" />
-		<rom name="games\PSX\sbi\SLES-12560.sbi" size="452" crc="edcd109b" md5="c24ecc3cea9cb5e293866405e580d458" sha1="c8597b84ab974feea7349e214e4f9ea7e62458d9" />
-		<rom name="games\PSX\sbi\SLES-12561.sbi" size="452" crc="0b001207" md5="7893c3da1ed85bee76c40ec37d334751" sha1="e2e05cf451f563b2d4aa739c8dd995a3bca84559" />
-		<rom name="games\PSX\sbi\SLES-12562.sbi" size="452" crc="2ca95333" md5="f87f928dc417a31dece19b900a40f4c4" sha1="59b0d0634c0a889615f4a1a60b9eddadfd0164ed" />
-		<rom name="games\PSX\sbi\SLES-12965.sbi" size="452" crc="35efd698" md5="cbf374b7c9c5f38e392f3e8a49e791c6" sha1="90120e9d81c3753857117d6dc928c55f0bd08063" />
-		<rom name="games\PSX\sbi\SLES-12966.sbi" size="452" crc="cee8b3d7" md5="807a6bfd50805ba70d61ca439c5afc85" sha1="213ae07364568456c356db0087ead1d70ee47a56" />
-		<rom name="games\PSX\sbi\SLES-12967.sbi" size="452" crc="4f6b3ec6" md5="600fe88e4516e946b690484d076bed67" sha1="7f01521d8935bdd9014e4aff4284772c2001aacd" />
-		<rom name="games\PSX\sbi\SLES-12968.sbi" size="452" crc="09f08d15" md5="cdba772bb70caf114e9ec63f14361bdd" sha1="783a61001d514184eddb1ba376f5086850a17bea" />
-		<rom name="games\PSX\sbi\SLES-12969.sbi" size="452" crc="27a16087" md5="dfc28f503f27a83fcd964c285a7bffcf" sha1="a00aaee8e3d17773a1b1334381547b884f4827ab" />
-		<rom name="games\PSX\sbi\SLES-22080.sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\SLES-22081.sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\SLES-22082.sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\SLES-22083.sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\SLES-22084.sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\SLES-22328.sbi" size="452" crc="1766cac0" md5="712351da675c69335db4b09bedf925b4" sha1="5cbca3f8f68071f31845cd787dfccfb60c83c4e3" />
-		<rom name="games\PSX\sbi\SLES-22329.sbi" size="452" crc="c07abb63" md5="653198452ba6c3c8f990969de9c0cff3" sha1="e8043116515f7da833bda41440b4af7fdc15ba41" />
-		<rom name="games\PSX\sbi\SLES-22330.sbi" size="452" crc="9a1eb7da" md5="4bebdee06b0c58670ef252f5de08fdb2" sha1="0e10eab8282c87492dd584df31b9b446f8cb5263" />
-		<rom name="games\PSX\sbi\SLES-22965.sbi" size="452" crc="eb94b03e" md5="41a1c0283e629af059fd77c28321268b" sha1="4e9f603e911d79bef6a63bfdd391e87423a306e8" />
-		<rom name="games\PSX\sbi\SLES-22966.sbi" size="452" crc="fed2b542" md5="829b6bd16198322654c1a1748d748327" sha1="63d0b97d91f9a4f798d476995ce0102c3f2ea1e5" />
-		<rom name="games\PSX\sbi\SLES-22967.sbi" size="452" crc="b98134f1" md5="85c0933b929a5855a9ea9d1b91dd2ce6" sha1="ba65a15f87ca62aa1255972b4fda4bfb7646bb7b" />
-		<rom name="games\PSX\sbi\SLES-22968.sbi" size="452" crc="9ed95be1" md5="7cfcccd9ee9b6a548dbbd8c1324ddfcd" sha1="b29d4bcf3d3850097066e17aba3fb8b60d447fcb" />
-		<rom name="games\PSX\sbi\SLES-22969.sbi" size="452" crc="bebdf923" md5="785545c0c1b191e184536f96a261c05c" sha1="eed675541c063da1428d24ab89a89a57aed2c10d" />
-		<rom name="games\PSX\sbi\SLES-32080.sbi" size="452" crc="3c50d7da" md5="0d438c69600460603174903fbbe93fcf" sha1="bf9a07438b503014348459fcec848f97b61c3879" />
-		<rom name="games\PSX\sbi\SLES-32081.sbi" size="452" crc="a9249ced" md5="10b60b29a0bd7f064e83f6028bacca9c" sha1="11e3c30b2675c6c3ce9e11f3d5e6fc0901454ff3" />
-		<rom name="games\PSX\sbi\SLES-32082.sbi" size="452" crc="977e5eae" md5="dafe69d84c76ab0983aac51447a85bd0" sha1="16d08ece8a135b2c1d1f754188cf84c8b81a0302" />
-		<rom name="games\PSX\sbi\SLES-32083.sbi" size="452" crc="6f50ebf7" md5="e6f27a5592b69556beb870265fc7e0dc" sha1="ee44c4b16744f049fbe7873972a751f37ce0a941" />
-		<rom name="games\PSX\sbi\SLES-32084.sbi" size="452" crc="d2746462" md5="80ad62a7d989b112b6ff122351411994" sha1="ed067780010804eede49fdf37c2c4245d26446db" />
-		<rom name="games\PSX\sbi\SLES-32965.sbi" size="452" crc="4c66b850" md5="2e634588b394a2c41d60298058d763b3" sha1="a0b648b9eeabb6adc59fed4c1b9862b7e05693fb" />
-		<rom name="games\PSX\sbi\SLES-32966.sbi" size="452" crc="7dbba63a" md5="7fbed1c7f7c0545df82a60a22fb0a512" sha1="55df28b9a453c9d3eadfe9aa5eba0dc990f5069d" />
-		<rom name="games\PSX\sbi\SLES-32967.sbi" size="452" crc="b95f1ee1" md5="d0cdbb5e506b5310eaa5d364131eb79d" sha1="b7e21b3ecbc113cfe7c2f600146e3aea8a0b5b94" />
-		<rom name="games\PSX\sbi\SLES-32968.sbi" size="452" crc="76a3ab9f" md5="fdf7ed208f390cc4af374b2f72f07609" sha1="b6ab7c05b575ab55a1d828a5ec9defcd05d836ec" />
-		<rom name="games\PSX\sbi\SLES-32969.sbi" size="452" crc="fd07171b" md5="68395d39363ab83cb071e1b5fd093145" sha1="9e15fa6567453b0ac8da7b320b73abbea00afb3a" />
 		<rom name="games\Saturn\1 Saturn\1 USA\- Multi Disc\Command &amp; Conquer (USA)\Command &amp; Conquer (USA) (Disc 1) (GDI Disc) (Track 01).bin" size="390747168" crc="3bdfff19" md5="cc0200f85f46679e7fe1445b56a2a196" sha1="dd073bd7e20ec8233718fdff2947bf1ca5c36ed3" />
 		<rom name="games\Saturn\1 Saturn\1 USA\- Multi Disc\Command &amp; Conquer (USA)\Command &amp; Conquer (USA) (Disc 1) (GDI Disc) (Track 02).bin" size="1514688" crc="d7c2fb3e" md5="484667bfb59d0ee27b02aef47130a082" sha1="923eff05bd4fba27cae2a199b54e677b83bb1e87" />
 		<rom name="games\Saturn\1 Saturn\1 USA\- Multi Disc\Command &amp; Conquer (USA)\Command &amp; Conquer (USA) (Disc 1) (GDI Disc) (Track 03).bin" size="11190816" crc="2d643319" md5="682a7dcc4c728b1fdce3cddf844877ea" sha1="5358809d5e1c4528e24c35c2740e2d373596d1bb" />
@@ -54924,6 +54490,7 @@
 		<rom name="games\Saturn\1 Saturn\4 Educational\Japan\Saturn Music School 2 (Japan) (Rev A)\Saturn Music School 2 (Japan) (Rev A) (Track 1).bin" size="29524656" crc="353b1076" md5="0a7d2046dfa733c1124e9a3dd1254208" sha1="8041c0206100d34d4054fc07cbfb1bafdd0530d0" />
 		<rom name="games\Saturn\1 Saturn\4 Educational\Japan\Saturn Music School 2 (Japan) (Rev A)\Saturn Music School 2 (Japan) (Rev A) (Track 2).bin" size="1764000" crc="82437320" md5="e03343a8c9f1853d8af2f154b67e2dac" sha1="8fd42dae3a71212cb64eb8eb2c7c4c8b037ebfbe" />
 		<rom name="games\Saturn\1 Saturn\4 Educational\Japan\Saturn Music School 2 (Japan) (Rev A)\Saturn Music School 2 (Japan) (Rev A).cue" size="244" crc="ab53668a" md5="b68633c5b4f4dffea276547db31f4f3a" sha1="5a4b90e1ea62344f5ea9dba6b4906379d997fe3f" />
+		<rom name="games\Saturn\240p Test Suite\240pSuite.chd" size="253137" crc="c44e50b0" md5="7c69ac328b6120afac79105ce4c5f414" sha1="c09cf1304dfab89e6409b8ab50a7e53efcc65819" />
 		<rom name="games\Saturn\boot.rom" size="524288" crc="6abfefea" md5="0306c0e408d6682dd2d86324bd4ac661" sha1="8c031bf9908fd0142fdd10a9cdd79389f8a3f2fc" />
 		<rom name="games\TGFX16-CD\1 TGFX16-CD\1 USA\Addams Family, The (USA)\Addams Family, The (USA).bin" size="13507536" crc="9da6c5b1" md5="679ade557fae0eea511114eb69492f58" sha1="298a969adb2fabfde0d85fb4abb651182c102cb7" />
 		<rom name="games\TGFX16-CD\1 TGFX16-CD\1 USA\Addams Family, The (USA)\Addams Family, The (USA).cue" size="113" crc="54a39bde" md5="3575b9f008b5efb53ae27fa8dd261605" sha1="435eee20a8f26e3df7fad51cdabcc5747f8270f0" />
@@ -66897,6 +66464,8 @@
 		<rom name="games\TGFX16-CD\1 TGFX16-CD\4 Demos &amp; Samples\Demos\USA\Henshin Engine (USA) (Demo) (Unl)\Henshin Engine (USA) (Demo) (Unl) (Track 3).bin" size="12804288" crc="b7edc65a" md5="2f2146309596432d0aecc72b0e787728" sha1="0da6b12b29590bba5a1ae3814e288f70828c11a9" />
 		<rom name="games\TGFX16-CD\1 TGFX16-CD\4 Demos &amp; Samples\Demos\USA\Henshin Engine (USA) (Demo) (Unl)\Henshin Engine (USA) (Demo) (Unl) (Track 4).bin" size="41616288" crc="73ea3430" md5="a88c61003d95eae9cd97face9f021cf5" sha1="6be7029f26451568b87a1302e678e0b8909e89ad" />
 		<rom name="games\TGFX16-CD\1 TGFX16-CD\4 Demos &amp; Samples\Demos\USA\Henshin Engine (USA) (Demo) (Unl)\Henshin Engine (USA) (Demo) (Unl).cue" size="467" crc="ef985c1f" md5="3c182976fa35493fa2024bf29cd7afc7" sha1="d2dc4ad639e05878504a1b8a2f1546878313ea9d" />
+		<rom name="games\TGFX16-CD\240pTestSuite-PCE_TG16-CDROM.chd" size="5609179" crc="d0f0c151" md5="bb6ea57ed22520fac36e6ec4fda4c674" sha1="0e98a80ed980bb8fe8556cfc8f13dd25756be338" />
+		<rom name="games\TGFX16-CD\240pTestSuite-PCE_TG16-SuperCDROM.chd" size="5581004" crc="9e7253d4" md5="f495fd16257a11b8fca8fbb2507b636b" sha1="e0484bfeadc4198e1c78a928f8e2aa2581ab090a" />
 		<rom name="games\TGFX16-CD\cd_bios.rom" size="262144" crc="9759a20d" md5="98d43a097a165b03df170fd5c2ad2c2f" sha1="7b3fa6c265d56687d6bff09da5d34caa92e8d2ce" />
 	</machine>
 </datafile>
