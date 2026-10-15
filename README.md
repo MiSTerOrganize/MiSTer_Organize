@@ -1,6 +1,6 @@
 # MiSTer Organize
 
-Tutorial Video: https://www.youtube.com/watch?v=mjGUGqpZ2uU
+Tutorial Video: https://www.youtube.com/watch?v=I62bHG8ubFE
 
 MiSTer Organize is a vibrant community dedicated to ROM management and organization. We're building custom DATs for RomVault, tailored to the MiSTer FPGA but adaptable for other emulation setups. Everyone's invited to contribute—your input makes a real difference! I share public updates on the 7th of every month, featuring fresh DATs you can grab from the Discord News Channel. Supporters unlock exclusive perks, like a private DAT and access to hidden server channels.
 
