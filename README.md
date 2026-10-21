@@ -12,7 +12,7 @@ Support me on Patreon:
 
 https://www.patreon.com/MiSTer_Organize
 
-Find me on Twitter and Discord:
+Find me on X and Discord:
 
 https://x.com/MiSTerOrganize
 
@@ -35,7 +35,7 @@ Once your ROMs are in ToSort, launch RomVault. On the left sidebar, hit these bu
 3. Find Fixes—identifies organization tweaks.
 4. Fix ROMs—shifts everything from ToSort to RomRoot in tidy folders.
 
-Finally, copy the sorted folders to your MiSTer storage device. Every set matches MiSTer's exact folder structure for seamless integration, so you can copy across whichever ones you collect: MiSTer_Console, MiSTer_Console_CD (or MiSTer_Console_CD_CHD if you prefer CHD), MiSTer_Computer, MiSTer_Arcade with MiSTer_Arcade_MAME and MiSTer_Arcade_HBMAME, and MiSTer_Extras, which carries the MiSTer system files themselves — cores, MGLs, filters, presets, palettes, borders and docs.
+Finally, copy the sorted folders to your MiSTer storage device. Every set matches MiSTer's exact folder structure for seamless integration, so you can copy across whichever ones you collect: MiSTer_Console, MiSTer_Console_CD (or MiSTer_Console_CD_CHD if you prefer CHD), MiSTer_Computer, MiSTer_Arcade_MAME, MiSTer_Arcade_HBMAME, and MiSTer_Extras, which carries the MiSTer system files themselves — cores, MGLs, filters, presets, palettes, borders and docs.
 
 Supporters also get the private sets: MiSTer_Console_Private, MiSTer_Extras_Private and MiSTer_Frontier.
 
@@ -49,7 +49,7 @@ DAT files usually follow one of two standards: either a variant on the XML-based
 
 # What is RomVault?
 
-RomVault is a tool for ROM management. It works with DAT files to sort the ROMs into folders. The DAT I provide is telling the files where they need to go. Let’s take the example of the Shinobi Neo Geo game. When you click Fix ROMs, Shinobi Neo Geo will go into the Neo Geo Core folder and then into the Unlicensed games folder. This all happens because that is the file destination I have set in the DAT file.
+RomVault is a tool for ROM management. It works with DAT files to sort the ROMs into folders. The DAT I provide is telling the files where they need to go. Let’s take the example of the Shinobi Neo Geo game. When you click Fix ROMs, Shinobi Neo Geo will go into the NEOGEO core folder and then into the 2 NEOGEO Supplement\1 Homebrew folder. This all happens because that is the file destination I have set in the DAT file.
 
 # RomVault Releases
 
@@ -77,19 +77,19 @@ The converter uses the exact chdman settings the shared DAT was built with, so t
 
 Also included in your update folder. When a new release comes out, you don't need to re-copy your whole library to your MiSTer drive or NAS — MiSTer Delta Sync compares the old and new DATs and copies across only what actually changed. It updates your DATs for you, keeps the previous ones in a DAT Archive so you can roll back, and can also rebuild a drive that has drifted out of sync. Supporters can sign in with Patreon from inside the tool to unlock the private DATs.
 
+# MiSTer NeoGeo Converter
+
+Also included in your update folder. The MiSTer NeoGeo core plays .neo files, and this tool builds them from the FinalBurn Neo Neo Geo ROM zips. It uses the same files the MiSTer Organize NeoGeo library was built from, so it reproduces that library rather than approximating it, and files the games into the same 1 NEOGEO and 2 NEOGEO Supplement folders. Keep one set of zips and rebuild the .neo files whenever you need them.
+
 # RetroNAS
 
-MiSTer Organize is available as a service in RetroNAS. So users who have RetroNAS serving their games over the network can enable the service to help organize their games.
+MiSTer Organize is available in RetroNAS, so users who have RetroNAS serving their games over the network can use it to organize their games. In the RetroNAS menu go to Main, then Experimental, then mister-organize, and choose Install. It needs an x86_64 (64-bit PC) RetroNAS system; it does not install on a Raspberry Pi.
 
 RetroNAS Wiki Links:
 
 https://github.com/retronas/retronas/wiki/MiSTer-FPGA
 
 https://github.com/retronas/retronas/wiki/MiSTer-Organize
-
-# Show Your Support
-
-Loving this project? Support me here, https://www.patreon.com/MiSTer_Organize
 
 # Credits
 
@@ -115,6 +115,8 @@ No-Intro for its database of best available ROMs and digital games.
 
 Redump for its disc preservation database.
 
+FinalBurn Neo team for its Neo Geo database and driver source.
+
 Hardware Target Game Database for archival efforts of the highest quality ROM dumps.
 
 ScreenScraper.fr for its game database.
@@ -138,3 +140,11 @@ TeamC for assistance and contributions to the project.
 RetroNAS Team for adding MiSTer Organize support.
 
 Big thank you to all my Patreon supporters! Your support is sincerely appreciated!
+
+# Support
+
+<p align="center">
+  <a href="https://www.patreon.com/join/MiSTer_Organize">
+    <img src="assets/patreon_banner.jpg" alt="Support MiSTer Organize on Patreon" width="500">
+  </a>
+</p>
