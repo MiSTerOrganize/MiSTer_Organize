@@ -1,6 +1,6 @@
 # MiSTer Organize
 
-[![Sponsor](https://img.shields.io/github/sponsors/MiSTerOrganize?label=Sponsor&logo=GitHub)](https://github.com/sponsors/MiSTerOrganize)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=GitHub)](https://github.com/sponsors/MiSTerOrganize)
 
 Tutorial Video: https://www.youtube.com/watch?v=I62bHG8ubFE
 
