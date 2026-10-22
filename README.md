@@ -1,6 +1,6 @@
 # MiSTer Organize
 
-<a href="https://github.com/sponsors/MiSTerOrganize"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=GitHub&style=for-the-badge" alt="Sponsor" height="40"></a>
+<a href="https://github.com/sponsors/MiSTerOrganize"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=GitHub&style=for-the-badge" alt="Sponsor" width="190"></a>
 
 Tutorial Video: https://www.youtube.com/watch?v=I62bHG8ubFE
 
